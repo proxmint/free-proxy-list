@@ -1,9 +1,9 @@
 # Free Proxy List — checked every 30 minutes
 
-**806 live proxies** · 73 countries · updated **2026-08-11 00:57 UTC**
+**806 live proxies** · 73 countries · updated **2026-08-11 01:27 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
-request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 1 minutes).
+request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 31 minutes).
 Entries that stop answering are dropped, not left to rot. That is the only thing
 this repo does differently, and it is the whole point: most public lists are
 unvalidated scrapes where the majority of entries are already dead when you
@@ -13,7 +13,7 @@ download them.
 |---|---|
 | Live now | **806** |
 | Countries | 73 |
-| Median latency | 2245 ms |
+| Median latency | 2344 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
@@ -25,7 +25,7 @@ download them.
 | [`proxies/https.txt`](proxies/https.txt) | 49 | `ip:port` |
 | [`proxies/socks4.txt`](proxies/socks4.txt) | 174 | `ip:port` |
 | [`proxies/socks5.txt`](proxies/socks5.txt) | 175 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 461 | `protocol://ip:port`, no leak found |
+| [`proxies/elite.txt`](proxies/elite.txt) | 456 | `protocol://ip:port`, no leak found |
 | [`proxies/all.json`](proxies/all.json) | 806 | country, anonymity, latency, uptime, score |
 
 Top countries: United States (97) · Russia (59) · China (44) · Vietnam (43) · France (40) · Indonesia (39) · Germany (34) · Singapore (34) · India (29) · Japan (18)
