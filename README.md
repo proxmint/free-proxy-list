@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**681 live proxies** · 63 countries · updated **2026-08-13 05:27 UTC**
+**681 live proxies** · 63 countries · updated **2026-08-13 05:57 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 31 minutes).
@@ -13,7 +13,7 @@ download them.
 |---|---|
 | Live now | **681** |
 | Countries | 63 |
-| Median latency | 2298 ms |
+| Median latency | 2443 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
@@ -28,7 +28,7 @@ download them.
 | [`proxies/elite.txt`](proxies/elite.txt) | 401 | `protocol://ip:port`, no leak found |
 | [`proxies/all.json`](proxies/all.json) | 681 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (77) · Russia (51) · Vietnam (47) · China (43) · Indonesia (39) · Switzerland (36) · France (36) · Germany (34) · Singapore (23) · India (21)
+Top countries: United States (78) · Russia (51) · Vietnam (46) · China (42) · Indonesia (41) · Switzerland (36) · France (35) · Germany (33) · Singapore (23) · India (21)
 
 ## Use it
 
@@ -53,9 +53,9 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 251 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 249 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 68 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 174 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 176 |
 | [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 188 |
 
 ## Fields in `all.json`
