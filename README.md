@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**699 live proxies** · 77 countries · updated **2026-08-16 03:26 UTC**
+**701 live proxies** · 77 countries · updated **2026-08-16 03:56 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **6.0 hours** (median 30 minutes).
@@ -11,24 +11,24 @@ download them.
 
 | | |
 |---|---|
-| Live now | **699** |
+| Live now | **701** |
 | Countries | 77 |
-| Median latency | 2218 ms |
+| Median latency | 2342 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 699 | `protocol://ip:port` |
+| [`proxies/all.txt`](proxies/all.txt) | 701 | `protocol://ip:port` |
 | [`proxies/http.txt`](proxies/http.txt) | 327 | `ip:port` |
 | [`proxies/https.txt`](proxies/https.txt) | 37 | `ip:port` |
 | [`proxies/socks4.txt`](proxies/socks4.txt) | 169 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 166 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 421 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 699 | country, anonymity, latency, uptime, score |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 168 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 425 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 701 | country, anonymity, latency, uptime, score |
 
-Top countries: Indonesia (83) · Russia (68) · United States (67) · China (45) · Vietnam (40) · Germany (25) · France (24) · Singapore (19) · Mexico (17) · India (15)
+Top countries: Indonesia (83) · Russia (69) · United States (68) · China (45) · Vietnam (40) · Germany (25) · France (24) · Singapore (19) · Mexico (17) · India (15)
 
 ## Use it
 
@@ -55,8 +55,8 @@ live entries each source contributed. Go star them:
 |---|---|
 | [monosans/proxy-list](https://github.com/monosans/proxy-list) | 265 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 51 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 228 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 155 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 229 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 156 |
 
 ## Fields in `all.json`
 
@@ -97,6 +97,17 @@ endorse any of them.
 
 Needing proxies that stay up is a different problem, and the one [Proxmint](https://proxmint.com) sells.
 
+## Licence
+
+Published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see [`LICENSE`](LICENSE). Use this
+list for anything, including commercially: republish it, ship it inside a product,
+train on it. The one condition is credit — name Proxmint and link back to
+<https://proxmint.com/free-proxies>. Nothing here is warranted; see the warning above.
+
+The proxies themselves are public infrastructure we did not create and do not own.
+What is licensed is this compilation: the selection, the validation results, and the
+measured fields attached to each row.
+
 ---
 
-*Regenerated automatically every 30 minutes by [Proxmint](https://proxmint.com). Data is public information, published as-is.*
+*Regenerated automatically every 30 minutes by [Proxmint](https://proxmint.com).*
