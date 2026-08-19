@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**634 live proxies** · 64 countries · updated **2026-08-19 02:56 UTC**
+**634 live proxies** · 64 countries · updated **2026-08-19 03:26 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
@@ -13,7 +13,7 @@ download them.
 |---|---|
 | Live now | **634** |
 | Countries | 64 |
-| Median latency | 2346 ms |
+| Median latency | 2420 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
@@ -25,10 +25,10 @@ download them.
 | [`proxies/https.txt`](proxies/https.txt) | 28 | `ip:port` |
 | [`proxies/socks4.txt`](proxies/socks4.txt) | 128 | `ip:port` |
 | [`proxies/socks5.txt`](proxies/socks5.txt) | 129 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 336 | `protocol://ip:port`, no leak found |
+| [`proxies/elite.txt`](proxies/elite.txt) | 334 | `protocol://ip:port`, no leak found |
 | [`proxies/all.json`](proxies/all.json) | 634 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (84) · China (50) · Russia (38) · India (26) · France (25) · Singapore (25) · Hong Kong (23) · Indonesia (23) · Brazil (22) · Japan (22)
+Top countries: United States (83) · China (51) · Russia (39) · India (26) · France (25) · Singapore (25) · Hong Kong (23) · Indonesia (23) · Japan (22) · Brazil (22)
 
 ## Use it
 
@@ -55,8 +55,8 @@ live entries each source contributed. Go star them:
 |---|---|
 | [monosans/proxy-list](https://github.com/monosans/proxy-list) | 167 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 37 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 161 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 269 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 162 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 268 |
 
 ## Fields in `all.json`
 
