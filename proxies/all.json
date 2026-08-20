@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-20T16:26:17.931Z",
+  "updatedAt": "2026-08-20T16:56:17.065Z",
   "revalidateMinutes": 30,
-  "count": 500,
+  "count": 509,
   "source": "https://proxmint.com/free-proxies",
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
@@ -13,7 +13,7 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 170,
+      "latencyMs": 176,
       "uptimePct": 99,
       "score": 98
     },
@@ -24,53 +24,9 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": null,
-      "latencyMs": 425,
+      "latencyMs": 319,
       "uptimePct": 99,
-      "score": 96
-    },
-    {
-      "ip": "185.141.26.131",
-      "port": 3128,
-      "protocol": "http",
-      "country": "ro",
-      "countryName": "Romania",
-      "anonymity": "anonymous",
-      "latencyMs": 672,
-      "uptimePct": 99,
-      "score": 94
-    },
-    {
-      "ip": "204.76.203.9",
-      "port": 3128,
-      "protocol": "http",
-      "country": "nl",
-      "countryName": "Netherlands",
-      "anonymity": "elite",
-      "latencyMs": 703,
-      "uptimePct": 99,
-      "score": 94
-    },
-    {
-      "ip": "204.76.203.9",
-      "port": 8080,
-      "protocol": "http",
-      "country": "nl",
-      "countryName": "Netherlands",
-      "anonymity": "elite",
-      "latencyMs": 705,
-      "uptimePct": 99,
-      "score": 94
-    },
-    {
-      "ip": "69.87.216.54",
-      "port": 7989,
-      "protocol": "https",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 610,
-      "uptimePct": 99,
-      "score": 94
+      "score": 97
     },
     {
       "ip": "216.106.182.177",
@@ -79,9 +35,31 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": "anonymous",
-      "latencyMs": 814,
+      "latencyMs": 459,
       "uptimePct": 99,
-      "score": 93
+      "score": 96
+    },
+    {
+      "ip": "64.112.184.210",
+      "port": 3128,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 226,
+      "uptimePct": 97,
+      "score": 96
+    },
+    {
+      "ip": "216.106.182.177",
+      "port": 3128,
+      "protocol": "https",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "anonymous",
+      "latencyMs": 477,
+      "uptimePct": 99,
+      "score": 95
     },
     {
       "ip": "69.87.216.54",
@@ -90,7 +68,51 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 787,
+      "latencyMs": 514,
+      "uptimePct": 99,
+      "score": 95
+    },
+    {
+      "ip": "69.87.216.54",
+      "port": 7989,
+      "protocol": "https",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 539,
+      "uptimePct": 99,
+      "score": 95
+    },
+    {
+      "ip": "185.141.26.131",
+      "port": 3128,
+      "protocol": "http",
+      "country": "ro",
+      "countryName": "Romania",
+      "anonymity": "anonymous",
+      "latencyMs": 679,
+      "uptimePct": 99,
+      "score": 94
+    },
+    {
+      "ip": "204.76.203.9",
+      "port": 3128,
+      "protocol": "http",
+      "country": "nl",
+      "countryName": "Netherlands",
+      "anonymity": "elite",
+      "latencyMs": 720,
+      "uptimePct": 99,
+      "score": 93
+    },
+    {
+      "ip": "204.76.203.9",
+      "port": 8080,
+      "protocol": "http",
+      "country": "nl",
+      "countryName": "Netherlands",
+      "anonymity": "elite",
+      "latencyMs": 719,
       "uptimePct": 99,
       "score": 93
     },
@@ -101,42 +123,9 @@
       "country": "de",
       "countryName": "Germany",
       "anonymity": null,
-      "latencyMs": 806,
+      "latencyMs": 745,
       "uptimePct": 99,
       "score": 93
-    },
-    {
-      "ip": "181.39.25.196",
-      "port": 8118,
-      "protocol": "https",
-      "country": "ec",
-      "countryName": "Ecuador",
-      "anonymity": "elite",
-      "latencyMs": 941,
-      "uptimePct": 99,
-      "score": 92
-    },
-    {
-      "ip": "64.112.184.210",
-      "port": 3128,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 649,
-      "uptimePct": 96,
-      "score": 92
-    },
-    {
-      "ip": "181.39.25.196",
-      "port": 8118,
-      "protocol": "http",
-      "country": "ec",
-      "countryName": "Ecuador",
-      "anonymity": "elite",
-      "latencyMs": 1006,
-      "uptimePct": 99,
-      "score": 91
     },
     {
       "ip": "190.97.236.129",
@@ -145,31 +134,31 @@
       "country": "ve",
       "countryName": "Venezuela",
       "anonymity": "anonymous",
-      "latencyMs": 692,
-      "uptimePct": 94,
+      "latencyMs": 647,
+      "uptimePct": 96,
+      "score": 92
+    },
+    {
+      "ip": "181.39.25.196",
+      "port": 8118,
+      "protocol": "https",
+      "country": "ec",
+      "countryName": "Ecuador",
+      "anonymity": "elite",
+      "latencyMs": 992,
+      "uptimePct": 99,
       "score": 91
     },
     {
-      "ip": "130.110.103.245",
-      "port": 3128,
+      "ip": "181.39.25.196",
+      "port": 8118,
       "protocol": "http",
-      "country": "sa",
-      "countryName": "Saudi Arabia",
-      "anonymity": "anonymous",
-      "latencyMs": 1155,
-      "uptimePct": 99,
-      "score": 90
-    },
-    {
-      "ip": "85.209.120.145",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "ua",
-      "countryName": "Ukraine",
+      "country": "ec",
+      "countryName": "Ecuador",
       "anonymity": "elite",
-      "latencyMs": 1165,
+      "latencyMs": 1010,
       "uptimePct": 99,
-      "score": 90
+      "score": 91
     },
     {
       "ip": "103.237.102.191",
@@ -178,42 +167,53 @@
       "country": "de",
       "countryName": "Germany",
       "anonymity": "elite",
-      "latencyMs": 800,
-      "uptimePct": 93,
-      "score": 89
+      "latencyMs": 914,
+      "uptimePct": 95,
+      "score": 90
     },
     {
-      "ip": "185.200.188.234",
-      "port": 10001,
-      "protocol": "http",
+      "ip": "130.193.43.183",
+      "port": 1080,
+      "protocol": "socks5",
       "country": "ru",
       "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 1221,
+      "latencyMs": 1108,
+      "uptimePct": 99,
+      "score": 90
+    },
+    {
+      "ip": "130.110.103.245",
+      "port": 3128,
+      "protocol": "http",
+      "country": "sa",
+      "countryName": "Saudi Arabia",
+      "anonymity": "anonymous",
+      "latencyMs": 1201,
       "uptimePct": 99,
       "score": 89
     },
     {
-      "ip": "3.238.2.73",
-      "port": 1080,
+      "ip": "144.91.121.61",
+      "port": 1088,
       "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
+      "country": "fr",
+      "countryName": "France",
       "anonymity": "elite",
-      "latencyMs": 224,
-      "uptimePct": 84,
+      "latencyMs": 1265,
+      "uptimePct": 99,
       "score": 89
     },
     {
-      "ip": "103.237.102.191",
-      "port": 11111,
+      "ip": "153.80.240.37",
+      "port": 8080,
       "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": "elite",
-      "latencyMs": 713,
-      "uptimePct": 90,
-      "score": 88
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": null,
+      "latencyMs": 737,
+      "uptimePct": 92,
+      "score": 89
     },
     {
       "ip": "181.78.74.252",
@@ -222,8 +222,52 @@
       "country": "co",
       "countryName": "Colombia",
       "anonymity": "anonymous",
-      "latencyMs": 1315,
+      "latencyMs": 1288,
       "uptimePct": 99,
+      "score": 89
+    },
+    {
+      "ip": "95.211.174.135",
+      "port": 3128,
+      "protocol": "https",
+      "country": "nl",
+      "countryName": "Netherlands",
+      "anonymity": "anonymous",
+      "latencyMs": 963,
+      "uptimePct": 95,
+      "score": 89
+    },
+    {
+      "ip": "101.36.104.46",
+      "port": 10808,
+      "protocol": "socks5",
+      "country": "jp",
+      "countryName": "Japan",
+      "anonymity": "elite",
+      "latencyMs": 1353,
+      "uptimePct": 99,
+      "score": 88
+    },
+    {
+      "ip": "150.230.249.50",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "kr",
+      "countryName": "South Korea",
+      "anonymity": "elite",
+      "latencyMs": 1352,
+      "uptimePct": 99,
+      "score": 88
+    },
+    {
+      "ip": "176.111.37.216",
+      "port": 39811,
+      "protocol": "http",
+      "country": "ua",
+      "countryName": "Ukraine",
+      "anonymity": "anonymous",
+      "latencyMs": 1120,
+      "uptimePct": 95,
       "score": 88
     },
     {
@@ -233,63 +277,85 @@
       "country": "co",
       "countryName": "Colombia",
       "anonymity": "anonymous",
-      "latencyMs": 1331,
+      "latencyMs": 1309,
       "uptimePct": 99,
       "score": 88
     },
     {
-      "ip": "202.5.50.151",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "bd",
-      "countryName": "Bangladesh",
+      "ip": "185.200.188.234",
+      "port": 10001,
+      "protocol": "http",
+      "country": "ru",
+      "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 1349,
-      "uptimePct": 98,
+      "latencyMs": 1321,
+      "uptimePct": 99,
       "score": 88
+    },
+    {
+      "ip": "95.31.16.116",
+      "port": 1081,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 1360,
+      "uptimePct": 99,
+      "score": 88
+    },
+    {
+      "ip": "31.77.145.95",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 965,
+      "uptimePct": 92,
+      "score": 87
+    },
+    {
+      "ip": "49.51.253.118",
+      "port": 8888,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1038,
+      "uptimePct": 93,
+      "score": 87
     },
     {
       "ip": "95.211.174.135",
       "port": 3128,
-      "protocol": "https",
+      "protocol": "http",
       "country": "nl",
-      "countryName": "Netherlands",
+      "countryName": "The Netherlands",
       "anonymity": "anonymous",
-      "latencyMs": 971,
-      "uptimePct": 93,
-      "score": 88
-    },
-    {
-      "ip": "216.106.182.177",
-      "port": 3128,
-      "protocol": "https",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "anonymous",
-      "latencyMs": 1527,
-      "uptimePct": 99,
+      "latencyMs": 922,
+      "uptimePct": 91,
       "score": 87
     },
     {
-      "ip": "1.231.81.166",
-      "port": 3128,
-      "protocol": "https",
-      "country": "kr",
-      "countryName": "South Korea",
-      "anonymity": "anonymous",
-      "latencyMs": 1769,
-      "uptimePct": 99,
+      "ip": "103.237.102.191",
+      "port": 11111,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 1270,
+      "uptimePct": 93,
       "score": 85
     },
     {
-      "ip": "150.230.249.50",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "kr",
-      "countryName": "South Korea",
-      "anonymity": "elite",
-      "latencyMs": 1772,
-      "uptimePct": 99,
+      "ip": "176.111.37.5",
+      "port": 39811,
+      "protocol": "http",
+      "country": "ua",
+      "countryName": "Ukraine",
+      "anonymity": "anonymous",
+      "latencyMs": 1315,
+      "uptimePct": 94,
       "score": 85
     },
     {
@@ -299,20 +365,9 @@
       "country": "fr",
       "countryName": "France",
       "anonymity": "elite",
-      "latencyMs": 1004,
-      "uptimePct": 89,
+      "latencyMs": 1248,
+      "uptimePct": 92,
       "score": 85
-    },
-    {
-      "ip": "144.91.121.61",
-      "port": 1088,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 1841,
-      "uptimePct": 99,
-      "score": 84
     },
     {
       "ip": "45.66.249.187",
@@ -321,30 +376,52 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 499,
-      "uptimePct": 80,
+      "latencyMs": 847,
+      "uptimePct": 86,
+      "score": 85
+    },
+    {
+      "ip": "34.69.61.247",
+      "port": 80,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "anonymous",
+      "latencyMs": 658,
+      "uptimePct": 83,
       "score": 84
     },
     {
-      "ip": "95.211.174.135",
-      "port": 3128,
-      "protocol": "http",
+      "ip": "45.61.129.165",
+      "port": 9050,
+      "protocol": "socks5",
       "country": "nl",
-      "countryName": "The Netherlands",
-      "anonymity": "anonymous",
-      "latencyMs": 964,
-      "uptimePct": 87,
+      "countryName": "Netherlands",
+      "anonymity": "elite",
+      "latencyMs": 1884,
+      "uptimePct": 99,
       "score": 84
     },
     {
-      "ip": "1.231.81.166",
+      "ip": "98.83.197.228",
       "port": 3128,
       "protocol": "http",
-      "country": "kr",
-      "countryName": "South Korea",
+      "country": "us",
+      "countryName": "United States",
       "anonymity": "anonymous",
-      "latencyMs": 1927,
-      "uptimePct": 99,
+      "latencyMs": 877,
+      "uptimePct": 85,
+      "score": 84
+    },
+    {
+      "ip": "101.36.104.239",
+      "port": 10808,
+      "protocol": "socks5",
+      "country": "jp",
+      "countryName": "Japan",
+      "anonymity": "elite",
+      "latencyMs": 1349,
+      "uptimePct": 90,
       "score": 83
     },
     {
@@ -354,19 +431,19 @@
       "country": "bd",
       "countryName": "Bangladesh",
       "anonymity": "elite",
-      "latencyMs": 1941,
+      "latencyMs": 1943,
       "uptimePct": 99,
       "score": 83
     },
     {
-      "ip": "114.236.137.41",
-      "port": 21000,
-      "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "anonymous",
-      "latencyMs": 1979,
-      "uptimePct": 99,
+      "ip": "121.169.46.116",
+      "port": 1090,
+      "protocol": "socks5",
+      "country": "kr",
+      "countryName": "South Korea",
+      "anonymity": "elite",
+      "latencyMs": 1628,
+      "uptimePct": 94,
       "score": 83
     },
     {
@@ -376,152 +453,64 @@
       "country": "in",
       "countryName": "India",
       "anonymity": "elite",
-      "latencyMs": 1939,
+      "latencyMs": 1969,
       "uptimePct": 99,
       "score": 83
     },
     {
-      "ip": "34.69.61.247",
-      "port": 80,
-      "protocol": "http",
+      "ip": "3.238.2.73",
+      "port": 1080,
+      "protocol": "socks5",
       "country": "us",
       "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1205,
+      "uptimePct": 89,
+      "score": 83
+    },
+    {
+      "ip": "1.231.81.166",
+      "port": 3128,
+      "protocol": "https",
+      "country": "kr",
+      "countryName": "South Korea",
       "anonymity": "anonymous",
-      "latencyMs": 413,
-      "uptimePct": 75,
+      "latencyMs": 2080,
+      "uptimePct": 99,
       "score": 82
     },
     {
-      "ip": "176.111.37.5",
-      "port": 39811,
+      "ip": "1.231.81.166",
+      "port": 3128,
       "protocol": "http",
-      "country": "ua",
-      "countryName": "Ukraine",
+      "country": "kr",
+      "countryName": "South Korea",
       "anonymity": "anonymous",
-      "latencyMs": 1731,
-      "uptimePct": 92,
+      "latencyMs": 2107,
+      "uptimePct": 99,
+      "score": 82
+    },
+    {
+      "ip": "152.228.237.108",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 655,
+      "uptimePct": 78,
       "score": 81
     },
     {
-      "ip": "130.193.43.183",
+      "ip": "152.228.237.108",
       "port": 1080,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2328,
-      "uptimePct": 99,
-      "score": 80
-    },
-    {
-      "ip": "176.111.37.216",
-      "port": 39811,
-      "protocol": "http",
-      "country": "ua",
-      "countryName": "Ukraine",
-      "anonymity": "anonymous",
-      "latencyMs": 1869,
-      "uptimePct": 93,
-      "score": 80
-    },
-    {
-      "ip": "45.76.164.255",
-      "port": 1085,
       "protocol": "socks4",
-      "country": "us",
-      "countryName": "United States",
+      "country": "fr",
+      "countryName": "France",
       "anonymity": "elite",
-      "latencyMs": 1134,
-      "uptimePct": 82,
-      "score": 80
-    },
-    {
-      "ip": "77.239.106.24",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 599,
-      "uptimePct": 75,
-      "score": 80
-    },
-    {
-      "ip": "95.31.16.116",
-      "port": 1081,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2323,
-      "uptimePct": 99,
-      "score": 80
-    },
-    {
-      "ip": "121.169.46.116",
-      "port": 1090,
-      "protocol": "socks5",
-      "country": "kr",
-      "countryName": "South Korea",
-      "anonymity": "elite",
-      "latencyMs": 1880,
-      "uptimePct": 91,
-      "score": 79
-    },
-    {
-      "ip": "101.36.104.46",
-      "port": 10808,
-      "protocol": "socks5",
-      "country": "jp",
-      "countryName": "Japan",
-      "anonymity": "elite",
-      "latencyMs": 2465,
-      "uptimePct": 98,
-      "score": 78
-    },
-    {
-      "ip": "153.80.240.37",
-      "port": 8080,
-      "protocol": "http",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": null,
-      "latencyMs": 1769,
-      "uptimePct": 88,
-      "score": 78
-    },
-    {
-      "ip": "101.36.104.239",
-      "port": 10808,
-      "protocol": "socks5",
-      "country": "jp",
-      "countryName": "Japan",
-      "anonymity": "elite",
-      "latencyMs": 1709,
-      "uptimePct": 85,
-      "score": 77
-    },
-    {
-      "ip": "45.61.129.165",
-      "port": 9050,
-      "protocol": "socks5",
-      "country": "nl",
-      "countryName": "Netherlands",
-      "anonymity": "elite",
-      "latencyMs": 2796,
-      "uptimePct": 99,
-      "score": 76
-    },
-    {
-      "ip": "45.76.164.255",
-      "port": 1085,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 1182,
-      "uptimePct": 76,
-      "score": 76
+      "latencyMs": 579,
+      "uptimePct": 77,
+      "score": 81
     },
     {
       "ip": "190.97.236.128",
@@ -530,7 +519,139 @@
       "country": "ve",
       "countryName": "Venezuela",
       "anonymity": "anonymous",
-      "latencyMs": 855,
+      "latencyMs": 734,
+      "uptimePct": 79,
+      "score": 81
+    },
+    {
+      "ip": "43.162.94.99",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 597,
+      "uptimePct": 77,
+      "score": 81
+    },
+    {
+      "ip": "45.66.249.187",
+      "port": 8080,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 551,
+      "uptimePct": 76,
+      "score": 81
+    },
+    {
+      "ip": "18.157.123.132",
+      "port": 3128,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": null,
+      "latencyMs": 737,
+      "uptimePct": 75,
+      "score": 79
+    },
+    {
+      "ip": "27.185.218.213",
+      "port": 17981,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "elite",
+      "latencyMs": 2437,
+      "uptimePct": 99,
+      "score": 79
+    },
+    {
+      "ip": "37.59.125.131",
+      "port": 8888,
+      "protocol": "http",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 1230,
+      "uptimePct": 80,
+      "score": 78
+    },
+    {
+      "ip": "108.131.109.106",
+      "port": 56761,
+      "protocol": "http",
+      "country": "ie",
+      "countryName": "Ireland",
+      "anonymity": null,
+      "latencyMs": 1371,
+      "uptimePct": 80,
+      "score": 77
+    },
+    {
+      "ip": "122.246.3.12",
+      "port": 17981,
+      "protocol": "https",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "elite",
+      "latencyMs": 1868,
+      "uptimePct": 85,
+      "score": 76
+    },
+    {
+      "ip": "14.139.235.82",
+      "port": 3128,
+      "protocol": "https",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": "anonymous",
+      "latencyMs": 2219,
+      "uptimePct": 90,
+      "score": 76
+    },
+    {
+      "ip": "190.0.246.210",
+      "port": 4040,
+      "protocol": "http",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": null,
+      "latencyMs": 1246,
+      "uptimePct": 78,
+      "score": 76
+    },
+    {
+      "ip": "3.128.83.74",
+      "port": 17000,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1271,
+      "uptimePct": 78,
+      "score": 76
+    },
+    {
+      "ip": "190.0.246.211",
+      "port": 4040,
+      "protocol": "http",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": null,
+      "latencyMs": 895,
+      "uptimePct": 71,
+      "score": 75
+    },
+    {
+      "ip": "213.136.92.91",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 836,
       "uptimePct": 70,
       "score": 75
     },
@@ -541,19 +662,30 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 422,
-      "uptimePct": 64,
+      "latencyMs": 1262,
+      "uptimePct": 75,
       "score": 75
     },
     {
-      "ip": "14.139.235.82",
-      "port": 3128,
-      "protocol": "https",
-      "country": "in",
-      "countryName": "India",
+      "ip": "114.236.137.41",
+      "port": 21000,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
       "anonymity": "anonymous",
-      "latencyMs": 2121,
-      "uptimePct": 86,
+      "latencyMs": 4556,
+      "uptimePct": 99,
+      "score": 74
+    },
+    {
+      "ip": "147.45.60.136",
+      "port": 1082,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 318,
+      "uptimePct": 61,
       "score": 74
     },
     {
@@ -563,20 +695,922 @@
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 3096,
+      "latencyMs": 4757,
       "uptimePct": 99,
       "score": 74
     },
     {
-      "ip": "27.185.218.213",
+      "ip": "45.43.63.37",
+      "port": 10808,
+      "protocol": "socks5",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": "elite",
+      "latencyMs": 3557,
+      "uptimePct": 98,
+      "score": 74
+    },
+    {
+      "ip": "65.21.252.66",
+      "port": 10811,
+      "protocol": "socks5",
+      "country": "fi",
+      "countryName": "Finland",
+      "anonymity": "elite",
+      "latencyMs": 2098,
+      "uptimePct": 84,
+      "score": 73
+    },
+    {
+      "ip": "147.45.60.250",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 294,
+      "uptimePct": 58,
+      "score": 72
+    },
+    {
+      "ip": "59.152.97.233",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "bd",
+      "countryName": "Bangladesh",
+      "anonymity": "elite",
+      "latencyMs": 2308,
+      "uptimePct": 86,
+      "score": 72
+    },
+    {
+      "ip": "14.139.235.82",
+      "port": 3128,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": "anonymous",
+      "latencyMs": 3673,
+      "uptimePct": 94,
+      "score": 71
+    },
+    {
+      "ip": "152.32.168.221",
+      "port": 10808,
+      "protocol": "socks5",
+      "country": "hk",
+      "countryName": "Hong Kong",
+      "anonymity": "elite",
+      "latencyMs": 5215,
+      "uptimePct": 91,
+      "score": 70
+    },
+    {
+      "ip": "213.136.77.119",
+      "port": 8888,
+      "protocol": "http",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 1120,
+      "uptimePct": 66,
+      "score": 70
+    },
+    {
+      "ip": "47.84.84.1",
+      "port": 3128,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": null,
+      "latencyMs": 4503,
+      "uptimePct": 91,
+      "score": 70
+    },
+    {
+      "ip": "152.42.167.241",
+      "port": 3128,
+      "protocol": "https",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": "elite",
+      "latencyMs": 1578,
+      "uptimePct": 70,
+      "score": 69
+    },
+    {
+      "ip": "38.49.210.79",
+      "port": 40000,
+      "protocol": "socks5",
+      "country": "ca",
+      "countryName": "Canada",
+      "anonymity": "elite",
+      "latencyMs": 1240,
+      "uptimePct": 65,
+      "score": 69
+    },
+    {
+      "ip": "95.40.233.164",
+      "port": 3128,
+      "protocol": "http",
+      "country": "hk",
+      "countryName": "Hong Kong",
+      "anonymity": "elite",
+      "latencyMs": 3881,
+      "uptimePct": 90,
+      "score": 69
+    },
+    {
+      "ip": "47.121.139.13",
+      "port": 3128,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": null,
+      "latencyMs": 3140,
+      "uptimePct": 89,
+      "score": 68
+    },
+    {
+      "ip": "13.38.27.183",
+      "port": 33033,
+      "protocol": "http",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": null,
+      "latencyMs": 1798,
+      "uptimePct": 70,
+      "score": 67
+    },
+    {
+      "ip": "77.239.106.24",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 2781,
+      "uptimePct": 83,
+      "score": 67
+    },
+    {
+      "ip": "81.168.119.85",
+      "port": 443,
+      "protocol": "socks4",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 1539,
+      "uptimePct": 66,
+      "score": 67
+    },
+    {
+      "ip": "154.203.132.81",
+      "port": 5080,
+      "protocol": "socks5",
+      "country": "sc",
+      "countryName": "Seychelles",
+      "anonymity": "elite",
+      "latencyMs": 1454,
+      "uptimePct": 64,
+      "score": 66
+    },
+    {
+      "ip": "186.96.16.117",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "mx",
+      "countryName": "Mexico",
+      "anonymity": "elite",
+      "latencyMs": 1659,
+      "uptimePct": 67,
+      "score": 66
+    },
+    {
+      "ip": "45.156.223.54",
+      "port": 3128,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 954,
+      "uptimePct": 57,
+      "score": 66
+    },
+    {
+      "ip": "45.156.223.55",
+      "port": 3128,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 1033,
+      "uptimePct": 58,
+      "score": 66
+    },
+    {
+      "ip": "42.96.18.62",
+      "port": 1311,
+      "protocol": "http",
+      "country": "vn",
+      "countryName": "Vietnam",
+      "anonymity": "anonymous",
+      "latencyMs": 3866,
+      "uptimePct": 83,
+      "score": 65
+    },
+    {
+      "ip": "3.19.213.118",
+      "port": 5001,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 1423,
+      "uptimePct": 59,
+      "score": 64
+    },
+    {
+      "ip": "43.99.100.108",
+      "port": 3128,
+      "protocol": "http",
+      "country": "hk",
+      "countryName": "Hong Kong SAR China",
+      "anonymity": "elite",
+      "latencyMs": 2127,
+      "uptimePct": 69,
+      "score": 64
+    },
+    {
+      "ip": "45.61.129.165",
+      "port": 9050,
+      "protocol": "socks4",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 2690,
+      "uptimePct": 78,
+      "score": 64
+    },
+    {
+      "ip": "123.58.219.171",
+      "port": 10808,
+      "protocol": "socks5",
+      "country": "hk",
+      "countryName": "Hong Kong",
+      "anonymity": "elite",
+      "latencyMs": 1937,
+      "uptimePct": 65,
+      "score": 63
+    },
+    {
+      "ip": "124.248.177.43",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "kh",
+      "countryName": "Cambodia",
+      "anonymity": "elite",
+      "latencyMs": 1836,
+      "uptimePct": 63,
+      "score": 63
+    },
+    {
+      "ip": "13.38.27.183",
+      "port": 883,
+      "protocol": "http",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": null,
+      "latencyMs": 1638,
+      "uptimePct": 62,
+      "score": 63
+    },
+    {
+      "ip": "43.162.94.99",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 2754,
+      "uptimePct": 76,
+      "score": 63
+    },
+    {
+      "ip": "78.159.131.108",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "al",
+      "countryName": "Albania",
+      "anonymity": "elite",
+      "latencyMs": 707,
+      "uptimePct": 48,
+      "score": 63
+    },
+    {
+      "ip": "89.23.102.250",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 830,
+      "uptimePct": 50,
+      "score": 63
+    },
+    {
+      "ip": "103.177.118.145",
+      "port": 8118,
+      "protocol": "http",
+      "country": "bd",
+      "countryName": "Bangladesh",
+      "anonymity": "anonymous",
+      "latencyMs": 2843,
+      "uptimePct": 77,
+      "score": 62
+    },
+    {
+      "ip": "13.221.202.200",
+      "port": 3128,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "anonymous",
+      "latencyMs": 5002,
+      "uptimePct": 78,
+      "score": 62
+    },
+    {
+      "ip": "152.42.167.241",
+      "port": 3128,
+      "protocol": "http",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": null,
+      "latencyMs": 1975,
+      "uptimePct": 64,
+      "score": 62
+    },
+    {
+      "ip": "193.25.215.182",
+      "port": 22222,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1745,
+      "uptimePct": 60,
+      "score": 62
+    },
+    {
+      "ip": "115.231.181.40",
+      "port": 8128,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "anonymous",
+      "latencyMs": 1677,
+      "uptimePct": 58,
+      "score": 61
+    },
+    {
+      "ip": "149.62.186.244",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "it",
+      "countryName": "Italy",
+      "anonymity": "elite",
+      "latencyMs": 4224,
+      "uptimePct": 76,
+      "score": 61
+    },
+    {
+      "ip": "95.31.158.48",
+      "port": 2080,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 3217,
+      "uptimePct": 76,
+      "score": 61
+    },
+    {
+      "ip": "114.94.148.37",
+      "port": 18080,
+      "protocol": "https",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": null,
+      "latencyMs": 2192,
+      "uptimePct": 63,
+      "score": 60
+    },
+    {
+      "ip": "85.198.82.207",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 2617,
+      "uptimePct": 70,
+      "score": 60
+    },
+    {
+      "ip": "114.236.137.41",
+      "port": 21000,
+      "protocol": "https",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "anonymous",
+      "latencyMs": 4252,
+      "uptimePct": 74,
+      "score": 59
+    },
+    {
+      "ip": "186.33.45.219",
+      "port": 999,
+      "protocol": "http",
+      "country": "ec",
+      "countryName": "Ecuador",
+      "anonymity": null,
+      "latencyMs": 4324,
+      "uptimePct": 74,
+      "score": 59
+    },
+    {
+      "ip": "139.28.240.202",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "tr",
+      "countryName": "Türkiye",
+      "anonymity": "elite",
+      "latencyMs": 664,
+      "uptimePct": 39,
+      "score": 58
+    },
+    {
+      "ip": "144.91.111.48",
+      "port": 1088,
+      "protocol": "socks5",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 2750,
+      "uptimePct": 69,
+      "score": 58
+    },
+    {
+      "ip": "177.85.65.177",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "br",
+      "countryName": "Brazil",
+      "anonymity": "elite",
+      "latencyMs": 1410,
+      "uptimePct": 49,
+      "score": 58
+    },
+    {
+      "ip": "85.198.82.207",
+      "port": 1080,
+      "protocol": "http",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": null,
+      "latencyMs": 2767,
+      "uptimePct": 68,
+      "score": 58
+    },
+    {
+      "ip": "165.154.162.73",
+      "port": 8888,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 612,
+      "uptimePct": 37,
+      "score": 57
+    },
+    {
+      "ip": "89.169.168.25",
+      "port": 6101,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 1542,
+      "uptimePct": 49,
+      "score": 57
+    },
+    {
+      "ip": "112.78.138.164",
+      "port": 5678,
+      "protocol": "socks4",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "elite",
+      "latencyMs": 2750,
+      "uptimePct": 65,
+      "score": 56
+    },
+    {
+      "ip": "185.185.80.58",
+      "port": 1088,
+      "protocol": "socks5",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 4653,
+      "uptimePct": 69,
+      "score": 56
+    },
+    {
+      "ip": "43.160.242.118",
+      "port": 3128,
+      "protocol": "http",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": "elite",
+      "latencyMs": 4929,
+      "uptimePct": 69,
+      "score": 56
+    },
+    {
+      "ip": "85.198.82.207",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 3751,
+      "uptimePct": 69,
+      "score": 56
+    },
+    {
+      "ip": "212.58.132.5",
+      "port": 8888,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "anonymous",
+      "latencyMs": 2123,
+      "uptimePct": 55,
+      "score": 55
+    },
+    {
+      "ip": "27.131.189.130",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "th",
+      "countryName": "Thailand",
+      "anonymity": "elite",
+      "latencyMs": 1991,
+      "uptimePct": 52,
+      "score": 55
+    },
+    {
+      "ip": "34.94.46.8",
+      "port": 80,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 593,
+      "uptimePct": 33,
+      "score": 55
+    },
+    {
+      "ip": "64.83.12.6",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 2188,
+      "uptimePct": 55,
+      "score": 55
+    },
+    {
+      "ip": "114.94.148.37",
+      "port": 18080,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": null,
+      "latencyMs": 2787,
+      "uptimePct": 62,
+      "score": 54
+    },
+    {
+      "ip": "178.130.47.21",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1560,
+      "uptimePct": 45,
+      "score": 54
+    },
+    {
+      "ip": "43.109.48.180",
+      "port": 9999,
+      "protocol": "http",
+      "country": "vn",
+      "countryName": "Vietnam",
+      "anonymity": null,
+      "latencyMs": 1440,
+      "uptimePct": 44,
+      "score": 54
+    },
+    {
+      "ip": "117.236.124.166",
+      "port": 3128,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": "elite",
+      "latencyMs": 2064,
+      "uptimePct": 51,
+      "score": 53
+    },
+    {
+      "ip": "178.130.47.21",
+      "port": 1082,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 4555,
+      "uptimePct": 64,
+      "score": 53
+    },
+    {
+      "ip": "116.62.81.204",
+      "port": 1081,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": null,
+      "latencyMs": 3700,
+      "uptimePct": 62,
+      "score": 52
+    },
+    {
+      "ip": "138.124.24.184",
+      "port": 4123,
+      "protocol": "socks5",
+      "country": "se",
+      "countryName": "Sweden",
+      "anonymity": "elite",
+      "latencyMs": 747,
+      "uptimePct": 30,
+      "score": 52
+    },
+    {
+      "ip": "223.85.21.195",
+      "port": 8080,
+      "protocol": "https",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": null,
+      "latencyMs": 2913,
+      "uptimePct": 60,
+      "score": 52
+    },
+    {
+      "ip": "34.246.183.20",
+      "port": 31976,
+      "protocol": "http",
+      "country": "ie",
+      "countryName": "Ireland",
+      "anonymity": null,
+      "latencyMs": 1872,
+      "uptimePct": 46,
+      "score": 52
+    },
+    {
+      "ip": "46.8.60.2",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 3186,
+      "uptimePct": 62,
+      "score": 52
+    },
+    {
+      "ip": "103.157.116.179",
+      "port": 10810,
+      "protocol": "socks4",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "elite",
+      "latencyMs": 1411,
+      "uptimePct": 38,
+      "score": 51
+    },
+    {
+      "ip": "35.183.127.162",
+      "port": 3436,
+      "protocol": "http",
+      "country": "ca",
+      "countryName": "Canada",
+      "anonymity": null,
+      "latencyMs": 1981,
+      "uptimePct": 45,
+      "score": 51
+    },
+    {
+      "ip": "41.223.234.116",
+      "port": 37259,
+      "protocol": "socks4",
+      "country": "bf",
+      "countryName": "Burkina Faso",
+      "anonymity": "elite",
+      "latencyMs": 2427,
+      "uptimePct": 52,
+      "score": 51
+    },
+    {
+      "ip": "103.197.241.209",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "kh",
+      "countryName": "Cambodia",
+      "anonymity": "elite",
+      "latencyMs": 3187,
+      "uptimePct": 59,
+      "score": 50
+    },
+    {
+      "ip": "116.196.150.180",
       "port": 17981,
       "protocol": "http",
       "country": "cn",
       "countryName": "China",
       "anonymity": "elite",
-      "latencyMs": 3037,
-      "uptimePct": 99,
-      "score": 74
+      "latencyMs": 2875,
+      "uptimePct": 57,
+      "score": 50
+    },
+    {
+      "ip": "122.246.3.12",
+      "port": 17981,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "elite",
+      "latencyMs": 2377,
+      "uptimePct": 50,
+      "score": 50
+    },
+    {
+      "ip": "16.51.148.102",
+      "port": 19747,
+      "protocol": "http",
+      "country": "au",
+      "countryName": "Australia",
+      "anonymity": null,
+      "latencyMs": 2791,
+      "uptimePct": 55,
+      "score": 50
+    },
+    {
+      "ip": "179.189.245.173",
+      "port": 5432,
+      "protocol": "socks4",
+      "country": "br",
+      "countryName": "Brazil",
+      "anonymity": "elite",
+      "latencyMs": 2317,
+      "uptimePct": 49,
+      "score": 50
+    },
+    {
+      "ip": "187.44.211.118",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "br",
+      "countryName": "Brazil",
+      "anonymity": "elite",
+      "latencyMs": 5097,
+      "uptimePct": 59,
+      "score": 50
+    },
+    {
+      "ip": "45.156.223.38",
+      "port": 3128,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 2708,
+      "uptimePct": 54,
+      "score": 50
+    },
+    {
+      "ip": "45.95.233.88",
+      "port": 1082,
+      "protocol": "socks5",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 2786,
+      "uptimePct": 55,
+      "score": 50
+    },
+    {
+      "ip": "91.228.133.191",
+      "port": 9999,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": null,
+      "latencyMs": 1548,
+      "uptimePct": 39,
+      "score": 50
+    },
+    {
+      "ip": "114.108.177.104",
+      "port": 60984,
+      "protocol": "socks4",
+      "country": "kr",
+      "countryName": "South Korea",
+      "anonymity": "elite",
+      "latencyMs": 3629,
+      "uptimePct": 57,
+      "score": 49
+    },
+    {
+      "ip": "13.38.217.179",
+      "port": 29788,
+      "protocol": "http",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": null,
+      "latencyMs": 1103,
+      "uptimePct": 31,
+      "score": 49
+    },
+    {
+      "ip": "152.89.104.11",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 1910,
+      "uptimePct": 41,
+      "score": 49
+    },
+    {
+      "ip": "202.5.50.151",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "bd",
+      "countryName": "Bangladesh",
+      "anonymity": "elite",
+      "latencyMs": 1349,
+      "uptimePct": 69,
+      "score": 49
+    },
+    {
+      "ip": "37.18.73.60",
+      "port": 5566,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 5240,
+      "uptimePct": 57,
+      "score": 49
+    },
+    {
+      "ip": "56.68.116.64",
+      "port": 3628,
+      "protocol": "http",
+      "country": "my",
+      "countryName": "Malaysia",
+      "anonymity": null,
+      "latencyMs": 4441,
+      "uptimePct": 57,
+      "score": 49
+    },
+    {
+      "ip": "85.209.120.145",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "ua",
+      "countryName": "Ukraine",
+      "anonymity": "elite",
+      "latencyMs": 1165,
+      "uptimePct": 69,
+      "score": 49
     },
     {
       "ip": "134.209.18.113",
@@ -586,151 +1620,118 @@
       "countryName": "United Kingdom",
       "anonymity": "elite",
       "latencyMs": 3695,
-      "uptimePct": 97,
-      "score": 73
-    },
-    {
-      "ip": "37.59.125.131",
-      "port": 8888,
-      "protocol": "http",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 1213,
-      "uptimePct": 71,
-      "score": 73
-    },
-    {
-      "ip": "45.43.63.37",
-      "port": 10808,
-      "protocol": "socks5",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 3810,
-      "uptimePct": 97,
-      "score": 73
-    },
-    {
-      "ip": "193.233.126.24",
-      "port": 10800,
-      "protocol": "socks5",
-      "country": "nl",
-      "countryName": "The Netherlands",
-      "anonymity": "elite",
-      "latencyMs": 591,
-      "uptimePct": 62,
-      "score": 72
-    },
-    {
-      "ip": "45.156.223.57",
-      "port": 3128,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": "elite",
-      "latencyMs": 857,
-      "uptimePct": 65,
-      "score": 72
-    },
-    {
-      "ip": "45.66.249.187",
-      "port": 8080,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 847,
-      "uptimePct": 65,
-      "score": 72
+      "uptimePct": 68,
+      "score": 48
     },
     {
       "ip": "149.62.186.244",
       "port": 1080,
-      "protocol": "socks5",
+      "protocol": "socks4",
       "country": "it",
       "countryName": "Italy",
       "anonymity": "elite",
-      "latencyMs": 1063,
-      "uptimePct": 66,
-      "score": 71
+      "latencyMs": 4836,
+      "uptimePct": 55,
+      "score": 48
     },
     {
-      "ip": "31.77.145.95",
+      "ip": "27.155.93.29",
       "port": 1080,
-      "protocol": "socks5",
-      "country": "de",
-      "countryName": "Germany",
+      "protocol": "http",
+      "country": "sc",
+      "countryName": "Seychelles",
       "anonymity": "elite",
-      "latencyMs": 2676,
-      "uptimePct": 88,
-      "score": 71
+      "latencyMs": 1373,
+      "uptimePct": 33,
+      "score": 48
     },
     {
-      "ip": "45.156.223.56",
-      "port": 3128,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": "elite",
-      "latencyMs": 908,
-      "uptimePct": 64,
-      "score": 71
-    },
-    {
-      "ip": "47.84.84.1",
-      "port": 3128,
-      "protocol": "http",
+      "ip": "27.155.93.29",
+      "port": 1080,
+      "protocol": "https",
       "country": "cn",
       "countryName": "China",
-      "anonymity": null,
-      "latencyMs": 2591,
-      "uptimePct": 87,
-      "score": 71
-    },
-    {
-      "ip": "49.51.253.118",
-      "port": 8888,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 2715,
-      "uptimePct": 90,
-      "score": 71
+      "latencyMs": 1256,
+      "uptimePct": 31,
+      "score": 48
     },
     {
-      "ip": "103.75.118.84",
-      "port": 1080,
-      "protocol": "socks4",
+      "ip": "35.78.252.142",
+      "port": 224,
+      "protocol": "http",
       "country": "jp",
       "countryName": "Japan",
+      "anonymity": null,
+      "latencyMs": 2399,
+      "uptimePct": 46,
+      "score": 48
+    },
+    {
+      "ip": "51.17.154.141",
+      "port": 8081,
+      "protocol": "http",
+      "country": "il",
+      "countryName": "Israel",
+      "anonymity": null,
+      "latencyMs": 2753,
+      "uptimePct": 52,
+      "score": 48
+    },
+    {
+      "ip": "13.215.27.14",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": "elite",
+      "latencyMs": 1925,
+      "uptimePct": 38,
+      "score": 47
+    },
+    {
+      "ip": "154.91.176.171",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "sc",
+      "countryName": "Seychelles",
+      "anonymity": "elite",
+      "latencyMs": 2041,
+      "uptimePct": 39,
+      "score": 46
+    },
+    {
+      "ip": "16.26.143.154",
+      "port": 16083,
+      "protocol": "http",
+      "country": "au",
+      "countryName": "Australia",
+      "anonymity": null,
+      "latencyMs": 4956,
+      "uptimePct": 52,
+      "score": 46
+    },
+    {
+      "ip": "196.1.182.158",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "ng",
+      "countryName": "Nigeria",
       "anonymity": "elite",
       "latencyMs": 2538,
-      "uptimePct": 85,
-      "score": 70
+      "uptimePct": 45,
+      "score": 46
     },
     {
-      "ip": "14.139.235.82",
-      "port": 3128,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": "anonymous",
-      "latencyMs": 3207,
-      "uptimePct": 91,
-      "score": 70
-    },
-    {
-      "ip": "195.133.73.105",
-      "port": 10808,
-      "protocol": "http",
-      "country": "ru",
-      "countryName": "Russia",
+      "ip": "212.5.132.74",
+      "port": 5678,
+      "protocol": "socks4",
+      "country": "bg",
+      "countryName": "Bulgaria",
       "anonymity": "elite",
-      "latencyMs": 668,
-      "uptimePct": 59,
-      "score": 70
+      "latencyMs": 4404,
+      "uptimePct": 51,
+      "score": 46
     },
     {
       "ip": "3.129.27.9",
@@ -740,8 +1741,8 @@
       "countryName": "United States",
       "anonymity": "elite",
       "latencyMs": 4284,
-      "uptimePct": 91,
-      "score": 70
+      "uptimePct": 64,
+      "score": 46
     },
     {
       "ip": "34.229.113.62",
@@ -751,107 +1752,184 @@
       "countryName": "United States",
       "anonymity": "elite",
       "latencyMs": 3003,
-      "uptimePct": 91,
-      "score": 70
+      "uptimePct": 64,
+      "score": 46
     },
     {
-      "ip": "59.152.97.233",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "bd",
-      "countryName": "Bangladesh",
-      "anonymity": "elite",
-      "latencyMs": 2340,
-      "uptimePct": 80,
-      "score": 69
-    },
-    {
-      "ip": "152.32.168.221",
-      "port": 10808,
-      "protocol": "socks5",
-      "country": "hk",
-      "countryName": "Hong Kong",
-      "anonymity": "elite",
-      "latencyMs": 3635,
-      "uptimePct": 87,
-      "score": 67
-    },
-    {
-      "ip": "95.40.233.164",
-      "port": 3128,
+      "ip": "40.176.175.23",
+      "port": 23949,
       "protocol": "http",
-      "country": "hk",
-      "countryName": "Hong Kong",
-      "anonymity": "elite",
-      "latencyMs": 4315,
-      "uptimePct": 86,
-      "score": 67
+      "country": "ca",
+      "countryName": "Canada",
+      "anonymity": null,
+      "latencyMs": 2203,
+      "uptimePct": 41,
+      "score": 46
     },
     {
-      "ip": "122.246.3.12",
-      "port": 17981,
-      "protocol": "https",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "elite",
-      "latencyMs": 2522,
-      "uptimePct": 78,
-      "score": 66
+      "ip": "54.180.117.151",
+      "port": 97,
+      "protocol": "http",
+      "country": "kr",
+      "countryName": "South Korea",
+      "anonymity": null,
+      "latencyMs": 5311,
+      "uptimePct": 52,
+      "score": 46
     },
     {
-      "ip": "47.121.139.13",
+      "ip": "116.62.60.22",
       "port": 3128,
       "protocol": "http",
       "country": "cn",
       "countryName": "China",
       "anonymity": null,
-      "latencyMs": 4106,
-      "uptimePct": 84,
-      "score": 65
+      "latencyMs": 1728,
+      "uptimePct": 33,
+      "score": 45
     },
     {
-      "ip": "98.83.197.228",
-      "port": 3128,
+      "ip": "164.52.216.71",
+      "port": 8080,
       "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
+      "country": "in",
+      "countryName": "India",
       "anonymity": null,
-      "latencyMs": 2590,
-      "uptimePct": 78,
-      "score": 65
+      "latencyMs": 1657,
+      "uptimePct": 31,
+      "score": 45
     },
     {
-      "ip": "3.92.205.59",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 191,
-      "uptimePct": 43,
-      "score": 64
-    },
-    {
-      "ip": "45.95.233.128",
-      "port": 1082,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 1768,
-      "uptimePct": 65,
-      "score": 64
-    },
-    {
-      "ip": "91.247.92.63",
-      "port": 5678,
+      "ip": "144.124.227.88",
+      "port": 3129,
       "protocol": "socks4",
-      "country": "ua",
-      "countryName": "Ukraine",
+      "country": "nl",
+      "countryName": "The Netherlands",
       "anonymity": "elite",
-      "latencyMs": 965,
-      "uptimePct": 54,
-      "score": 64
+      "latencyMs": 4125,
+      "uptimePct": 48,
+      "score": 44
+    },
+    {
+      "ip": "27.155.93.29",
+      "port": 5080,
+      "protocol": "socks5",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "elite",
+      "latencyMs": 2636,
+      "uptimePct": 43,
+      "score": 44
+    },
+    {
+      "ip": "103.75.118.84",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "jp",
+      "countryName": "Japan",
+      "anonymity": "elite",
+      "latencyMs": 2538,
+      "uptimePct": 59,
+      "score": 43
+    },
+    {
+      "ip": "139.255.36.82",
+      "port": 2080,
+      "protocol": "socks4",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "elite",
+      "latencyMs": 3378,
+      "uptimePct": 46,
+      "score": 43
+    },
+    {
+      "ip": "154.203.132.81",
+      "port": 1080,
+      "protocol": "https",
+      "country": "hk",
+      "countryName": "Hong Kong SAR China",
+      "anonymity": "elite",
+      "latencyMs": 1866,
+      "uptimePct": 31,
+      "score": 43
+    },
+    {
+      "ip": "171.247.242.46",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "vn",
+      "countryName": "Vietnam",
+      "anonymity": "elite",
+      "latencyMs": 1974,
+      "uptimePct": 33,
+      "score": 43
+    },
+    {
+      "ip": "18.163.33.4",
+      "port": 51372,
+      "protocol": "http",
+      "country": "hk",
+      "countryName": "Hong Kong",
+      "anonymity": null,
+      "latencyMs": 1880,
+      "uptimePct": 32,
+      "score": 43
+    },
+    {
+      "ip": "202.162.197.57",
+      "port": 4145,
+      "protocol": "socks4",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "elite",
+      "latencyMs": 4768,
+      "uptimePct": 46,
+      "score": 43
+    },
+    {
+      "ip": "58.254.153.147",
+      "port": 17981,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "elite",
+      "latencyMs": 2948,
+      "uptimePct": 45,
+      "score": 43
+    },
+    {
+      "ip": "160.22.17.4",
+      "port": 9988,
+      "protocol": "socks5",
+      "country": "vn",
+      "countryName": "Vietnam",
+      "anonymity": "elite",
+      "latencyMs": 2165,
+      "uptimePct": 34,
+      "score": 42
+    },
+    {
+      "ip": "200.10.31.45",
+      "port": 8081,
+      "protocol": "http",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": null,
+      "latencyMs": 2091,
+      "uptimePct": 32,
+      "score": 42
+    },
+    {
+      "ip": "45.76.164.255",
+      "port": 1085,
+      "protocol": "socks4",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1134,
+      "uptimePct": 57,
+      "score": 42
     },
     {
       "ip": "123.57.213.24",
@@ -861,52 +1939,85 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 5053,
-      "uptimePct": 80,
-      "score": 63
+      "uptimePct": 56,
+      "score": 41
     },
     {
-      "ip": "65.21.252.66",
-      "port": 10811,
-      "protocol": "socks5",
-      "country": "fi",
-      "countryName": "Finland",
-      "anonymity": "elite",
-      "latencyMs": 2766,
-      "uptimePct": 77,
-      "score": 63
-    },
-    {
-      "ip": "107.191.44.214",
-      "port": 1081,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 1246,
-      "uptimePct": 54,
-      "score": 62
-    },
-    {
-      "ip": "42.96.18.62",
-      "port": 1311,
+      "ip": "154.203.132.81",
+      "port": 1080,
       "protocol": "http",
-      "country": "vn",
-      "countryName": "Vietnam",
-      "anonymity": "anonymous",
-      "latencyMs": 2789,
-      "uptimePct": 75,
-      "score": 62
+      "country": "sc",
+      "countryName": "Seychelles",
+      "anonymity": "elite",
+      "latencyMs": 2294,
+      "uptimePct": 34,
+      "score": 41
     },
     {
-      "ip": "50.238.47.86",
-      "port": 32100,
+      "ip": "177.131.125.144",
+      "port": 5432,
       "protocol": "socks4",
-      "country": "us",
-      "countryName": "United States",
+      "country": "br",
+      "countryName": "Brazil",
       "anonymity": "elite",
-      "latencyMs": 209,
-      "uptimePct": 40,
-      "score": 62
+      "latencyMs": 2122,
+      "uptimePct": 31,
+      "score": 41
+    },
+    {
+      "ip": "185.191.239.248",
+      "port": 3128,
+      "protocol": "http",
+      "country": "ch",
+      "countryName": "Switzerland",
+      "anonymity": "anonymous",
+      "latencyMs": 3059,
+      "uptimePct": 41,
+      "score": 40
+    },
+    {
+      "ip": "217.25.229.244",
+      "port": 2080,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 5004,
+      "uptimePct": 41,
+      "score": 40
+    },
+    {
+      "ip": "35.207.207.93",
+      "port": 8899,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": "anonymous",
+      "latencyMs": 2220,
+      "uptimePct": 30,
+      "score": 40
+    },
+    {
+      "ip": "51.222.104.72",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "ca",
+      "countryName": "Canada",
+      "anonymity": "elite",
+      "latencyMs": 3393,
+      "uptimePct": 41,
+      "score": 40
+    },
+    {
+      "ip": "54.255.249.161",
+      "port": 16148,
+      "protocol": "http",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": null,
+      "latencyMs": 3153,
+      "uptimePct": 41,
+      "score": 40
     },
     {
       "ip": "120.26.171.55",
@@ -916,52 +2027,8 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 3311,
-      "uptimePct": 76,
-      "score": 61
-    },
-    {
-      "ip": "147.45.60.110",
-      "port": 1082,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2312,
-      "uptimePct": 67,
-      "score": 61
-    },
-    {
-      "ip": "114.236.137.41",
-      "port": 21000,
-      "protocol": "https",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "anonymous",
-      "latencyMs": 2127,
-      "uptimePct": 63,
-      "score": 60
-    },
-    {
-      "ip": "139.28.240.201",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "tr",
-      "countryName": "Türkiye",
-      "anonymity": "elite",
-      "latencyMs": 2761,
-      "uptimePct": 72,
-      "score": 60
-    },
-    {
-      "ip": "35.183.127.162",
-      "port": 7185,
-      "protocol": "http",
-      "country": "ca",
-      "countryName": "Canada",
-      "anonymity": null,
-      "latencyMs": 1050,
-      "uptimePct": 48,
-      "score": 60
+      "uptimePct": 53,
+      "score": 39
     },
     {
       "ip": "43.203.140.58",
@@ -971,41 +2038,63 @@
       "countryName": "South Korea",
       "anonymity": null,
       "latencyMs": 4686,
-      "uptimePct": 75,
-      "score": 60
+      "uptimePct": 53,
+      "score": 39
     },
     {
-      "ip": "108.131.109.106",
-      "port": 56761,
-      "protocol": "http",
-      "country": "ie",
-      "countryName": "Ireland",
-      "anonymity": null,
-      "latencyMs": 4322,
-      "uptimePct": 71,
-      "score": 58
-    },
-    {
-      "ip": "109.172.55.177",
-      "port": 1082,
+      "ip": "45.76.164.255",
+      "port": 1085,
       "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
+      "country": "us",
+      "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 752,
-      "uptimePct": 41,
-      "score": 58
+      "latencyMs": 1182,
+      "uptimePct": 53,
+      "score": 39
     },
     {
-      "ip": "65.108.159.129",
-      "port": 8081,
+      "ip": "5.129.228.92",
+      "port": 443,
       "protocol": "http",
-      "country": "fi",
-      "countryName": "Finland",
+      "country": "nl",
+      "countryName": "The Netherlands",
+      "anonymity": "elite",
+      "latencyMs": 4083,
+      "uptimePct": 40,
+      "score": 39
+    },
+    {
+      "ip": "13.208.238.59",
+      "port": 42036,
+      "protocol": "http",
+      "country": "jp",
+      "countryName": "Japan",
       "anonymity": null,
-      "latencyMs": 1759,
-      "uptimePct": 54,
-      "score": 58
+      "latencyMs": 2451,
+      "uptimePct": 30,
+      "score": 38
+    },
+    {
+      "ip": "139.28.240.201",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "tr",
+      "countryName": "Türkiye",
+      "anonymity": "elite",
+      "latencyMs": 2761,
+      "uptimePct": 50,
+      "score": 38
+    },
+    {
+      "ip": "193.158.12.141",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 2662,
+      "uptimePct": 34,
+      "score": 38
     },
     {
       "ip": "147.45.60.139",
@@ -1015,19 +2104,52 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3311,
-      "uptimePct": 70,
-      "score": 57
+      "uptimePct": 49,
+      "score": 37
     },
     {
-      "ip": "45.156.223.54",
-      "port": 3128,
+      "ip": "186.1.182.194",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": "elite",
+      "latencyMs": 2774,
+      "uptimePct": 33,
+      "score": 37
+    },
+    {
+      "ip": "34.220.80.147",
+      "port": 36342,
       "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
+      "country": "us",
+      "countryName": "United States",
       "anonymity": null,
-      "latencyMs": 650,
-      "uptimePct": 38,
-      "score": 57
+      "latencyMs": 2616,
+      "uptimePct": 31,
+      "score": 37
+    },
+    {
+      "ip": "43.198.94.82",
+      "port": 22126,
+      "protocol": "http",
+      "country": "hk",
+      "countryName": "Hong Kong",
+      "anonymity": null,
+      "latencyMs": 2518,
+      "uptimePct": 30,
+      "score": 37
+    },
+    {
+      "ip": "46.8.48.143",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 3807,
+      "uptimePct": 36,
+      "score": 37
     },
     {
       "ip": "54.180.117.151",
@@ -1037,19 +2159,30 @@
       "countryName": "South Korea",
       "anonymity": null,
       "latencyMs": 3359,
-      "uptimePct": 70,
-      "score": 57
+      "uptimePct": 49,
+      "score": 37
     },
     {
-      "ip": "85.234.100.149",
-      "port": 1080,
+      "ip": "54.253.167.61",
+      "port": 1234,
       "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
+      "country": "au",
+      "countryName": "Australia",
       "anonymity": null,
-      "latencyMs": 760,
-      "uptimePct": 39,
-      "score": 57
+      "latencyMs": 2654,
+      "uptimePct": 31,
+      "score": 37
+    },
+    {
+      "ip": "78.12.252.87",
+      "port": 16351,
+      "protocol": "http",
+      "country": "mx",
+      "countryName": "Mexico",
+      "anonymity": null,
+      "latencyMs": 3024,
+      "uptimePct": 37,
+      "score": 37
     },
     {
       "ip": "120.24.202.132",
@@ -1059,41 +2192,41 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 4687,
-      "uptimePct": 68,
-      "score": 56
-    },
-    {
-      "ip": "185.128.104.152",
-      "port": 8443,
-      "protocol": "socks5",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": "elite",
-      "latencyMs": 850,
-      "uptimePct": 38,
-      "score": 56
-    },
-    {
-      "ip": "190.12.95.170",
-      "port": 37209,
-      "protocol": "socks4",
-      "country": "pe",
-      "countryName": "Peru",
-      "anonymity": "elite",
-      "latencyMs": 1568,
       "uptimePct": 48,
-      "score": 56
+      "score": 36
     },
     {
-      "ip": "43.99.100.108",
-      "port": 3128,
+      "ip": "147.45.60.110",
+      "port": 1082,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 2312,
+      "uptimePct": 47,
+      "score": 36
+    },
+    {
+      "ip": "18.163.33.4",
+      "port": 11753,
       "protocol": "http",
       "country": "hk",
-      "countryName": "Hong Kong SAR China",
+      "countryName": "Hong Kong",
+      "anonymity": null,
+      "latencyMs": 3173,
+      "uptimePct": 35,
+      "score": 36
+    },
+    {
+      "ip": "195.19.51.20",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 1999,
-      "uptimePct": 55,
-      "score": 56
+      "latencyMs": 2696,
+      "uptimePct": 30,
+      "score": 36
     },
     {
       "ip": "5.255.103.55",
@@ -1103,52 +2236,74 @@
       "countryName": "The Netherlands",
       "anonymity": "elite",
       "latencyMs": 3533,
-      "uptimePct": 69,
-      "score": 56
+      "uptimePct": 48,
+      "score": 36
     },
     {
-      "ip": "103.177.118.145",
-      "port": 8118,
+      "ip": "102.68.76.247",
+      "port": 5566,
       "protocol": "http",
-      "country": "bd",
-      "countryName": "Bangladesh",
-      "anonymity": "anonymous",
-      "latencyMs": 3407,
-      "uptimePct": 67,
-      "score": 55
-    },
-    {
-      "ip": "112.78.138.164",
-      "port": 5678,
-      "protocol": "socks4",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "elite",
-      "latencyMs": 1818,
-      "uptimePct": 50,
-      "score": 55
-    },
-    {
-      "ip": "13.38.27.183",
-      "port": 33033,
-      "protocol": "http",
-      "country": "fr",
-      "countryName": "France",
+      "country": "ke",
+      "countryName": "Kenya",
       "anonymity": null,
-      "latencyMs": 2262,
-      "uptimePct": 57,
-      "score": 55
+      "latencyMs": 3170,
+      "uptimePct": 33,
+      "score": 35
     },
     {
-      "ip": "147.45.60.136",
+      "ip": "13.206.73.237",
+      "port": 172,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": null,
+      "latencyMs": 2886,
+      "uptimePct": 32,
+      "score": 35
+    },
+    {
+      "ip": "13.235.42.151",
+      "port": 21737,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": null,
+      "latencyMs": 3563,
+      "uptimePct": 33,
+      "score": 35
+    },
+    {
+      "ip": "147.45.221.115",
       "port": 1082,
-      "protocol": "socks5",
+      "protocol": "socks4",
       "country": "ru",
       "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 1385,
-      "uptimePct": 44,
-      "score": 55
+      "latencyMs": 4625,
+      "uptimePct": 34,
+      "score": 35
+    },
+    {
+      "ip": "161.18.226.135",
+      "port": 8080,
+      "protocol": "http",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": null,
+      "latencyMs": 4072,
+      "uptimePct": 34,
+      "score": 35
+    },
+    {
+      "ip": "18.142.95.213",
+      "port": 38071,
+      "protocol": "http",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": null,
+      "latencyMs": 3079,
+      "uptimePct": 33,
+      "score": 35
     },
     {
       "ip": "223.99.197.190",
@@ -1158,52 +2313,63 @@
       "countryName": "China",
       "anonymity": "elite",
       "latencyMs": 3924,
-      "uptimePct": 66,
-      "score": 55
+      "uptimePct": 46,
+      "score": 35
     },
     {
-      "ip": "43.162.94.99",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 3726,
-      "uptimePct": 66,
-      "score": 55
+      "ip": "43.208.243.207",
+      "port": 49551,
+      "protocol": "http",
+      "country": "th",
+      "countryName": "Thailand",
+      "anonymity": null,
+      "latencyMs": 2783,
+      "uptimePct": 31,
+      "score": 35
     },
     {
-      "ip": "43.162.94.99",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 4542,
-      "uptimePct": 67,
-      "score": 55
+      "ip": "43.209.173.229",
+      "port": 9100,
+      "protocol": "http",
+      "country": "th",
+      "countryName": "Thailand",
+      "anonymity": null,
+      "latencyMs": 3252,
+      "uptimePct": 34,
+      "score": 35
     },
     {
-      "ip": "95.31.158.48",
-      "port": 2080,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
+      "ip": "45.156.223.56",
+      "port": 3128,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
       "anonymity": "elite",
-      "latencyMs": 3537,
-      "uptimePct": 66,
-      "score": 55
+      "latencyMs": 908,
+      "uptimePct": 45,
+      "score": 35
+    },
+    {
+      "ip": "45.156.223.57",
+      "port": 3128,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 857,
+      "uptimePct": 46,
+      "score": 35
     },
     {
       "ip": "45.95.233.128",
       "port": 1082,
-      "protocol": "socks4",
+      "protocol": "socks5",
       "country": "fr",
       "countryName": "France",
       "anonymity": "elite",
-      "latencyMs": 2539,
-      "uptimePct": 58,
-      "score": 54
+      "latencyMs": 1768,
+      "uptimePct": 46,
+      "score": 35
     },
     {
       "ip": "46.8.60.34",
@@ -1213,63 +2379,173 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 4992,
-      "uptimePct": 65,
-      "score": 54
-    },
-    {
-      "ip": "114.94.148.37",
-      "port": 18080,
-      "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": null,
-      "latencyMs": 1713,
       "uptimePct": 46,
-      "score": 53
+      "score": 35
     },
     {
-      "ip": "154.203.132.81",
-      "port": 5080,
-      "protocol": "socks5",
-      "country": "sc",
-      "countryName": "Seychelles",
+      "ip": "119.18.147.146",
+      "port": 8080,
+      "protocol": "http",
+      "country": "bd",
+      "countryName": "Bangladesh",
+      "anonymity": null,
+      "latencyMs": 3137,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "13.208.166.217",
+      "port": 213,
+      "protocol": "http",
+      "country": "jp",
+      "countryName": "Japan",
+      "anonymity": null,
+      "latencyMs": 3464,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "147.45.60.136",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 1970,
-      "uptimePct": 49,
-      "score": 53
+      "latencyMs": 3367,
+      "uptimePct": 31,
+      "score": 34
     },
     {
-      "ip": "186.33.45.219",
+      "ip": "165.22.161.41",
+      "port": 8118,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 3963,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "3.121.130.230",
+      "port": 9898,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": null,
+      "latencyMs": 3793,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "34.207.102.197",
+      "port": 17582,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 4375,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "38.255.121.1",
       "port": 999,
       "protocol": "http",
-      "country": "ec",
-      "countryName": "Ecuador",
+      "country": "do",
+      "countryName": "Dominican Republic",
       "anonymity": null,
-      "latencyMs": 4222,
-      "uptimePct": 63,
-      "score": 53
+      "latencyMs": 3560,
+      "uptimePct": 31,
+      "score": 34
     },
     {
-      "ip": "18.170.25.193",
-      "port": 17883,
+      "ip": "43.208.237.116",
+      "port": 55296,
       "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
+      "country": "th",
+      "countryName": "Thailand",
       "anonymity": null,
-      "latencyMs": 2793,
-      "uptimePct": 59,
-      "score": 52
+      "latencyMs": 3686,
+      "uptimePct": 32,
+      "score": 34
     },
     {
-      "ip": "81.168.119.85",
-      "port": 443,
+      "ip": "56.155.73.159",
+      "port": 35570,
+      "protocol": "http",
+      "country": "jp",
+      "countryName": "Japan",
+      "anonymity": null,
+      "latencyMs": 3029,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "82.114.228.67",
+      "port": 1080,
       "protocol": "socks4",
-      "country": "gb",
-      "countryName": "United Kingdom",
+      "country": "ru",
+      "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 2407,
-      "uptimePct": 51,
-      "score": 51
+      "latencyMs": 3818,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "83.56.15.57",
+      "port": 5678,
+      "protocol": "socks4",
+      "country": "es",
+      "countryName": "Spain",
+      "anonymity": "elite",
+      "latencyMs": 3940,
+      "uptimePct": 31,
+      "score": 34
+    },
+    {
+      "ip": "18.61.3.91",
+      "port": 9595,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": null,
+      "latencyMs": 3858,
+      "uptimePct": 30,
+      "score": 33
+    },
+    {
+      "ip": "18.61.3.91",
+      "port": 57368,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": null,
+      "latencyMs": 4346,
+      "uptimePct": 30,
+      "score": 33
+    },
+    {
+      "ip": "193.233.126.24",
+      "port": 10800,
+      "protocol": "socks5",
+      "country": "nl",
+      "countryName": "The Netherlands",
+      "anonymity": "elite",
+      "latencyMs": 591,
+      "uptimePct": 43,
+      "score": 33
+    },
+    {
+      "ip": "43.205.113.210",
+      "port": 55125,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": null,
+      "latencyMs": 3044,
+      "uptimePct": 30,
+      "score": 33
     },
     {
       "ip": "103.130.61.61",
@@ -1279,30 +2555,41 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 4079,
-      "uptimePct": 58,
-      "score": 50
+      "uptimePct": 41,
+      "score": 32
     },
     {
-      "ip": "112.64.135.45",
-      "port": 8080,
+      "ip": "18.170.25.193",
+      "port": 17883,
       "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "elite",
-      "latencyMs": 2626,
-      "uptimePct": 54,
-      "score": 50
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": null,
+      "latencyMs": 2793,
+      "uptimePct": 41,
+      "score": 32
     },
     {
-      "ip": "123.60.155.1",
-      "port": 3128,
-      "protocol": "https",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "anonymous",
-      "latencyMs": 2728,
-      "uptimePct": 55,
-      "score": 50
+      "ip": "195.133.73.105",
+      "port": 10808,
+      "protocol": "http",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 668,
+      "uptimePct": 41,
+      "score": 32
+    },
+    {
+      "ip": "45.95.233.128",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 2539,
+      "uptimePct": 41,
+      "score": 32
     },
     {
       "ip": "47.107.82.96",
@@ -1312,8 +2599,8 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 4951,
-      "uptimePct": 59,
-      "score": 50
+      "uptimePct": 41,
+      "score": 32
     },
     {
       "ip": "8.138.217.152",
@@ -1323,140 +2610,19 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 3304,
-      "uptimePct": 58,
-      "score": 50
+      "uptimePct": 41,
+      "score": 32
     },
     {
-      "ip": "85.198.82.207",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2844,
-      "uptimePct": 57,
-      "score": 50
-    },
-    {
-      "ip": "114.94.148.37",
-      "port": 18080,
+      "ip": "123.60.155.1",
+      "port": 3128,
       "protocol": "https",
       "country": "cn",
       "countryName": "China",
-      "anonymity": null,
-      "latencyMs": 2338,
-      "uptimePct": 47,
-      "score": 49
-    },
-    {
-      "ip": "13.221.202.200",
-      "port": 3128,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
       "anonymity": "anonymous",
-      "latencyMs": 185,
-      "uptimePct": 69,
-      "score": 49
-    },
-    {
-      "ip": "152.42.167.241",
-      "port": 3128,
-      "protocol": "https",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": null,
-      "latencyMs": 4647,
-      "uptimePct": 57,
-      "score": 49
-    },
-    {
-      "ip": "18.188.168.99",
-      "port": 19417,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 2287,
-      "uptimePct": 47,
-      "score": 49
-    },
-    {
-      "ip": "190.0.246.210",
-      "port": 4040,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": null,
-      "latencyMs": 1792,
-      "uptimePct": 69,
-      "score": 49
-    },
-    {
-      "ip": "213.136.92.91",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 3659,
-      "uptimePct": 57,
-      "score": 49
-    },
-    {
-      "ip": "3.128.83.74",
-      "port": 17000,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 219,
-      "uptimePct": 69,
-      "score": 49
-    },
-    {
-      "ip": "45.61.129.165",
-      "port": 9050,
-      "protocol": "socks4",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 3548,
-      "uptimePct": 69,
-      "score": 49
-    },
-    {
-      "ip": "85.234.100.149",
-      "port": 8080,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": null,
-      "latencyMs": 1784,
+      "latencyMs": 2728,
       "uptimePct": 39,
-      "score": 49
-    },
-    {
-      "ip": "152.228.237.108",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 942,
-      "uptimePct": 68,
-      "score": 48
-    },
-    {
-      "ip": "152.228.237.108",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 817,
-      "uptimePct": 67,
-      "score": 48
+      "score": 31
     },
     {
       "ip": "18.60.247.31",
@@ -1466,19 +2632,8 @@
       "countryName": "India",
       "anonymity": null,
       "latencyMs": 5224,
-      "uptimePct": 55,
-      "score": 48
-    },
-    {
-      "ip": "185.185.80.58",
-      "port": 1088,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 4066,
-      "uptimePct": 55,
-      "score": 48
+      "uptimePct": 39,
+      "score": 31
     },
     {
       "ip": "186.33.45.218",
@@ -1488,140 +2643,52 @@
       "countryName": "Ecuador",
       "anonymity": "anonymous",
       "latencyMs": 3888,
-      "uptimePct": 55,
-      "score": 48
-    },
-    {
-      "ip": "43.160.242.118",
-      "port": 3128,
-      "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 5399,
-      "uptimePct": 55,
-      "score": 48
-    },
-    {
-      "ip": "85.198.82.207",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 4599,
-      "uptimePct": 55,
-      "score": 48
-    },
-    {
-      "ip": "103.197.241.209",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "kh",
-      "countryName": "Cambodia",
-      "anonymity": "elite",
-      "latencyMs": 2103,
-      "uptimePct": 41,
-      "score": 47
-    },
-    {
-      "ip": "186.96.16.117",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "mx",
-      "countryName": "Mexico",
-      "anonymity": "elite",
-      "latencyMs": 4761,
-      "uptimePct": 53,
-      "score": 47
-    },
-    {
-      "ip": "43.218.124.29",
-      "port": 22098,
-      "protocol": "http",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": null,
-      "latencyMs": 2870,
-      "uptimePct": 52,
-      "score": 47
-    },
-    {
-      "ip": "57.128.249.250",
-      "port": 9052,
-      "protocol": "socks4",
-      "country": "pl",
-      "countryName": "Poland",
-      "anonymity": "elite",
-      "latencyMs": 1936,
       "uptimePct": 39,
-      "score": 47
+      "score": 31
     },
     {
-      "ip": "85.198.82.207",
-      "port": 1080,
-      "protocol": "http",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": null,
-      "latencyMs": 3796,
-      "uptimePct": 54,
-      "score": 47
+      "ip": "107.191.44.214",
+      "port": 1081,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 1246,
+      "uptimePct": 38,
+      "score": 30
     },
     {
-      "ip": "86.53.111.249",
+      "ip": "112.64.135.45",
       "port": 8080,
       "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": null,
-      "latencyMs": 2596,
-      "uptimePct": 48,
-      "score": 47
-    },
-    {
-      "ip": "18.157.123.132",
-      "port": 3128,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": null,
-      "latencyMs": 733,
-      "uptimePct": 64,
-      "score": 46
-    },
-    {
-      "ip": "18.188.53.175",
-      "port": 48148,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 4066,
-      "uptimePct": 52,
-      "score": 46
-    },
-    {
-      "ip": "3.19.213.118",
-      "port": 45367,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 2033,
-      "uptimePct": 39,
-      "score": 46
-    },
-    {
-      "ip": "81.168.119.85",
-      "port": 443,
-      "protocol": "socks5",
-      "country": "gb",
-      "countryName": "United Kingdom",
+      "country": "cn",
+      "countryName": "China",
       "anonymity": "elite",
-      "latencyMs": 5130,
-      "uptimePct": 52,
-      "score": 46
+      "latencyMs": 2626,
+      "uptimePct": 38,
+      "score": 30
+    },
+    {
+      "ip": "65.108.159.129",
+      "port": 8081,
+      "protocol": "http",
+      "country": "fi",
+      "countryName": "Finland",
+      "anonymity": null,
+      "latencyMs": 1759,
+      "uptimePct": 38,
+      "score": 30
+    },
+    {
+      "ip": "91.247.92.63",
+      "port": 5678,
+      "protocol": "socks4",
+      "country": "ua",
+      "countryName": "Ukraine",
+      "anonymity": "elite",
+      "latencyMs": 965,
+      "uptimePct": 38,
+      "score": 30
     },
     {
       "ip": "109.172.55.227",
@@ -1631,8 +2698,19 @@
       "countryName": "France",
       "anonymity": "elite",
       "latencyMs": 4637,
-      "uptimePct": 50,
-      "score": 45
+      "uptimePct": 35,
+      "score": 29
+    },
+    {
+      "ip": "18.188.53.175",
+      "port": 48148,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 4066,
+      "uptimePct": 36,
+      "score": 29
     },
     {
       "ip": "38.188.247.12",
@@ -1642,30 +2720,19 @@
       "countryName": "Dominican Republic",
       "anonymity": "anonymous",
       "latencyMs": 3449,
-      "uptimePct": 50,
-      "score": 45
+      "uptimePct": 35,
+      "score": 29
     },
     {
-      "ip": "38.49.210.79",
-      "port": 40000,
-      "protocol": "socks5",
-      "country": "ca",
-      "countryName": "Canada",
-      "anonymity": "elite",
-      "latencyMs": 3269,
-      "uptimePct": 50,
-      "score": 45
-    },
-    {
-      "ip": "41.223.234.116",
-      "port": 37259,
-      "protocol": "socks4",
-      "country": "bf",
-      "countryName": "Burkina Faso",
-      "anonymity": "elite",
-      "latencyMs": 1618,
-      "uptimePct": 31,
-      "score": 45
+      "ip": "43.218.124.29",
+      "port": 22098,
+      "protocol": "http",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": null,
+      "latencyMs": 2870,
+      "uptimePct": 36,
+      "score": 29
     },
     {
       "ip": "72.56.109.88",
@@ -1675,19 +2742,30 @@
       "countryName": "Netherlands",
       "anonymity": "transparent",
       "latencyMs": 3535,
-      "uptimePct": 50,
-      "score": 45
+      "uptimePct": 35,
+      "score": 29
     },
     {
-      "ip": "178.130.47.21",
-      "port": 1082,
+      "ip": "81.168.119.85",
+      "port": 443,
       "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
+      "country": "gb",
+      "countryName": "United Kingdom",
       "anonymity": "elite",
-      "latencyMs": 4777,
-      "uptimePct": 49,
-      "score": 44
+      "latencyMs": 5130,
+      "uptimePct": 36,
+      "score": 29
+    },
+    {
+      "ip": "190.12.95.170",
+      "port": 37209,
+      "protocol": "socks4",
+      "country": "pe",
+      "countryName": "Peru",
+      "anonymity": "elite",
+      "latencyMs": 1568,
+      "uptimePct": 34,
+      "score": 28
     },
     {
       "ip": "205.164.192.115",
@@ -1697,19 +2775,30 @@
       "countryName": "Mexico",
       "anonymity": "anonymous",
       "latencyMs": 3286,
-      "uptimePct": 48,
-      "score": 44
+      "uptimePct": 34,
+      "score": 28
     },
     {
-      "ip": "123.60.155.1",
-      "port": 3128,
+      "ip": "35.183.127.162",
+      "port": 7185,
       "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "anonymous",
-      "latencyMs": 2934,
-      "uptimePct": 45,
-      "score": 43
+      "country": "ca",
+      "countryName": "Canada",
+      "anonymity": null,
+      "latencyMs": 1050,
+      "uptimePct": 34,
+      "score": 28
+    },
+    {
+      "ip": "86.53.111.249",
+      "port": 8080,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": null,
+      "latencyMs": 2596,
+      "uptimePct": 34,
+      "score": 28
     },
     {
       "ip": "13.244.203.188",
@@ -1719,19 +2808,19 @@
       "countryName": "South Africa",
       "anonymity": null,
       "latencyMs": 3541,
-      "uptimePct": 47,
-      "score": 43
+      "uptimePct": 33,
+      "score": 27
     },
     {
-      "ip": "159.223.41.216",
-      "port": 9090,
+      "ip": "18.188.168.99",
+      "port": 19417,
       "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
+      "country": "us",
+      "countryName": "United States",
       "anonymity": null,
-      "latencyMs": 2581,
-      "uptimePct": 41,
-      "score": 43
+      "latencyMs": 2287,
+      "uptimePct": 33,
+      "score": 27
     },
     {
       "ip": "195.158.8.123",
@@ -1741,19 +2830,8 @@
       "countryName": "Uzbekistan",
       "anonymity": null,
       "latencyMs": 3314,
-      "uptimePct": 46,
-      "score": 43
-    },
-    {
-      "ip": "38.44.17.142",
-      "port": 999,
-      "protocol": "http",
-      "country": "do",
-      "countryName": "Dominican Republic",
-      "anonymity": null,
-      "latencyMs": 2660,
-      "uptimePct": 42,
-      "score": 43
+      "uptimePct": 32,
+      "score": 27
     },
     {
       "ip": "63.181.83.210",
@@ -1763,52 +2841,19 @@
       "countryName": "Luxembourg",
       "anonymity": null,
       "latencyMs": 3771,
-      "uptimePct": 46,
-      "score": 43
-    },
-    {
-      "ip": "150.241.91.238",
-      "port": 7777,
-      "protocol": "socks5",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": "elite",
-      "latencyMs": 2718,
-      "uptimePct": 57,
-      "score": 42
-    },
-    {
-      "ip": "190.0.246.211",
-      "port": 4040,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": null,
-      "latencyMs": 2236,
-      "uptimePct": 58,
-      "score": 42
-    },
-    {
-      "ip": "51.17.154.141",
-      "port": 8081,
-      "protocol": "http",
-      "country": "il",
-      "countryName": "Israel",
-      "anonymity": null,
-      "latencyMs": 2063,
       "uptimePct": 32,
-      "score": 42
+      "score": 27
     },
     {
-      "ip": "144.91.111.48",
-      "port": 1088,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 2608,
-      "uptimePct": 55,
-      "score": 41
+      "ip": "123.60.155.1",
+      "port": 3128,
+      "protocol": "http",
+      "country": "cn",
+      "countryName": "China",
+      "anonymity": "anonymous",
+      "latencyMs": 2934,
+      "uptimePct": 31,
+      "score": 26
     },
     {
       "ip": "16.51.148.102",
@@ -1818,41 +2863,19 @@
       "countryName": "Australia",
       "anonymity": null,
       "latencyMs": 3884,
-      "uptimePct": 43,
-      "score": 41
+      "uptimePct": 30,
+      "score": 26
     },
     {
-      "ip": "193.25.215.182",
-      "port": 22222,
+      "ip": "3.92.205.59",
+      "port": 1080,
       "protocol": "socks5",
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 4491,
-      "uptimePct": 43,
-      "score": 41
-    },
-    {
-      "ip": "200.59.191.27",
-      "port": 999,
-      "protocol": "http",
-      "country": "ve",
-      "countryName": "Venezuela",
-      "anonymity": null,
-      "latencyMs": 2669,
-      "uptimePct": 55,
-      "score": 41
-    },
-    {
-      "ip": "223.85.21.195",
-      "port": 8080,
-      "protocol": "https",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "elite",
-      "latencyMs": 5381,
-      "uptimePct": 43,
-      "score": 41
+      "latencyMs": 191,
+      "uptimePct": 30,
+      "score": 26
     },
     {
       "ip": "37.18.73.60",
@@ -1862,30 +2885,41 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3328,
-      "uptimePct": 44,
-      "score": 41
+      "uptimePct": 31,
+      "score": 26
     },
     {
-      "ip": "94.131.92.155",
-      "port": 3128,
-      "protocol": "http",
-      "country": "kz",
-      "countryName": "Kazakhstan",
-      "anonymity": "anonymous",
-      "latencyMs": 3116,
-      "uptimePct": 56,
-      "score": 41
+      "ip": "109.172.55.177",
+      "port": 1082,
+      "protocol": "socks5",
+      "country": "fr",
+      "countryName": "France",
+      "anonymity": "elite",
+      "latencyMs": 752,
+      "uptimePct": 29,
+      "score": 25
     },
     {
-      "ip": "203.150.128.151",
-      "port": 8080,
+      "ip": "159.223.41.216",
+      "port": 9090,
       "protocol": "http",
-      "country": "th",
-      "countryName": "Thailand",
+      "country": "sg",
+      "countryName": "Singapore",
       "anonymity": null,
-      "latencyMs": 2186,
-      "uptimePct": 30,
-      "score": 40
+      "latencyMs": 2581,
+      "uptimePct": 29,
+      "score": 25
+    },
+    {
+      "ip": "38.44.17.142",
+      "port": 999,
+      "protocol": "http",
+      "country": "do",
+      "countryName": "Dominican Republic",
+      "anonymity": null,
+      "latencyMs": 2660,
+      "uptimePct": 29,
+      "score": 25
     },
     {
       "ip": "109.72.100.113",
@@ -1895,30 +2929,8 @@
       "countryName": "Montenegro",
       "anonymity": "elite",
       "latencyMs": 3971,
-      "uptimePct": 38,
-      "score": 38
-    },
-    {
-      "ip": "123.58.219.171",
-      "port": 10808,
-      "protocol": "socks5",
-      "country": "hk",
-      "countryName": "Hong Kong",
-      "anonymity": "elite",
-      "latencyMs": 2367,
-      "uptimePct": 50,
-      "score": 38
-    },
-    {
-      "ip": "139.162.36.238",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 3759,
-      "uptimePct": 50,
-      "score": 38
+      "uptimePct": 27,
+      "score": 24
     },
     {
       "ip": "147.45.221.112",
@@ -1928,19 +2940,30 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3886,
-      "uptimePct": 38,
-      "score": 38
+      "uptimePct": 27,
+      "score": 24
     },
     {
-      "ip": "213.136.77.119",
-      "port": 8888,
-      "protocol": "http",
-      "country": "fr",
-      "countryName": "France",
+      "ip": "150.241.91.238",
+      "port": 7777,
+      "protocol": "socks5",
+      "country": "de",
+      "countryName": "Germany",
       "anonymity": "elite",
-      "latencyMs": 2240,
-      "uptimePct": 51,
-      "score": 38
+      "latencyMs": 2718,
+      "uptimePct": 40,
+      "score": 24
+    },
+    {
+      "ip": "185.128.104.152",
+      "port": 8443,
+      "protocol": "socks5",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 850,
+      "uptimePct": 27,
+      "score": 24
     },
     {
       "ip": "216.48.177.32",
@@ -1950,74 +2973,74 @@
       "countryName": "India",
       "anonymity": null,
       "latencyMs": 2926,
-      "uptimePct": 38,
-      "score": 38
+      "uptimePct": 27,
+      "score": 24
     },
     {
-      "ip": "36.37.244.41",
-      "port": 5678,
+      "ip": "3.19.213.118",
+      "port": 45367,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 2033,
+      "uptimePct": 27,
+      "score": 24
+    },
+    {
+      "ip": "50.238.47.86",
+      "port": 32100,
       "protocol": "socks4",
-      "country": "kh",
-      "countryName": "Cambodia",
-      "anonymity": "elite",
-      "latencyMs": 2708,
-      "uptimePct": 50,
-      "score": 38
-    },
-    {
-      "ip": "54.255.249.161",
-      "port": 17765,
-      "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": null,
-      "latencyMs": 2461,
-      "uptimePct": 30,
-      "score": 38
-    },
-    {
-      "ip": "91.228.133.191",
-      "port": 8888,
-      "protocol": "http",
       "country": "us",
       "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 209,
+      "uptimePct": 28,
+      "score": 24
+    },
+    {
+      "ip": "57.128.249.250",
+      "port": 9052,
+      "protocol": "socks4",
+      "country": "pl",
+      "countryName": "Poland",
+      "anonymity": "elite",
+      "latencyMs": 1936,
+      "uptimePct": 27,
+      "score": 24
+    },
+    {
+      "ip": "85.234.100.149",
+      "port": 1080,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
       "anonymity": null,
-      "latencyMs": 2475,
-      "uptimePct": 31,
-      "score": 38
+      "latencyMs": 760,
+      "uptimePct": 27,
+      "score": 24
     },
     {
-      "ip": "152.42.167.241",
-      "port": 3128,
+      "ip": "85.234.100.149",
+      "port": 8080,
       "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 2859,
-      "uptimePct": 49,
-      "score": 37
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": null,
+      "latencyMs": 1784,
+      "uptimePct": 27,
+      "score": 24
     },
     {
-      "ip": "194.87.79.243",
-      "port": 2333,
-      "protocol": "socks5",
-      "country": "cz",
-      "countryName": "Czechia",
-      "anonymity": "elite",
-      "latencyMs": 2575,
-      "uptimePct": 31,
-      "score": 37
-    },
-    {
-      "ip": "212.58.132.5",
-      "port": 8888,
+      "ip": "200.59.191.27",
+      "port": 999,
       "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "anonymous",
-      "latencyMs": 3211,
-      "uptimePct": 36,
-      "score": 37
+      "country": "ve",
+      "countryName": "Venezuela",
+      "anonymity": null,
+      "latencyMs": 2669,
+      "uptimePct": 39,
+      "score": 23
     },
     {
       "ip": "43.206.240.252",
@@ -2027,96 +3050,19 @@
       "countryName": "Japan",
       "anonymity": null,
       "latencyMs": 5007,
-      "uptimePct": 37,
-      "score": 37
+      "uptimePct": 26,
+      "score": 23
     },
     {
-      "ip": "124.248.177.43",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "kh",
-      "countryName": "Cambodia",
-      "anonymity": "elite",
-      "latencyMs": 3175,
-      "uptimePct": 47,
-      "score": 36
-    },
-    {
-      "ip": "31.76.15.189",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 672,
-      "uptimePct": 48,
-      "score": 36
-    },
-    {
-      "ip": "109.94.1.23",
-      "port": 4050,
+      "ip": "94.131.92.155",
+      "port": 3128,
       "protocol": "http",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": null,
-      "latencyMs": 2466,
-      "uptimePct": 46,
-      "score": 35
-    },
-    {
-      "ip": "115.136.121.54",
-      "port": 9050,
-      "protocol": "socks4",
-      "country": "kr",
-      "countryName": "South Korea",
-      "anonymity": "elite",
-      "latencyMs": 3941,
-      "uptimePct": 33,
-      "score": 35
-    },
-    {
-      "ip": "116.62.81.204",
-      "port": 1081,
-      "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": null,
-      "latencyMs": 3978,
-      "uptimePct": 46,
-      "score": 35
-    },
-    {
-      "ip": "13.38.27.183",
-      "port": 883,
-      "protocol": "http",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": null,
-      "latencyMs": 2122,
-      "uptimePct": 46,
-      "score": 35
-    },
-    {
-      "ip": "140.245.36.86",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 3163,
-      "uptimePct": 46,
-      "score": 35
-    },
-    {
-      "ip": "168.194.34.196",
-      "port": 9001,
-      "protocol": "http",
-      "country": "ar",
-      "countryName": "Argentina",
-      "anonymity": null,
-      "latencyMs": 3038,
-      "uptimePct": 46,
-      "score": 35
+      "country": "kz",
+      "countryName": "Kazakhstan",
+      "anonymity": "anonymous",
+      "latencyMs": 3116,
+      "uptimePct": 39,
+      "score": 23
     },
     {
       "ip": "185.93.104.246",
@@ -2126,41 +3072,30 @@
       "countryName": "The Netherlands",
       "anonymity": "elite",
       "latencyMs": 3988,
-      "uptimePct": 34,
-      "score": 35
+      "uptimePct": 24,
+      "score": 22
     },
     {
-      "ip": "43.203.140.58",
-      "port": 27862,
-      "protocol": "http",
+      "ip": "115.136.121.54",
+      "port": 9050,
+      "protocol": "socks4",
       "country": "kr",
       "countryName": "South Korea",
-      "anonymity": null,
-      "latencyMs": 3856,
-      "uptimePct": 33,
-      "score": 35
-    },
-    {
-      "ip": "45.43.60.220",
-      "port": 8080,
-      "protocol": "http",
-      "country": "jp",
-      "countryName": "Japan",
       "anonymity": "elite",
-      "latencyMs": 2959,
-      "uptimePct": 33,
-      "score": 35
+      "latencyMs": 3941,
+      "uptimePct": 23,
+      "score": 21
     },
     {
-      "ip": "46.8.60.2",
+      "ip": "139.162.36.238",
       "port": 1080,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
+      "protocol": "socks5",
+      "country": "sg",
+      "countryName": "Singapore",
       "anonymity": "elite",
-      "latencyMs": 4209,
-      "uptimePct": 46,
-      "score": 35
+      "latencyMs": 3759,
+      "uptimePct": 35,
+      "score": 21
     },
     {
       "ip": "147.45.221.112",
@@ -2170,19 +3105,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3552,
-      "uptimePct": 31,
-      "score": 34
-    },
-    {
-      "ip": "16.26.143.154",
-      "port": 16083,
-      "protocol": "http",
-      "country": "au",
-      "countryName": "Australia",
-      "anonymity": null,
-      "latencyMs": 4432,
-      "uptimePct": 31,
-      "score": 34
+      "uptimePct": 22,
+      "score": 21
     },
     {
       "ip": "190.60.58.236",
@@ -2192,8 +3116,19 @@
       "countryName": "Colombia",
       "anonymity": null,
       "latencyMs": 3000,
-      "uptimePct": 31,
-      "score": 34
+      "uptimePct": 22,
+      "score": 21
+    },
+    {
+      "ip": "194.87.79.243",
+      "port": 2333,
+      "protocol": "socks5",
+      "country": "cz",
+      "countryName": "Czechia",
+      "anonymity": "elite",
+      "latencyMs": 2575,
+      "uptimePct": 22,
+      "score": 21
     },
     {
       "ip": "195.225.116.15",
@@ -2203,8 +3138,8 @@
       "countryName": "Switzerland",
       "anonymity": "elite",
       "latencyMs": 4856,
-      "uptimePct": 31,
-      "score": 34
+      "uptimePct": 22,
+      "score": 21
     },
     {
       "ip": "35.78.212.217",
@@ -2214,8 +3149,52 @@
       "countryName": "Japan",
       "anonymity": null,
       "latencyMs": 3973,
-      "uptimePct": 32,
-      "score": 34
+      "uptimePct": 22,
+      "score": 21
+    },
+    {
+      "ip": "36.37.244.41",
+      "port": 5678,
+      "protocol": "socks4",
+      "country": "kh",
+      "countryName": "Cambodia",
+      "anonymity": "elite",
+      "latencyMs": 2708,
+      "uptimePct": 35,
+      "score": 21
+    },
+    {
+      "ip": "43.203.140.58",
+      "port": 27862,
+      "protocol": "http",
+      "country": "kr",
+      "countryName": "South Korea",
+      "anonymity": null,
+      "latencyMs": 3856,
+      "uptimePct": 23,
+      "score": 21
+    },
+    {
+      "ip": "45.43.60.220",
+      "port": 8080,
+      "protocol": "http",
+      "country": "jp",
+      "countryName": "Japan",
+      "anonymity": "elite",
+      "latencyMs": 2959,
+      "uptimePct": 23,
+      "score": 21
+    },
+    {
+      "ip": "91.228.133.191",
+      "port": 8888,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 2475,
+      "uptimePct": 22,
+      "score": 21
     },
     {
       "ip": "103.176.96.50",
@@ -2225,173 +3204,8 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 2993,
-      "uptimePct": 30,
-      "score": 33
-    },
-    {
-      "ip": "108.136.140.236",
-      "port": 80,
-      "protocol": "http",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": null,
-      "latencyMs": 3588,
-      "uptimePct": 30,
-      "score": 33
-    },
-    {
-      "ip": "154.66.108.52",
-      "port": 3629,
-      "protocol": "socks4",
-      "country": "ls",
-      "countryName": "Lesotho",
-      "anonymity": "elite",
-      "latencyMs": 5070,
-      "uptimePct": 42,
-      "score": 33
-    },
-    {
-      "ip": "191.44.125.11",
-      "port": 8080,
-      "protocol": "http",
-      "country": "sy",
-      "countryName": "Syria",
-      "anonymity": null,
-      "latencyMs": 3339,
-      "uptimePct": 30,
-      "score": 33
-    },
-    {
-      "ip": "3.19.213.118",
-      "port": 5001,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 1368,
-      "uptimePct": 42,
-      "score": 33
-    },
-    {
-      "ip": "45.95.232.35",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "ch",
-      "countryName": "Switzerland",
-      "anonymity": "elite",
-      "latencyMs": 3850,
-      "uptimePct": 42,
-      "score": 33
-    },
-    {
-      "ip": "8.243.167.50",
-      "port": 999,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": null,
-      "latencyMs": 4244,
-      "uptimePct": 30,
-      "score": 33
-    },
-    {
-      "ip": "115.231.181.40",
-      "port": 8128,
-      "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "anonymous",
-      "latencyMs": 5169,
-      "uptimePct": 40,
-      "score": 32
-    },
-    {
-      "ip": "147.45.60.250",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 4395,
-      "uptimePct": 40,
-      "score": 32
-    },
-    {
-      "ip": "187.44.211.118",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "br",
-      "countryName": "Brazil",
-      "anonymity": "elite",
-      "latencyMs": 1152,
-      "uptimePct": 41,
-      "score": 32
-    },
-    {
-      "ip": "109.68.189.22",
-      "port": 54643,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 5108,
-      "uptimePct": 39,
-      "score": 31
-    },
-    {
-      "ip": "114.108.177.104",
-      "port": 60984,
-      "protocol": "socks4",
-      "country": "kr",
-      "countryName": "South Korea",
-      "anonymity": "elite",
-      "latencyMs": 1717,
-      "uptimePct": 39,
-      "score": 31
-    },
-    {
-      "ip": "37.18.73.60",
-      "port": 5566,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1581,
-      "uptimePct": 39,
-      "score": 31
-    },
-    {
-      "ip": "56.68.116.64",
-      "port": 3628,
-      "protocol": "http",
-      "country": "my",
-      "countryName": "Malaysia",
-      "anonymity": null,
-      "latencyMs": 2983,
-      "uptimePct": 39,
-      "score": 31
-    },
-    {
-      "ip": "116.196.150.180",
-      "port": 17981,
-      "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": null,
-      "latencyMs": 2759,
-      "uptimePct": 38,
-      "score": 30
-    },
-    {
-      "ip": "16.28.101.55",
-      "port": 4904,
-      "protocol": "http",
-      "country": "za",
-      "countryName": "South Africa",
-      "anonymity": null,
-      "latencyMs": 2921,
-      "uptimePct": 37,
-      "score": 30
+      "uptimePct": 21,
+      "score": 20
     },
     {
       "ip": "103.75.118.84",
@@ -2401,118 +3215,118 @@
       "countryName": "Japan",
       "anonymity": "elite",
       "latencyMs": 5347,
-      "uptimePct": 48,
-      "score": 29
+      "uptimePct": 34,
+      "score": 20
     },
     {
-      "ip": "149.62.186.244",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "it",
-      "countryName": "Italy",
-      "anonymity": "elite",
-      "latencyMs": 4151,
-      "uptimePct": 35,
-      "score": 29
-    },
-    {
-      "ip": "16.51.148.102",
-      "port": 19747,
-      "protocol": "http",
-      "country": "au",
-      "countryName": "Australia",
-      "anonymity": null,
-      "latencyMs": 4055,
-      "uptimePct": 36,
-      "score": 29
-    },
-    {
-      "ip": "190.182.137.250",
-      "port": 1085,
-      "protocol": "socks4",
-      "country": "ar",
-      "countryName": "Argentina",
-      "anonymity": "elite",
-      "latencyMs": 1382,
-      "uptimePct": 35,
-      "score": 29
-    },
-    {
-      "ip": "45.95.233.88",
-      "port": 1082,
-      "protocol": "socks5",
-      "country": "fr",
-      "countryName": "France",
-      "anonymity": "elite",
-      "latencyMs": 696,
-      "uptimePct": 36,
-      "score": 29
-    },
-    {
-      "ip": "54.222.174.194",
+      "ip": "108.136.140.236",
       "port": 80,
       "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "elite",
-      "latencyMs": 3218,
-      "uptimePct": 35,
-      "score": 29
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": null,
+      "latencyMs": 3588,
+      "uptimePct": 21,
+      "score": 20
     },
     {
-      "ip": "64.83.12.6",
+      "ip": "191.44.125.11",
+      "port": 8080,
+      "protocol": "http",
+      "country": "sy",
+      "countryName": "Syria",
+      "anonymity": null,
+      "latencyMs": 3339,
+      "uptimePct": 21,
+      "score": 20
+    },
+    {
+      "ip": "203.150.128.151",
+      "port": 8080,
+      "protocol": "http",
+      "country": "th",
+      "countryName": "Thailand",
+      "anonymity": null,
+      "latencyMs": 2186,
+      "uptimePct": 21,
+      "score": 20
+    },
+    {
+      "ip": "31.76.15.189",
       "port": 1080,
       "protocol": "socks5",
       "country": "us",
       "countryName": "United States",
       "anonymity": "elite",
-      "latencyMs": 4136,
-      "uptimePct": 35,
-      "score": 29
-    },
-    {
-      "ip": "45.156.223.38",
-      "port": 3128,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": "elite",
-      "latencyMs": 3966,
+      "latencyMs": 672,
       "uptimePct": 34,
-      "score": 28
+      "score": 20
     },
     {
-      "ip": "170.247.43.142",
-      "port": 32812,
-      "protocol": "socks4",
-      "country": "br",
-      "countryName": "Brazil",
-      "anonymity": "elite",
-      "latencyMs": 1029,
-      "uptimePct": 31,
-      "score": 26
-    },
-    {
-      "ip": "27.131.189.130",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "th",
-      "countryName": "Thailand",
-      "anonymity": "elite",
-      "latencyMs": 1857,
-      "uptimePct": 31,
-      "score": 26
-    },
-    {
-      "ip": "54.180.117.151",
-      "port": 97,
+      "ip": "54.255.249.161",
+      "port": 17765,
       "protocol": "http",
-      "country": "kr",
-      "countryName": "South Korea",
+      "country": "sg",
+      "countryName": "Singapore",
       "anonymity": null,
-      "latencyMs": 3106,
-      "uptimePct": 31,
-      "score": 26
+      "latencyMs": 2461,
+      "uptimePct": 21,
+      "score": 20
+    },
+    {
+      "ip": "8.243.167.50",
+      "port": 999,
+      "protocol": "http",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": null,
+      "latencyMs": 4244,
+      "uptimePct": 21,
+      "score": 20
+    },
+    {
+      "ip": "109.94.1.23",
+      "port": 4050,
+      "protocol": "http",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": null,
+      "latencyMs": 2466,
+      "uptimePct": 32,
+      "score": 19
+    },
+    {
+      "ip": "140.245.36.86",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": "elite",
+      "latencyMs": 3163,
+      "uptimePct": 32,
+      "score": 19
+    },
+    {
+      "ip": "168.194.34.196",
+      "port": 9001,
+      "protocol": "http",
+      "country": "ar",
+      "countryName": "Argentina",
+      "anonymity": null,
+      "latencyMs": 3038,
+      "uptimePct": 32,
+      "score": 19
+    },
+    {
+      "ip": "154.66.108.52",
+      "port": 3629,
+      "protocol": "socks4",
+      "country": "ls",
+      "countryName": "Lesotho",
+      "anonymity": "elite",
+      "latencyMs": 5070,
+      "uptimePct": 29,
+      "score": 17
     },
     {
       "ip": "181.115.74.172",
@@ -2522,85 +3336,41 @@
       "countryName": "Honduras",
       "anonymity": "elite",
       "latencyMs": 3838,
-      "uptimePct": 41,
-      "score": 25
-    },
-    {
-      "ip": "78.111.112.118",
-      "port": 4145,
-      "protocol": "socks4",
-      "country": "cz",
-      "countryName": "Czechia",
-      "anonymity": "elite",
-      "latencyMs": 2889,
       "uptimePct": 29,
-      "score": 25
+      "score": 17
     },
     {
-      "ip": "81.168.119.85",
-      "port": 5443,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": null,
-      "latencyMs": 4584,
-      "uptimePct": 29,
-      "score": 25
-    },
-    {
-      "ip": "109.248.236.150",
-      "port": 60606,
-      "protocol": "socks4",
-      "country": "kz",
-      "countryName": "Kazakhstan",
-      "anonymity": "elite",
-      "latencyMs": 1198,
-      "uptimePct": 27,
-      "score": 24
-    },
-    {
-      "ip": "128.140.113.110",
-      "port": 3128,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": "elite",
-      "latencyMs": 2298,
-      "uptimePct": 27,
-      "score": 24
-    },
-    {
-      "ip": "200.10.30.5",
-      "port": 8083,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": null,
-      "latencyMs": 1186,
-      "uptimePct": 28,
-      "score": 24
-    },
-    {
-      "ip": "45.156.223.55",
-      "port": 3128,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": "elite",
-      "latencyMs": 3698,
-      "uptimePct": 40,
-      "score": 24
-    },
-    {
-      "ip": "89.169.168.25",
-      "port": 6101,
+      "ip": "45.95.232.35",
+      "port": 1080,
       "protocol": "socks5",
+      "country": "ch",
+      "countryName": "Switzerland",
+      "anonymity": "elite",
+      "latencyMs": 3850,
+      "uptimePct": 29,
+      "score": 17
+    },
+    {
+      "ip": "109.68.189.22",
+      "port": 54643,
+      "protocol": "socks4",
       "country": "ru",
       "countryName": "Russia",
       "anonymity": "elite",
-      "latencyMs": 1795,
+      "latencyMs": 5108,
       "uptimePct": 27,
-      "score": 24
+      "score": 16
+    },
+    {
+      "ip": "16.28.101.55",
+      "port": 4904,
+      "protocol": "http",
+      "country": "za",
+      "countryName": "South Africa",
+      "anonymity": null,
+      "latencyMs": 2921,
+      "uptimePct": 26,
+      "score": 16
     },
     {
       "ip": "46.214.153.223",
@@ -2610,8 +3380,8 @@
       "countryName": "Romania",
       "anonymity": "elite",
       "latencyMs": 5142,
-      "uptimePct": 39,
-      "score": 23
+      "uptimePct": 27,
+      "score": 16
     },
     {
       "ip": "59.153.81.234",
@@ -2621,272 +3391,41 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 2708,
-      "uptimePct": 39,
-      "score": 23
+      "uptimePct": 27,
+      "score": 16
     },
     {
-      "ip": "91.231.186.236",
-      "port": 8080,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
+      "ip": "190.182.137.250",
+      "port": 1085,
+      "protocol": "socks4",
+      "country": "ar",
+      "countryName": "Argentina",
       "anonymity": "elite",
-      "latencyMs": 2085,
+      "latencyMs": 1382,
       "uptimePct": 25,
-      "score": 23
+      "score": 15
     },
     {
-      "ip": "91.231.186.236",
-      "port": 3128,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": "elite",
-      "latencyMs": 1898,
-      "uptimePct": 25,
-      "score": 23
-    },
-    {
-      "ip": "91.231.186.236",
-      "port": 8181,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": "elite",
-      "latencyMs": 1845,
-      "uptimePct": 25,
-      "score": 23
-    },
-    {
-      "ip": "195.133.65.238",
-      "port": 10909,
-      "protocol": "socks4",
-      "country": "cz",
-      "countryName": "Czechia",
-      "anonymity": "elite",
-      "latencyMs": 1384,
-      "uptimePct": 24,
-      "score": 22
-    },
-    {
-      "ip": "13.53.139.178",
-      "port": 4444,
-      "protocol": "http",
-      "country": "se",
-      "countryName": "Sweden",
-      "anonymity": null,
-      "latencyMs": 2391,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "131.222.251.135",
-      "port": 8080,
-      "protocol": "http",
-      "country": "tr",
-      "countryName": "Türkiye",
-      "anonymity": null,
-      "latencyMs": 2722,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "139.255.36.82",
-      "port": 2080,
-      "protocol": "socks4",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "elite",
-      "latencyMs": 1332,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "157.15.139.103",
-      "port": 8080,
-      "protocol": "http",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "anonymous",
-      "latencyMs": 4299,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "16.26.143.154",
-      "port": 1418,
-      "protocol": "http",
-      "country": "au",
-      "countryName": "Australia",
-      "anonymity": null,
-      "latencyMs": 3861,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "178.130.47.21",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 1864,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "18.60.247.31",
-      "port": 58300,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": null,
-      "latencyMs": 3281,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "187.210.136.88",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "mx",
-      "countryName": "Mexico",
-      "anonymity": "elite",
-      "latencyMs": 1739,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "196.1.182.158",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "ng",
-      "countryName": "Nigeria",
-      "anonymity": "elite",
-      "latencyMs": 4323,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "202.162.197.57",
-      "port": 4145,
-      "protocol": "socks4",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "elite",
-      "latencyMs": 2889,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "34.246.183.20",
-      "port": 31976,
-      "protocol": "http",
-      "country": "ie",
-      "countryName": "Ireland",
-      "anonymity": null,
-      "latencyMs": 1944,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "35.183.127.162",
-      "port": 3436,
-      "protocol": "http",
-      "country": "ca",
-      "countryName": "Canada",
-      "anonymity": null,
-      "latencyMs": 4208,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "35.78.252.142",
-      "port": 224,
-      "protocol": "http",
-      "country": "jp",
-      "countryName": "Japan",
-      "anonymity": null,
-      "latencyMs": 2562,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "43.135.179.129",
-      "port": 7890,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 3598,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "51.17.154.141",
-      "port": 51181,
-      "protocol": "http",
-      "country": "il",
-      "countryName": "Israel",
-      "anonymity": null,
-      "latencyMs": 1985,
-      "uptimePct": 23,
-      "score": 21
-    },
-    {
-      "ip": "58.254.153.147",
-      "port": 17981,
+      "ip": "54.222.174.194",
+      "port": 80,
       "protocol": "http",
       "country": "cn",
       "countryName": "China",
       "anonymity": "elite",
-      "latencyMs": 2218,
+      "latencyMs": 3218,
+      "uptimePct": 25,
+      "score": 15
+    },
+    {
+      "ip": "170.247.43.142",
+      "port": 32812,
+      "protocol": "socks4",
+      "country": "br",
+      "countryName": "Brazil",
+      "anonymity": "elite",
+      "latencyMs": 1029,
       "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "94.72.158.129",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "bg",
-      "countryName": "Bulgaria",
-      "anonymity": "elite",
-      "latencyMs": 920,
-      "uptimePct": 22,
-      "score": 21
-    },
-    {
-      "ip": "192.163.200.93",
-      "port": 17071,
-      "protocol": "socks4",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 2415,
-      "uptimePct": 21,
-      "score": 20
-    },
-    {
-      "ip": "117.236.124.166",
-      "port": 3128,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": "elite",
-      "latencyMs": 1752,
-      "uptimePct": 30,
-      "score": 18
-    },
-    {
-      "ip": "212.5.132.74",
-      "port": 5678,
-      "protocol": "socks4",
-      "country": "bg",
-      "countryName": "Bulgaria",
-      "anonymity": "elite",
-      "latencyMs": 5071,
-      "uptimePct": 30,
-      "score": 18
+      "score": 13
     },
     {
       "ip": "37.58.221.247",
@@ -2896,19 +3435,30 @@
       "countryName": "France",
       "anonymity": null,
       "latencyMs": 4854,
-      "uptimePct": 30,
-      "score": 18
+      "uptimePct": 21,
+      "score": 13
     },
     {
-      "ip": "122.246.3.12",
-      "port": 17981,
+      "ip": "200.10.30.5",
+      "port": 8083,
       "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": null,
+      "latencyMs": 1186,
+      "uptimePct": 20,
+      "score": 12
+    },
+    {
+      "ip": "78.111.112.118",
+      "port": 4145,
+      "protocol": "socks4",
+      "country": "cz",
+      "countryName": "Czechia",
       "anonymity": "elite",
-      "latencyMs": 4269,
-      "uptimePct": 29,
-      "score": 17
+      "latencyMs": 2889,
+      "uptimePct": 20,
+      "score": 12
     },
     {
       "ip": "78.159.131.108",
@@ -2918,30 +3468,41 @@
       "countryName": "Albania",
       "anonymity": "elite",
       "latencyMs": 594,
-      "uptimePct": 29,
-      "score": 17
+      "uptimePct": 20,
+      "score": 12
     },
     {
-      "ip": "89.23.102.250",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1067,
-      "uptimePct": 28,
-      "score": 17
+      "ip": "81.168.119.85",
+      "port": 5443,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": null,
+      "latencyMs": 4584,
+      "uptimePct": 20,
+      "score": 12
     },
     {
-      "ip": "177.85.65.177",
-      "port": 4153,
+      "ip": "109.248.236.150",
+      "port": 60606,
       "protocol": "socks4",
-      "country": "br",
-      "countryName": "Brazil",
+      "country": "kz",
+      "countryName": "Kazakhstan",
       "anonymity": "elite",
-      "latencyMs": 1011,
-      "uptimePct": 27,
-      "score": 16
+      "latencyMs": 1198,
+      "uptimePct": 19,
+      "score": 11
+    },
+    {
+      "ip": "128.140.113.110",
+      "port": 3128,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 2298,
+      "uptimePct": 19,
+      "score": 11
     },
     {
       "ip": "177.91.35.202",
@@ -2951,19 +3512,8 @@
       "countryName": "Brazil",
       "anonymity": "elite",
       "latencyMs": 3023,
-      "uptimePct": 27,
-      "score": 16
-    },
-    {
-      "ip": "179.189.245.173",
-      "port": 5432,
-      "protocol": "socks4",
-      "country": "br",
-      "countryName": "Brazil",
-      "anonymity": "elite",
-      "latencyMs": 3202,
-      "uptimePct": 27,
-      "score": 16
+      "uptimePct": 19,
+      "score": 11
     },
     {
       "ip": "31.76.80.215",
@@ -2973,19 +3523,8 @@
       "countryName": "Finland",
       "anonymity": "elite",
       "latencyMs": 2526,
-      "uptimePct": 27,
-      "score": 16
-    },
-    {
-      "ip": "144.124.227.88",
-      "port": 3129,
-      "protocol": "socks4",
-      "country": "nl",
-      "countryName": "The Netherlands",
-      "anonymity": "elite",
-      "latencyMs": 970,
-      "uptimePct": 25,
-      "score": 15
+      "uptimePct": 19,
+      "score": 11
     },
     {
       "ip": "58.19.233.34",
@@ -2995,19 +3534,41 @@
       "countryName": "China",
       "anonymity": "elite",
       "latencyMs": 3425,
-      "uptimePct": 25,
-      "score": 15
+      "uptimePct": 18,
+      "score": 11
     },
     {
-      "ip": "78.159.131.108",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "al",
-      "countryName": "Albania",
+      "ip": "91.231.186.236",
+      "port": 8080,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
       "anonymity": "elite",
-      "latencyMs": 4597,
-      "uptimePct": 25,
-      "score": 15
+      "latencyMs": 2085,
+      "uptimePct": 18,
+      "score": 11
+    },
+    {
+      "ip": "91.231.186.236",
+      "port": 3128,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 1898,
+      "uptimePct": 18,
+      "score": 11
+    },
+    {
+      "ip": "91.231.186.236",
+      "port": 8181,
+      "protocol": "http",
+      "country": "gb",
+      "countryName": "United Kingdom",
+      "anonymity": "elite",
+      "latencyMs": 1845,
+      "uptimePct": 18,
+      "score": 11
     },
     {
       "ip": "13.246.6.135",
@@ -3017,8 +3578,30 @@
       "countryName": "South Africa",
       "anonymity": null,
       "latencyMs": 2292,
-      "uptimePct": 24,
-      "score": 14
+      "uptimePct": 17,
+      "score": 10
+    },
+    {
+      "ip": "13.53.139.178",
+      "port": 4444,
+      "protocol": "http",
+      "country": "se",
+      "countryName": "Sweden",
+      "anonymity": null,
+      "latencyMs": 2391,
+      "uptimePct": 16,
+      "score": 10
+    },
+    {
+      "ip": "16.26.143.154",
+      "port": 1418,
+      "protocol": "http",
+      "country": "au",
+      "countryName": "Australia",
+      "anonymity": null,
+      "latencyMs": 3861,
+      "uptimePct": 16,
+      "score": 10
     },
     {
       "ip": "160.22.205.66",
@@ -3028,8 +3611,8 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 4405,
-      "uptimePct": 24,
-      "score": 14
+      "uptimePct": 17,
+      "score": 10
     },
     {
       "ip": "18.142.95.213",
@@ -3039,8 +3622,41 @@
       "countryName": "Singapore",
       "anonymity": null,
       "latencyMs": 4172,
-      "uptimePct": 23,
-      "score": 14
+      "uptimePct": 16,
+      "score": 10
+    },
+    {
+      "ip": "18.60.247.31",
+      "port": 58300,
+      "protocol": "http",
+      "country": "in",
+      "countryName": "India",
+      "anonymity": null,
+      "latencyMs": 3281,
+      "uptimePct": 16,
+      "score": 10
+    },
+    {
+      "ip": "195.133.65.238",
+      "port": 10909,
+      "protocol": "socks4",
+      "country": "cz",
+      "countryName": "Czechia",
+      "anonymity": "elite",
+      "latencyMs": 1384,
+      "uptimePct": 17,
+      "score": 10
+    },
+    {
+      "ip": "43.135.179.129",
+      "port": 7890,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 3598,
+      "uptimePct": 16,
+      "score": 10
     },
     {
       "ip": "45.144.54.40",
@@ -3050,8 +3666,19 @@
       "countryName": "Germany",
       "anonymity": "elite",
       "latencyMs": 880,
-      "uptimePct": 24,
-      "score": 14
+      "uptimePct": 17,
+      "score": 10
+    },
+    {
+      "ip": "51.17.154.141",
+      "port": 51181,
+      "protocol": "http",
+      "country": "il",
+      "countryName": "Israel",
+      "anonymity": null,
+      "latencyMs": 1985,
+      "uptimePct": 16,
+      "score": 10
     },
     {
       "ip": "109.232.106.150",
@@ -3061,8 +3688,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3767,
-      "uptimePct": 21,
-      "score": 13
+      "uptimePct": 15,
+      "score": 9
     },
     {
       "ip": "13.53.139.178",
@@ -3072,8 +3699,19 @@
       "countryName": "Sweden",
       "anonymity": null,
       "latencyMs": 2050,
-      "uptimePct": 22,
-      "score": 13
+      "uptimePct": 15,
+      "score": 9
+    },
+    {
+      "ip": "131.222.251.135",
+      "port": 8080,
+      "protocol": "http",
+      "country": "tr",
+      "countryName": "Türkiye",
+      "anonymity": null,
+      "latencyMs": 2722,
+      "uptimePct": 15,
+      "score": 9
     },
     {
       "ip": "147.45.60.110",
@@ -3083,8 +3721,41 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 2329,
-      "uptimePct": 21,
-      "score": 13
+      "uptimePct": 15,
+      "score": 9
+    },
+    {
+      "ip": "157.15.139.103",
+      "port": 8080,
+      "protocol": "http",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "anonymous",
+      "latencyMs": 4299,
+      "uptimePct": 15,
+      "score": 9
+    },
+    {
+      "ip": "187.210.136.88",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "mx",
+      "countryName": "Mexico",
+      "anonymity": "elite",
+      "latencyMs": 1739,
+      "uptimePct": 15,
+      "score": 9
+    },
+    {
+      "ip": "192.163.200.93",
+      "port": 17071,
+      "protocol": "socks4",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 2415,
+      "uptimePct": 15,
+      "score": 9
     },
     {
       "ip": "201.71.2.26",
@@ -3094,8 +3765,8 @@
       "countryName": "Venezuela",
       "anonymity": null,
       "latencyMs": 5241,
-      "uptimePct": 22,
-      "score": 13
+      "uptimePct": 15,
+      "score": 9
     },
     {
       "ip": "31.211.142.115",
@@ -3105,8 +3776,19 @@
       "countryName": "Bulgaria",
       "anonymity": "elite",
       "latencyMs": 3176,
-      "uptimePct": 22,
-      "score": 13
+      "uptimePct": 15,
+      "score": 9
+    },
+    {
+      "ip": "94.72.158.129",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "bg",
+      "countryName": "Bulgaria",
+      "anonymity": "elite",
+      "latencyMs": 920,
+      "uptimePct": 15,
+      "score": 9
     },
     {
       "ip": "101.206.186.99",
@@ -3116,63 +3798,8 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 5255,
-      "uptimePct": 20,
-      "score": 12
-    },
-    {
-      "ip": "116.109.179.109",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "vn",
-      "countryName": "Vietnam",
-      "anonymity": "elite",
-      "latencyMs": 3878,
-      "uptimePct": 20,
-      "score": 12
-    },
-    {
-      "ip": "147.45.221.111",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1683,
-      "uptimePct": 20,
-      "score": 12
-    },
-    {
-      "ip": "147.45.60.241",
-      "port": 1082,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 4354,
-      "uptimePct": 20,
-      "score": 12
-    },
-    {
-      "ip": "38.194.246.34",
-      "port": 999,
-      "protocol": "http",
-      "country": "mx",
-      "countryName": "Mexico",
-      "anonymity": null,
-      "latencyMs": 2437,
-      "uptimePct": 20,
-      "score": 12
-    },
-    {
-      "ip": "43.109.48.180",
-      "port": 9999,
-      "protocol": "http",
-      "country": "vn",
-      "countryName": "Vietnam",
-      "anonymity": null,
-      "latencyMs": 2362,
-      "uptimePct": 20,
-      "score": 12
+      "uptimePct": 14,
+      "score": 8
     },
     {
       "ip": "103.157.79.58",
@@ -3182,8 +3809,8 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 4318,
-      "uptimePct": 18,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "104.207.139.62",
@@ -3193,8 +3820,8 @@
       "countryName": "United States",
       "anonymity": "elite",
       "latencyMs": 224,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "109.123.251.109",
@@ -3204,8 +3831,41 @@
       "countryName": "France",
       "anonymity": "elite",
       "latencyMs": 1287,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
+    },
+    {
+      "ip": "116.109.179.109",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "vn",
+      "countryName": "Vietnam",
+      "anonymity": "elite",
+      "latencyMs": 3878,
+      "uptimePct": 14,
+      "score": 8
+    },
+    {
+      "ip": "147.45.221.111",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 1683,
+      "uptimePct": 14,
+      "score": 8
+    },
+    {
+      "ip": "147.45.60.241",
+      "port": 1082,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 4354,
+      "uptimePct": 14,
+      "score": 8
     },
     {
       "ip": "160.22.22.85",
@@ -3215,8 +3875,8 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 4927,
-      "uptimePct": 18,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "181.143.59.140",
@@ -3226,8 +3886,8 @@
       "countryName": "Colombia",
       "anonymity": "elite",
       "latencyMs": 760,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "205.164.192.115",
@@ -3237,19 +3897,8 @@
       "countryName": "Mexico",
       "anonymity": null,
       "latencyMs": 1558,
-      "uptimePct": 19,
-      "score": 11
-    },
-    {
-      "ip": "27.155.93.29",
-      "port": 5080,
-      "protocol": "socks5",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "elite",
-      "latencyMs": 5081,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "31.43.33.55",
@@ -3259,8 +3908,8 @@
       "countryName": "Ukraine",
       "anonymity": "elite",
       "latencyMs": 3999,
-      "uptimePct": 18,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "35.78.212.217",
@@ -3270,8 +3919,19 @@
       "countryName": "Japan",
       "anonymity": null,
       "latencyMs": 1800,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
+    },
+    {
+      "ip": "38.194.246.34",
+      "port": 999,
+      "protocol": "http",
+      "country": "mx",
+      "countryName": "Mexico",
+      "anonymity": null,
+      "latencyMs": 2437,
+      "uptimePct": 14,
+      "score": 8
     },
     {
       "ip": "46.55.3.113",
@@ -3281,8 +3941,8 @@
       "countryName": "Moldova",
       "anonymity": "elite",
       "latencyMs": 4086,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "77.222.54.205",
@@ -3292,8 +3952,8 @@
       "countryName": "Russia",
       "anonymity": "anonymous",
       "latencyMs": 5023,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "81.168.119.85",
@@ -3303,8 +3963,8 @@
       "countryName": "United Kingdom",
       "anonymity": null,
       "latencyMs": 1586,
-      "uptimePct": 19,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "90.150.187.82",
@@ -3314,8 +3974,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 1137,
-      "uptimePct": 18,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "91.240.45.70",
@@ -3325,8 +3985,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 2929,
-      "uptimePct": 18,
-      "score": 11
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "98.130.11.240",
@@ -3336,74 +3996,8 @@
       "countryName": "India",
       "anonymity": null,
       "latencyMs": 2844,
-      "uptimePct": 18,
-      "score": 11
-    },
-    {
-      "ip": "118.70.211.121",
-      "port": 60606,
-      "protocol": "socks4",
-      "country": "vn",
-      "countryName": "Vietnam",
-      "anonymity": "elite",
-      "latencyMs": 3042,
-      "uptimePct": 17,
-      "score": 10
-    },
-    {
-      "ip": "137.220.151.34",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 3526,
-      "uptimePct": 16,
-      "score": 10
-    },
-    {
-      "ip": "137.220.151.34",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 2417,
-      "uptimePct": 16,
-      "score": 10
-    },
-    {
-      "ip": "147.45.60.124",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2311,
-      "uptimePct": 16,
-      "score": 10
-    },
-    {
-      "ip": "18.188.53.175",
-      "port": 5443,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 1468,
-      "uptimePct": 17,
-      "score": 10
-    },
-    {
-      "ip": "217.25.229.244",
-      "port": 2080,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1256,
-      "uptimePct": 16,
-      "score": 10
+      "uptimePct": 13,
+      "score": 8
     },
     {
       "ip": "102.215.245.6",
@@ -3413,8 +4007,8 @@
       "countryName": "South Africa",
       "anonymity": "elite",
       "latencyMs": 4851,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "103.156.238.136",
@@ -3424,8 +4018,8 @@
       "countryName": "Bangladesh",
       "anonymity": null,
       "latencyMs": 5007,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "103.179.252.229",
@@ -3435,19 +4029,52 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 2074,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
-      "ip": "152.89.104.11",
+      "ip": "118.70.211.121",
+      "port": 60606,
+      "protocol": "socks4",
+      "country": "vn",
+      "countryName": "Vietnam",
+      "anonymity": "elite",
+      "latencyMs": 3042,
+      "uptimePct": 12,
+      "score": 7
+    },
+    {
+      "ip": "137.220.151.34",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": "elite",
+      "latencyMs": 3526,
+      "uptimePct": 11,
+      "score": 7
+    },
+    {
+      "ip": "137.220.151.34",
       "port": 1080,
       "protocol": "socks5",
-      "country": "de",
-      "countryName": "Germany",
+      "country": "sg",
+      "countryName": "Singapore",
       "anonymity": "elite",
-      "latencyMs": 898,
-      "uptimePct": 15,
-      "score": 9
+      "latencyMs": 2417,
+      "uptimePct": 11,
+      "score": 7
+    },
+    {
+      "ip": "147.45.60.124",
+      "port": 1082,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 2311,
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "16.52.81.236",
@@ -3457,19 +4084,19 @@
       "countryName": "Canada",
       "anonymity": null,
       "latencyMs": 941,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
-      "ip": "185.191.239.248",
-      "port": 3128,
+      "ip": "18.188.53.175",
+      "port": 5443,
       "protocol": "http",
-      "country": "ch",
-      "countryName": "Switzerland",
-      "anonymity": "anonymous",
-      "latencyMs": 1359,
-      "uptimePct": 15,
-      "score": 9
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 1468,
+      "uptimePct": 12,
+      "score": 7
     },
     {
       "ip": "190.121.157.41",
@@ -3479,8 +4106,8 @@
       "countryName": "Colombia",
       "anonymity": null,
       "latencyMs": 3747,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "195.133.53.59",
@@ -3490,8 +4117,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3134,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "202.166.196.105",
@@ -3501,8 +4128,8 @@
       "countryName": "Nepal",
       "anonymity": "elite",
       "latencyMs": 2478,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "202.62.50.8",
@@ -3512,8 +4139,8 @@
       "countryName": "Cambodia",
       "anonymity": "elite",
       "latencyMs": 5131,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "205.235.1.38",
@@ -3523,8 +4150,8 @@
       "countryName": "Ecuador",
       "anonymity": null,
       "latencyMs": 5261,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "37.220.84.231",
@@ -3534,19 +4161,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3298,
-      "uptimePct": 15,
-      "score": 9
-    },
-    {
-      "ip": "40.176.175.23",
-      "port": 23949,
-      "protocol": "http",
-      "country": "ca",
-      "countryName": "Canada",
-      "anonymity": null,
-      "latencyMs": 1666,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "51.16.4.39",
@@ -3556,30 +4172,8 @@
       "countryName": "Israel",
       "anonymity": null,
       "latencyMs": 2443,
-      "uptimePct": 15,
-      "score": 9
-    },
-    {
-      "ip": "51.222.104.72",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "ca",
-      "countryName": "Canada",
-      "anonymity": "elite",
-      "latencyMs": 3357,
-      "uptimePct": 15,
-      "score": 9
-    },
-    {
-      "ip": "54.255.249.161",
-      "port": 16148,
-      "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": null,
-      "latencyMs": 3289,
-      "uptimePct": 15,
-      "score": 9
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "66.59.197.61",
@@ -3589,85 +4183,8 @@
       "countryName": "United States",
       "anonymity": "elite",
       "latencyMs": 1466,
-      "uptimePct": 15,
-      "score": 9
-    },
-    {
-      "ip": "128.140.113.110",
-      "port": 8080,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": "elite",
-      "latencyMs": 2003,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "139.28.240.202",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "tr",
-      "countryName": "Türkiye",
-      "anonymity": "elite",
-      "latencyMs": 658,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "154.91.176.171",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "sc",
-      "countryName": "Seychelles",
-      "anonymity": "elite",
-      "latencyMs": 3770,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "188.132.249.66",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "sy",
-      "countryName": "Syria",
-      "anonymity": "elite",
-      "latencyMs": 5229,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "31.76.31.119",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": "elite",
-      "latencyMs": 2144,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "38.199.26.42",
-      "port": 999,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": "anonymous",
-      "latencyMs": 689,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "5.129.228.92",
-      "port": 443,
-      "protocol": "http",
-      "country": "nl",
-      "countryName": "The Netherlands",
-      "anonymity": null,
-      "latencyMs": 1572,
-      "uptimePct": 14,
-      "score": 8
+      "uptimePct": 11,
+      "score": 7
     },
     {
       "ip": "58.254.153.147",
@@ -3677,41 +4194,8 @@
       "countryName": "China",
       "anonymity": null,
       "latencyMs": 3975,
-      "uptimePct": 14,
-      "score": 8
-    },
-    {
-      "ip": "85.117.32.166",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "ge",
-      "countryName": "Georgia",
-      "anonymity": "elite",
-      "latencyMs": 2161,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "89.189.132.154",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2369,
-      "uptimePct": 13,
-      "score": 8
-    },
-    {
-      "ip": "91.228.133.191",
-      "port": 9999,
-      "protocol": "http",
-      "country": "gb",
-      "countryName": "United Kingdom",
-      "anonymity": null,
-      "latencyMs": 1372,
-      "uptimePct": 13,
-      "score": 8
+      "uptimePct": 10,
+      "score": 6
     },
     {
       "ip": "101.96.117.164",
@@ -3721,8 +4205,8 @@
       "countryName": "Vietnam",
       "anonymity": "elite",
       "latencyMs": 3616,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "103.122.1.61",
@@ -3732,8 +4216,8 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 4717,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "103.134.220.143",
@@ -3743,19 +4227,8 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 4238,
-      "uptimePct": 11,
-      "score": 7
-    },
-    {
-      "ip": "103.157.116.179",
-      "port": 10810,
-      "protocol": "socks4",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "elite",
-      "latencyMs": 1871,
-      "uptimePct": 12,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "109.94.1.23",
@@ -3765,8 +4238,8 @@
       "countryName": "Russia",
       "anonymity": null,
       "latencyMs": 4834,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "111.90.169.178",
@@ -3776,8 +4249,19 @@
       "countryName": "India",
       "anonymity": "elite",
       "latencyMs": 2133,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
+    },
+    {
+      "ip": "128.140.113.110",
+      "port": 8080,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": "elite",
+      "latencyMs": 2003,
+      "uptimePct": 9,
+      "score": 5
     },
     {
       "ip": "129.226.206.61",
@@ -3787,19 +4271,8 @@
       "countryName": "Singapore",
       "anonymity": null,
       "latencyMs": 2269,
-      "uptimePct": 11,
-      "score": 7
-    },
-    {
-      "ip": "13.215.27.14",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": "elite",
-      "latencyMs": 1949,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "160.19.18.243",
@@ -3809,8 +4282,8 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 3200,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "164.52.216.68",
@@ -3820,8 +4293,8 @@
       "countryName": "India",
       "anonymity": null,
       "latencyMs": 1547,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "177.130.25.76",
@@ -3831,8 +4304,8 @@
       "countryName": "Brazil",
       "anonymity": null,
       "latencyMs": 2574,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "181.79.80.181",
@@ -3842,8 +4315,19 @@
       "countryName": "Colombia",
       "anonymity": null,
       "latencyMs": 2146,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
+    },
+    {
+      "ip": "188.132.249.66",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "sy",
+      "countryName": "Syria",
+      "anonymity": "elite",
+      "latencyMs": 5229,
+      "uptimePct": 9,
+      "score": 5
     },
     {
       "ip": "190.61.40.85",
@@ -3853,8 +4337,8 @@
       "countryName": "Colombia",
       "anonymity": "anonymous",
       "latencyMs": 1853,
-      "uptimePct": 12,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "203.189.159.241",
@@ -3864,8 +4348,30 @@
       "countryName": "Cambodia",
       "anonymity": "elite",
       "latencyMs": 4004,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
+    },
+    {
+      "ip": "31.76.31.119",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": "elite",
+      "latencyMs": 2144,
+      "uptimePct": 9,
+      "score": 5
+    },
+    {
+      "ip": "38.199.26.42",
+      "port": 999,
+      "protocol": "http",
+      "country": "co",
+      "countryName": "Colombia",
+      "anonymity": "anonymous",
+      "latencyMs": 689,
+      "uptimePct": 9,
+      "score": 5
     },
     {
       "ip": "38.210.179.186",
@@ -3875,8 +4381,8 @@
       "countryName": "Mexico",
       "anonymity": null,
       "latencyMs": 2213,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "45.229.17.130",
@@ -3886,8 +4392,8 @@
       "countryName": "Ecuador",
       "anonymity": null,
       "latencyMs": 1605,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
       "ip": "77.238.237.253",
@@ -3897,41 +4403,30 @@
       "countryName": "The Netherlands",
       "anonymity": "elite",
       "latencyMs": 5224,
-      "uptimePct": 11,
-      "score": 7
+      "uptimePct": 8,
+      "score": 5
     },
     {
-      "ip": "165.154.162.73",
-      "port": 8888,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
+      "ip": "85.117.32.166",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "ge",
+      "countryName": "Georgia",
       "anonymity": "elite",
-      "latencyMs": 3330,
-      "uptimePct": 10,
-      "score": 6
+      "latencyMs": 2161,
+      "uptimePct": 9,
+      "score": 5
     },
     {
-      "ip": "43.209.173.229",
-      "port": 9332,
-      "protocol": "http",
-      "country": "th",
-      "countryName": "Thailand",
-      "anonymity": null,
-      "latencyMs": 3102,
-      "uptimePct": 10,
-      "score": 6
-    },
-    {
-      "ip": "78.12.252.87",
-      "port": 16351,
-      "protocol": "http",
-      "country": "mx",
-      "countryName": "Mexico",
-      "anonymity": null,
-      "latencyMs": 2720,
-      "uptimePct": 10,
-      "score": 6
+      "ip": "89.189.132.154",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 2369,
+      "uptimePct": 9,
+      "score": 5
     },
     {
       "ip": "1.20.235.153",
@@ -3941,8 +4436,8 @@
       "countryName": "Thailand",
       "anonymity": "elite",
       "latencyMs": 4038,
-      "uptimePct": 9,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "138.124.68.235",
@@ -3952,8 +4447,8 @@
       "countryName": "Netherlands",
       "anonymity": "elite",
       "latencyMs": 2838,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "143.255.109.76",
@@ -3963,8 +4458,8 @@
       "countryName": "Brazil",
       "anonymity": "elite",
       "latencyMs": 1185,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "157.10.97.153",
@@ -3974,8 +4469,8 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 1335,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "177.136.124.46",
@@ -3985,8 +4480,8 @@
       "countryName": "Brazil",
       "anonymity": "elite",
       "latencyMs": 776,
-      "uptimePct": 9,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "179.1.203.122",
@@ -3996,8 +4491,8 @@
       "countryName": "Colombia",
       "anonymity": "anonymous",
       "latencyMs": 2097,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "190.89.104.88",
@@ -4007,8 +4502,8 @@
       "countryName": "Brazil",
       "anonymity": "elite",
       "latencyMs": 4018,
-      "uptimePct": 9,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "195.158.8.123",
@@ -4018,8 +4513,8 @@
       "countryName": "Uzbekistan",
       "anonymity": "elite",
       "latencyMs": 2599,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "202.95.15.6",
@@ -4029,8 +4524,8 @@
       "countryName": "China",
       "anonymity": "elite",
       "latencyMs": 3054,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "31.220.163.133",
@@ -4040,8 +4535,8 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 3950,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "31.42.6.125",
@@ -4051,8 +4546,19 @@
       "countryName": "Poland",
       "anonymity": "elite",
       "latencyMs": 4716,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
+    },
+    {
+      "ip": "43.209.173.229",
+      "port": 9332,
+      "protocol": "http",
+      "country": "th",
+      "countryName": "Thailand",
+      "anonymity": null,
+      "latencyMs": 3102,
+      "uptimePct": 7,
+      "score": 4
     },
     {
       "ip": "45.228.151.157",
@@ -4062,8 +4568,8 @@
       "countryName": "Brazil",
       "anonymity": "elite",
       "latencyMs": 2142,
-      "uptimePct": 9,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "45.95.232.35",
@@ -4073,19 +4579,8 @@
       "countryName": "Switzerland",
       "anonymity": "elite",
       "latencyMs": 2528,
-      "uptimePct": 8,
-      "score": 5
-    },
-    {
-      "ip": "46.8.48.143",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 2041,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "5.249.165.195",
@@ -4095,8 +4590,8 @@
       "countryName": "Germany",
       "anonymity": "elite",
       "latencyMs": 1716,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "69.55.49.177",
@@ -4106,8 +4601,8 @@
       "countryName": "United States",
       "anonymity": "elite",
       "latencyMs": 1410,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "69.55.49.177",
@@ -4117,8 +4612,8 @@
       "countryName": "United States",
       "anonymity": "elite",
       "latencyMs": 1168,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "78.38.67.210",
@@ -4128,8 +4623,8 @@
       "countryName": "Iran",
       "anonymity": "elite",
       "latencyMs": 2365,
-      "uptimePct": 8,
-      "score": 5
+      "uptimePct": 6,
+      "score": 4
     },
     {
       "ip": "91.211.100.35",
@@ -4139,116 +4634,6 @@
       "countryName": "Poland",
       "anonymity": "elite",
       "latencyMs": 851,
-      "uptimePct": 9,
-      "score": 5
-    },
-    {
-      "ip": "147.45.221.115",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 710,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "15.161.131.175",
-      "port": 8050,
-      "protocol": "http",
-      "country": "it",
-      "countryName": "Italy",
-      "anonymity": null,
-      "latencyMs": 1704,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "160.22.17.4",
-      "port": 9988,
-      "protocol": "socks5",
-      "country": "vn",
-      "countryName": "Vietnam",
-      "anonymity": "elite",
-      "latencyMs": 2244,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "161.18.226.135",
-      "port": 8080,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": null,
-      "latencyMs": 3906,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "18.163.33.4",
-      "port": 11753,
-      "protocol": "http",
-      "country": "hk",
-      "countryName": "Hong Kong",
-      "anonymity": null,
-      "latencyMs": 3046,
-      "uptimePct": 7,
-      "score": 4
-    },
-    {
-      "ip": "185.95.186.165",
-      "port": 48293,
-      "protocol": "socks4",
-      "country": "iq",
-      "countryName": "Iraq",
-      "anonymity": "elite",
-      "latencyMs": 3320,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "190.14.5.164",
-      "port": 5678,
-      "protocol": "socks4",
-      "country": "gt",
-      "countryName": "Guatemala",
-      "anonymity": "elite",
-      "latencyMs": 620,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "192.161.162.254",
-      "port": 8080,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 574,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "193.158.12.141",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": "elite",
-      "latencyMs": 2816,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "195.62.50.10",
-      "port": 8080,
-      "protocol": "http",
-      "country": "sy",
-      "countryName": "Syria",
-      "anonymity": null,
-      "latencyMs": 4016,
       "uptimePct": 6,
       "score": 4
     },
@@ -4260,107 +4645,8 @@
       "countryName": "Brazil",
       "anonymity": "elite",
       "latencyMs": 2019,
-      "uptimePct": 7,
-      "score": 4
-    },
-    {
-      "ip": "206.206.103.117",
-      "port": 8888,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 792,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "36.67.88.77",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "elite",
-      "latencyMs": 3251,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "43.209.173.229",
-      "port": 9100,
-      "protocol": "http",
-      "country": "th",
-      "countryName": "Thailand",
-      "anonymity": null,
-      "latencyMs": 4587,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "45.174.168.53",
-      "port": 999,
-      "protocol": "http",
-      "country": "mx",
-      "countryName": "Mexico",
-      "anonymity": null,
-      "latencyMs": 3407,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "45.188.125.33",
-      "port": 999,
-      "protocol": "http",
-      "country": "mx",
-      "countryName": "Mexico",
-      "anonymity": "anonymous",
-      "latencyMs": 3979,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "46.247.41.222",
-      "port": 443,
-      "protocol": "http",
-      "country": "kz",
-      "countryName": "Kazakhstan",
-      "anonymity": null,
-      "latencyMs": 2312,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "89.151.134.157",
-      "port": 3629,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1894,
-      "uptimePct": 6,
-      "score": 4
-    },
-    {
-      "ip": "154.203.132.81",
-      "port": 1080,
-      "protocol": "http",
-      "country": "sc",
-      "countryName": "Seychelles",
-      "anonymity": "elite",
-      "latencyMs": 1226,
       "uptimePct": 5,
       "score": 3
-    },
-    {
-      "ip": "102.68.76.247",
-      "port": 5566,
-      "protocol": "http",
-      "country": "ke",
-      "countryName": "Kenya",
-      "anonymity": null,
-      "latencyMs": 4034,
-      "uptimePct": 4,
-      "score": 2
     },
     {
       "ip": "103.143.8.126",
@@ -4370,7 +4656,7 @@
       "countryName": "India",
       "anonymity": "elite",
       "latencyMs": 5201,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4381,28 +4667,6 @@
       "countryName": "Bangladesh",
       "anonymity": "elite",
       "latencyMs": 4413,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "103.216.106.119",
-      "port": 8080,
-      "protocol": "http",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": null,
-      "latencyMs": 4185,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "103.40.122.194",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "id",
-      "countryName": "Indonesia",
-      "anonymity": "elite",
-      "latencyMs": 2971,
       "uptimePct": 3,
       "score": 2
     },
@@ -4414,18 +4678,7 @@
       "countryName": "India",
       "anonymity": "anonymous",
       "latencyMs": 2835,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "116.62.60.22",
-      "port": 3128,
-      "protocol": "http",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": null,
-      "latencyMs": 3855,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4436,28 +4689,6 @@
       "countryName": "Bangladesh",
       "anonymity": "elite",
       "latencyMs": 1472,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "13.206.73.237",
-      "port": 12031,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": null,
-      "latencyMs": 4219,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "13.206.73.237",
-      "port": 172,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": null,
-      "latencyMs": 4661,
       "uptimePct": 3,
       "score": 2
     },
@@ -4469,29 +4700,18 @@
       "countryName": "India",
       "anonymity": null,
       "latencyMs": 2241,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "13.235.42.151",
-      "port": 21737,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": null,
-      "latencyMs": 2323,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "13.246.6.135",
-      "port": 15569,
-      "protocol": "http",
-      "country": "za",
-      "countryName": "South Africa",
-      "anonymity": null,
-      "latencyMs": 1970,
       "uptimePct": 3,
+      "score": 2
+    },
+    {
+      "ip": "15.161.131.175",
+      "port": 8050,
+      "protocol": "http",
+      "country": "it",
+      "countryName": "Italy",
+      "anonymity": null,
+      "latencyMs": 1704,
+      "uptimePct": 4,
       "score": 2
     },
     {
@@ -4502,7 +4722,7 @@
       "countryName": "Indonesia",
       "anonymity": null,
       "latencyMs": 3608,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4513,7 +4733,7 @@
       "countryName": "Germany",
       "anonymity": null,
       "latencyMs": 2764,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4524,17 +4744,6 @@
       "countryName": "Germany",
       "anonymity": "elite",
       "latencyMs": 2077,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "159.195.49.27",
-      "port": 8888,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": null,
-      "latencyMs": 2580,
       "uptimePct": 3,
       "score": 2
     },
@@ -4546,95 +4755,62 @@
       "countryName": "United States",
       "anonymity": null,
       "latencyMs": 1191,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
-      "ip": "171.247.242.46",
-      "port": 1080,
+      "ip": "185.95.186.165",
+      "port": 48293,
       "protocol": "socks4",
-      "country": "vn",
-      "countryName": "Vietnam",
+      "country": "iq",
+      "countryName": "Iraq",
       "anonymity": "elite",
-      "latencyMs": 1752,
+      "latencyMs": 3320,
       "uptimePct": 4,
       "score": 2
     },
     {
-      "ip": "18.142.95.213",
-      "port": 38071,
-      "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": null,
-      "latencyMs": 3601,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "18.163.33.4",
-      "port": 51372,
-      "protocol": "http",
-      "country": "hk",
-      "countryName": "Hong Kong",
-      "anonymity": null,
-      "latencyMs": 2302,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "186.1.182.194",
-      "port": 4153,
-      "protocol": "socks4",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": "elite",
-      "latencyMs": 697,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "192.158.15.201",
-      "port": 50877,
-      "protocol": "socks4",
-      "country": "ca",
-      "countryName": "Canada",
-      "anonymity": "elite",
-      "latencyMs": 4389,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "192.162.232.128",
-      "port": 8080,
-      "protocol": "http",
-      "country": "ua",
-      "countryName": "Ukraine",
-      "anonymity": null,
-      "latencyMs": 5274,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "200.10.31.45",
-      "port": 8081,
-      "protocol": "http",
-      "country": "co",
-      "countryName": "Colombia",
-      "anonymity": null,
-      "latencyMs": 2240,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "213.197.136.218",
+      "ip": "190.14.5.164",
       "port": 5678,
       "protocol": "socks4",
-      "country": "lt",
-      "countryName": "Lithuania",
+      "country": "gt",
+      "countryName": "Guatemala",
       "anonymity": "elite",
-      "latencyMs": 2961,
-      "uptimePct": 3,
+      "latencyMs": 620,
+      "uptimePct": 4,
+      "score": 2
+    },
+    {
+      "ip": "192.161.162.254",
+      "port": 8080,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 574,
+      "uptimePct": 4,
+      "score": 2
+    },
+    {
+      "ip": "195.62.50.10",
+      "port": 8080,
+      "protocol": "http",
+      "country": "sy",
+      "countryName": "Syria",
+      "anonymity": null,
+      "latencyMs": 4016,
+      "uptimePct": 4,
+      "score": 2
+    },
+    {
+      "ip": "206.206.103.117",
+      "port": 8888,
+      "protocol": "http",
+      "country": "us",
+      "countryName": "United States",
+      "anonymity": null,
+      "latencyMs": 792,
+      "uptimePct": 4,
       "score": 2
     },
     {
@@ -4645,7 +4821,7 @@
       "countryName": "Cyprus",
       "anonymity": "elite",
       "latencyMs": 2098,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4656,29 +4832,7 @@
       "countryName": "Czechia",
       "anonymity": "elite",
       "latencyMs": 2989,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "27.155.93.29",
-      "port": 1080,
-      "protocol": "http",
-      "country": "sc",
-      "countryName": "Seychelles",
-      "anonymity": "elite",
-      "latencyMs": 4478,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "34.94.46.8",
-      "port": 80,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 574,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4689,18 +4843,18 @@
       "countryName": "Japan",
       "anonymity": null,
       "latencyMs": 2062,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
-      "ip": "43.156.237.221",
-      "port": 80,
-      "protocol": "http",
-      "country": "sg",
-      "countryName": "Singapore",
-      "anonymity": null,
-      "latencyMs": 1835,
-      "uptimePct": 3,
+      "ip": "36.67.88.77",
+      "port": 4153,
+      "protocol": "socks4",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "elite",
+      "latencyMs": 3251,
+      "uptimePct": 4,
       "score": 2
     },
     {
@@ -4711,51 +4865,40 @@
       "countryName": "Thailand",
       "anonymity": null,
       "latencyMs": 3805,
+      "uptimePct": 3,
+      "score": 2
+    },
+    {
+      "ip": "45.174.168.53",
+      "port": 999,
+      "protocol": "http",
+      "country": "mx",
+      "countryName": "Mexico",
+      "anonymity": null,
+      "latencyMs": 3407,
       "uptimePct": 4,
       "score": 2
     },
     {
-      "ip": "43.208.134.144",
-      "port": 44066,
+      "ip": "45.188.125.33",
+      "port": 999,
       "protocol": "http",
-      "country": "th",
-      "countryName": "Thailand",
-      "anonymity": null,
-      "latencyMs": 3594,
-      "uptimePct": 3,
+      "country": "mx",
+      "countryName": "Mexico",
+      "anonymity": "anonymous",
+      "latencyMs": 3979,
+      "uptimePct": 4,
       "score": 2
     },
     {
-      "ip": "43.208.237.116",
-      "port": 55296,
+      "ip": "46.247.41.222",
+      "port": 443,
       "protocol": "http",
-      "country": "th",
-      "countryName": "Thailand",
+      "country": "kz",
+      "countryName": "Kazakhstan",
       "anonymity": null,
-      "latencyMs": 5467,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "54.253.167.61",
-      "port": 5001,
-      "protocol": "http",
-      "country": "au",
-      "countryName": "Australia",
-      "anonymity": null,
-      "latencyMs": 3082,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "54.253.183.151",
-      "port": 42900,
-      "protocol": "http",
-      "country": "au",
-      "countryName": "Australia",
-      "anonymity": null,
-      "latencyMs": 4085,
-      "uptimePct": 3,
+      "latencyMs": 2312,
+      "uptimePct": 4,
       "score": 2
     },
     {
@@ -4766,50 +4909,6 @@
       "countryName": "Japan",
       "anonymity": null,
       "latencyMs": 2766,
-      "uptimePct": 4,
-      "score": 2
-    },
-    {
-      "ip": "56.68.116.64",
-      "port": 26942,
-      "protocol": "http",
-      "country": "my",
-      "countryName": "Malaysia",
-      "anonymity": null,
-      "latencyMs": 2321,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "58.69.250.43",
-      "port": 8082,
-      "protocol": "http",
-      "country": "ph",
-      "countryName": "Philippines",
-      "anonymity": null,
-      "latencyMs": 3411,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "63.181.83.210",
-      "port": 3838,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": null,
-      "latencyMs": 1339,
-      "uptimePct": 3,
-      "score": 2
-    },
-    {
-      "ip": "77.110.97.179",
-      "port": 1080,
-      "protocol": "socks5",
-      "country": "se",
-      "countryName": "Sweden",
-      "anonymity": "elite",
-      "latencyMs": 898,
       "uptimePct": 3,
       "score": 2
     },
@@ -4821,7 +4920,7 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 1349,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4832,7 +4931,7 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 1560,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4843,7 +4942,7 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 1816,
-      "uptimePct": 4,
+      "uptimePct": 3,
       "score": 2
     },
     {
@@ -4854,6 +4953,17 @@
       "countryName": "Poland",
       "anonymity": "elite",
       "latencyMs": 1814,
+      "uptimePct": 3,
+      "score": 2
+    },
+    {
+      "ip": "89.151.134.157",
+      "port": 3629,
+      "protocol": "socks4",
+      "country": "ru",
+      "countryName": "Russia",
+      "anonymity": "elite",
+      "latencyMs": 1894,
       "uptimePct": 4,
       "score": 2
     },
@@ -4865,6 +4975,17 @@
       "countryName": "Indonesia",
       "anonymity": "elite",
       "latencyMs": 5175,
+      "uptimePct": 1,
+      "score": 1
+    },
+    {
+      "ip": "103.216.106.119",
+      "port": 8080,
+      "protocol": "http",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": null,
+      "latencyMs": 4185,
       "uptimePct": 2,
       "score": 1
     },
@@ -4877,6 +4998,17 @@
       "anonymity": null,
       "latencyMs": 1895,
       "uptimePct": 1,
+      "score": 1
+    },
+    {
+      "ip": "103.40.122.194",
+      "port": 1080,
+      "protocol": "socks4",
+      "country": "id",
+      "countryName": "Indonesia",
+      "anonymity": "elite",
+      "latencyMs": 2971,
+      "uptimePct": 2,
       "score": 1
     },
     {
@@ -4913,25 +5045,14 @@
       "score": 1
     },
     {
-      "ip": "119.18.147.146",
-      "port": 8080,
+      "ip": "13.206.73.237",
+      "port": 12031,
       "protocol": "http",
-      "country": "bd",
-      "countryName": "Bangladesh",
+      "country": "in",
+      "countryName": "India",
       "anonymity": null,
-      "latencyMs": 3880,
-      "uptimePct": 1,
-      "score": 1
-    },
-    {
-      "ip": "13.208.166.217",
-      "port": 213,
-      "protocol": "http",
-      "country": "jp",
-      "countryName": "Japan",
-      "anonymity": null,
-      "latencyMs": 5449,
-      "uptimePct": 1,
+      "latencyMs": 4219,
+      "uptimePct": 2,
       "score": 1
     },
     {
@@ -4946,14 +5067,14 @@
       "score": 1
     },
     {
-      "ip": "13.38.217.179",
-      "port": 29788,
+      "ip": "13.246.6.135",
+      "port": 15569,
       "protocol": "http",
-      "country": "fr",
-      "countryName": "France",
+      "country": "za",
+      "countryName": "South Africa",
       "anonymity": null,
-      "latencyMs": 2114,
-      "uptimePct": 1,
+      "latencyMs": 1970,
+      "uptimePct": 2,
       "score": 1
     },
     {
@@ -4975,7 +5096,7 @@
       "countryName": "Türkiye",
       "anonymity": "elite",
       "latencyMs": 768,
-      "uptimePct": 2,
+      "uptimePct": 1,
       "score": 1
     },
     {
@@ -5008,18 +5129,7 @@
       "countryName": "Russia",
       "anonymity": "elite",
       "latencyMs": 1587,
-      "uptimePct": 2,
-      "score": 1
-    },
-    {
-      "ip": "147.45.60.136",
-      "port": 1082,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1328,
-      "uptimePct": 2,
+      "uptimePct": 1,
       "score": 1
     },
     {
@@ -5034,13 +5144,13 @@
       "score": 1
     },
     {
-      "ip": "154.203.132.81",
-      "port": 1080,
-      "protocol": "https",
-      "country": "hk",
-      "countryName": "Hong Kong SAR China",
-      "anonymity": "elite",
-      "latencyMs": 1645,
+      "ip": "159.195.49.27",
+      "port": 8888,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": null,
+      "latencyMs": 2580,
       "uptimePct": 2,
       "score": 1
     },
@@ -5052,29 +5162,7 @@
       "countryName": "Hong Kong",
       "anonymity": "elite",
       "latencyMs": 1810,
-      "uptimePct": 2,
-      "score": 1
-    },
-    {
-      "ip": "164.52.216.71",
-      "port": 8080,
-      "protocol": "http",
-      "country": "in",
-      "countryName": "India",
-      "anonymity": "elite",
-      "latencyMs": 1928,
       "uptimePct": 1,
-      "score": 1
-    },
-    {
-      "ip": "165.22.161.41",
-      "port": 8118,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 4748,
-      "uptimePct": 2,
       "score": 1
     },
     {
@@ -5122,6 +5210,28 @@
       "score": 1
     },
     {
+      "ip": "192.158.15.201",
+      "port": 50877,
+      "protocol": "socks4",
+      "country": "ca",
+      "countryName": "Canada",
+      "anonymity": "elite",
+      "latencyMs": 4389,
+      "uptimePct": 2,
+      "score": 1
+    },
+    {
+      "ip": "192.162.232.128",
+      "port": 8080,
+      "protocol": "http",
+      "country": "ua",
+      "countryName": "Ukraine",
+      "anonymity": null,
+      "latencyMs": 5274,
+      "uptimePct": 2,
+      "score": 1
+    },
+    {
       "ip": "193.23.222.22",
       "port": 1088,
       "protocol": "socks5",
@@ -5151,7 +5261,7 @@
       "countryName": "Mexico",
       "anonymity": null,
       "latencyMs": 3482,
-      "uptimePct": 2,
+      "uptimePct": 1,
       "score": 1
     },
     {
@@ -5162,6 +5272,17 @@
       "countryName": "Peru",
       "anonymity": null,
       "latencyMs": 4493,
+      "uptimePct": 1,
+      "score": 1
+    },
+    {
+      "ip": "213.197.136.218",
+      "port": 5678,
+      "protocol": "socks4",
+      "country": "lt",
+      "countryName": "Lithuania",
+      "anonymity": "elite",
+      "latencyMs": 2961,
       "uptimePct": 2,
       "score": 1
     },
@@ -5199,28 +5320,6 @@
       "score": 1
     },
     {
-      "ip": "27.155.93.29",
-      "port": 1080,
-      "protocol": "https",
-      "country": "cn",
-      "countryName": "China",
-      "anonymity": "elite",
-      "latencyMs": 1275,
-      "uptimePct": 2,
-      "score": 1
-    },
-    {
-      "ip": "3.121.130.230",
-      "port": 9898,
-      "protocol": "http",
-      "country": "de",
-      "countryName": "Germany",
-      "anonymity": null,
-      "latencyMs": 1884,
-      "uptimePct": 1,
-      "score": 1
-    },
-    {
       "ip": "34.207.102.197",
       "port": 4422,
       "protocol": "http",
@@ -5229,17 +5328,6 @@
       "anonymity": null,
       "latencyMs": 3890,
       "uptimePct": 1,
-      "score": 1
-    },
-    {
-      "ip": "34.207.102.197",
-      "port": 17582,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 1303,
-      "uptimePct": 2,
       "score": 1
     },
     {
@@ -5254,17 +5342,6 @@
       "score": 1
     },
     {
-      "ip": "34.220.80.147",
-      "port": 36342,
-      "protocol": "http",
-      "country": "us",
-      "countryName": "United States",
-      "anonymity": null,
-      "latencyMs": 4443,
-      "uptimePct": 2,
-      "score": 1
-    },
-    {
       "ip": "38.199.31.148",
       "port": 9992,
       "protocol": "http",
@@ -5276,17 +5353,6 @@
       "score": 1
     },
     {
-      "ip": "38.255.121.1",
-      "port": 999,
-      "protocol": "http",
-      "country": "do",
-      "countryName": "Dominican Republic",
-      "anonymity": "anonymous",
-      "latencyMs": 1605,
-      "uptimePct": 1,
-      "score": 1
-    },
-    {
       "ip": "41.249.223.6",
       "port": 30001,
       "protocol": "http",
@@ -5294,18 +5360,29 @@
       "countryName": "Morocco",
       "anonymity": "transparent",
       "latencyMs": 1168,
+      "uptimePct": 1,
+      "score": 1
+    },
+    {
+      "ip": "43.156.237.221",
+      "port": 80,
+      "protocol": "http",
+      "country": "sg",
+      "countryName": "Singapore",
+      "anonymity": null,
+      "latencyMs": 1835,
       "uptimePct": 2,
       "score": 1
     },
     {
-      "ip": "43.208.243.207",
-      "port": 49551,
+      "ip": "43.208.134.144",
+      "port": 44066,
       "protocol": "http",
       "country": "th",
       "countryName": "Thailand",
       "anonymity": null,
-      "latencyMs": 2523,
-      "uptimePct": 1,
+      "latencyMs": 3594,
+      "uptimePct": 2,
       "score": 1
     },
     {
@@ -5371,7 +5448,7 @@
       "countryName": "Hong Kong SAR China",
       "anonymity": "elite",
       "latencyMs": 3729,
-      "uptimePct": 2,
+      "uptimePct": 1,
       "score": 1
     },
     {
@@ -5409,24 +5486,46 @@
     },
     {
       "ip": "54.253.167.61",
-      "port": 1234,
+      "port": 5001,
       "protocol": "http",
       "country": "au",
       "countryName": "Australia",
       "anonymity": null,
-      "latencyMs": 4196,
-      "uptimePct": 1,
+      "latencyMs": 3082,
+      "uptimePct": 2,
       "score": 1
     },
     {
-      "ip": "56.155.73.159",
-      "port": 35570,
+      "ip": "54.253.183.151",
+      "port": 42900,
       "protocol": "http",
-      "country": "jp",
-      "countryName": "Japan",
+      "country": "au",
+      "countryName": "Australia",
       "anonymity": null,
-      "latencyMs": 3794,
-      "uptimePct": 1,
+      "latencyMs": 4085,
+      "uptimePct": 2,
+      "score": 1
+    },
+    {
+      "ip": "56.68.116.64",
+      "port": 26942,
+      "protocol": "http",
+      "country": "my",
+      "countryName": "Malaysia",
+      "anonymity": null,
+      "latencyMs": 2321,
+      "uptimePct": 2,
+      "score": 1
+    },
+    {
+      "ip": "58.69.250.43",
+      "port": 8082,
+      "protocol": "http",
+      "country": "ph",
+      "countryName": "Philippines",
+      "anonymity": null,
+      "latencyMs": 3411,
+      "uptimePct": 2,
       "score": 1
     },
     {
@@ -5441,24 +5540,24 @@
       "score": 1
     },
     {
-      "ip": "82.114.228.67",
-      "port": 1080,
-      "protocol": "socks4",
-      "country": "ru",
-      "countryName": "Russia",
-      "anonymity": "elite",
-      "latencyMs": 1900,
-      "uptimePct": 1,
+      "ip": "63.181.83.210",
+      "port": 3838,
+      "protocol": "http",
+      "country": "de",
+      "countryName": "Germany",
+      "anonymity": null,
+      "latencyMs": 1339,
+      "uptimePct": 2,
       "score": 1
     },
     {
-      "ip": "83.56.15.57",
-      "port": 5678,
-      "protocol": "socks4",
-      "country": "es",
-      "countryName": "Spain",
+      "ip": "77.110.97.179",
+      "port": 1080,
+      "protocol": "socks5",
+      "country": "se",
+      "countryName": "Sweden",
       "anonymity": "elite",
-      "latencyMs": 1890,
+      "latencyMs": 898,
       "uptimePct": 2,
       "score": 1
     },
@@ -5470,7 +5569,7 @@
       "countryName": "Türkiye",
       "anonymity": "elite",
       "latencyMs": 3030,
-      "uptimePct": 2,
+      "uptimePct": 1,
       "score": 1
     },
     {
