@@ -1,9 +1,9 @@
 # Free Proxy List — checked every 30 minutes
 
-**724 live proxies** · 68 countries · updated **2026-08-26 06:26 UTC**
+**724 live proxies** · 68 countries · updated **2026-08-26 06:56 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
-request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
+request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **6.0 hours** (median 30 minutes).
 Entries that stop answering are dropped, not left to rot. That is the only thing
 this repo does differently, and it is the whole point: most public lists are
 unvalidated scrapes where the majority of entries are already dead when you
@@ -13,7 +13,7 @@ download them.
 |---|---|
 | Live now | **724** |
 | Countries | 68 |
-| Median latency | 2482 ms |
+| Median latency | 2513 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
