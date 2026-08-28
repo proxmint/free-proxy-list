@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**646 live proxies** · 68 countries · updated **2026-08-28 17:26 UTC**
+**646 live proxies** · 69 countries · updated **2026-08-28 17:56 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
@@ -12,8 +12,8 @@ download them.
 | | |
 |---|---|
 | Live now | **646** |
-| Countries | 68 |
-| Median latency | 2267 ms |
+| Countries | 69 |
+| Median latency | 2259 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
@@ -21,14 +21,14 @@ download them.
 | File | Count | Format |
 |---|---|---|
 | [`proxies/all.txt`](proxies/all.txt) | 646 | `protocol://ip:port` |
-| [`proxies/http.txt`](proxies/http.txt) | 369 | `ip:port` |
+| [`proxies/http.txt`](proxies/http.txt) | 370 | `ip:port` |
 | [`proxies/https.txt`](proxies/https.txt) | 13 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 122 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 142 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 333 | `protocol://ip:port`, no leak found |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 124 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 139 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 337 | `protocol://ip:port`, no leak found |
 | [`proxies/all.json`](proxies/all.json) | 646 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (74) · China (54) · Russia (51) · Indonesia (29) · France (28) · Germany (26) · India (23) · Thailand (23) · The Netherlands (21) · South Korea (19)
+Top countries: United States (74) · China (54) · Russia (52) · Indonesia (31) · France (29) · Germany (26) · India (23) · Thailand (22) · The Netherlands (20) · Vietnam (18)
 
 ## Use it
 
