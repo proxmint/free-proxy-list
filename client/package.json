@@ -1,0 +1,50 @@
+{
+  "name": "proxmint",
+  "version": "0.1.0",
+  "description": "Free proxy list, re-validated every 30 minutes. Zero-dependency client and CLI for the Proxmint public API.",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "bin": {
+    "proxmint": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "homepage": "https://proxmint.com/free-proxies#api",
+  "bugs": "https://github.com/proxmint/free-proxy-list/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxmint/free-proxy-list.git",
+    "directory": "client"
+  },
+  "keywords": [
+    "proxy",
+    "proxies",
+    "free-proxy",
+    "proxy-list",
+    "socks5",
+    "socks4",
+    "http-proxy",
+    "scraping",
+    "web-scraping",
+    "rotating-proxy"
+  ],
+  "scripts": {
+    "test": "node --test"
+  }
+}
