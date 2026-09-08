@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**1307 live proxies** · 102 countries · updated **2026-09-08 21:56 UTC**
+**1417 live proxies** · 102 countries · updated **2026-09-08 22:26 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
@@ -11,24 +11,24 @@ download them.
 
 | | |
 |---|---|
-| Live now | **1307** |
+| Live now | **1417** |
 | Countries | 102 |
-| Median latency | 2451 ms |
+| Median latency | 2416 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 1307 | `protocol://ip:port` |
-| [`proxies/http.txt`](proxies/http.txt) | 454 | `ip:port` |
+| [`proxies/all.txt`](proxies/all.txt) | 1417 | `protocol://ip:port` |
+| [`proxies/http.txt`](proxies/http.txt) | 550 | `ip:port` |
 | [`proxies/https.txt`](proxies/https.txt) | 7 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 594 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 252 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 899 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 1307 | country, anonymity, latency, uptime, score |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 602 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 258 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 913 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 1417 | country, anonymity, latency, uptime, score |
 
-Top countries: Indonesia (164) · United States (114) · Russia (95) · China (79) · Brazil (63) · Netherlands (49) · Germany (47) · Bangladesh (46) · Thailand (43) · India (39)
+Top countries: Indonesia (186) · United States (118) · Russia (97) · China (82) · Netherlands (76) · Brazil (63) · Germany (57) · Bangladesh (47) · Thailand (42) · India (40)
 
 ## Use it
 
@@ -61,10 +61,10 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 571 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 663 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 9 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 467 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 260 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 479 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 266 |
 
 ## Fields in `all.json`
 
@@ -111,6 +111,12 @@ Published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — se
 list for anything, including commercially: republish it, ship it inside a product,
 train on it. The one condition is credit — name Proxmint and link back to
 <https://proxmint.com/free-proxies>. Nothing here is warranted; see the warning above.
+
+Paste this credit line as-is:
+
+```markdown
+Proxy data from [Proxmint's Free Proxy List](https://proxmint.com/free-proxies) ([source](https://github.com/proxmint/free-proxy-list)), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+```
 
 The proxies themselves are public infrastructure we did not create and do not own.
 What is licensed is this compilation: the selection, the validation results, and the
