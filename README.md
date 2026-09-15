@@ -1,9 +1,9 @@
 # Free Proxy List — checked every 30 minutes
 
-**1428 live proxies** · 88 countries · updated **2026-09-15 15:26 UTC**
+**1425 live proxies** · 88 countries · updated **2026-09-15 15:56 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
-request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 60 minutes).
+request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
 Entries that stop answering are dropped, not left to rot. That is the only thing
 this repo does differently, and it is the whole point: most public lists are
 unvalidated scrapes where the majority of entries are already dead when you
@@ -11,24 +11,24 @@ download them.
 
 | | |
 |---|---|
-| Live now | **1428** |
+| Live now | **1425** |
 | Countries | 88 |
-| Median latency | 2777 ms |
+| Median latency | 2758 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 1428 | `protocol://ip:port` |
+| [`proxies/all.txt`](proxies/all.txt) | 1425 | `protocol://ip:port` |
 | [`proxies/http.txt`](proxies/http.txt) | 296 | `ip:port` |
 | [`proxies/https.txt`](proxies/https.txt) | 7 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 497 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 628 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 1174 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 1428 | country, anonymity, latency, uptime, score |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 504 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 618 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 1170 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 1425 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (257) · France (170) · Indonesia (118) · Netherlands (82) · Russia (76) · India (63) · Vietnam (62) · Brazil (58) · China (43) · Bangladesh (40)
+Top countries: United States (256) · France (163) · Indonesia (114) · Netherlands (84) · Russia (78) · India (62) · Vietnam (62) · Brazil (61) · China (43) · Bangladesh (40)
 
 ## Use it
 
@@ -61,10 +61,10 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 788 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 776 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 8 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 364 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 268 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 371 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 270 |
 
 ## Fields in `all.json`
 
