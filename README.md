@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**1533 live proxies** · 95 countries · updated **2026-09-20 04:26 UTC**
+**1537 live proxies** · 94 countries · updated **2026-09-20 04:56 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
@@ -11,8 +11,8 @@ download them.
 
 | | |
 |---|---|
-| Live now | **1533** |
-| Countries | 95 |
+| Live now | **1537** |
+| Countries | 94 |
 | Median latency | 2440 ms |
 | Re-validated | every 30 minutes |
 
@@ -20,15 +20,15 @@ download them.
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 1533 | `protocol://ip:port` |
-| [`proxies/http.txt`](proxies/http.txt) | 505 | `ip:port` |
+| [`proxies/all.txt`](proxies/all.txt) | 1537 | `protocol://ip:port` |
+| [`proxies/http.txt`](proxies/http.txt) | 510 | `ip:port` |
 | [`proxies/https.txt`](proxies/https.txt) | 7 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 438 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 583 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 1105 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 1533 | country, anonymity, latency, uptime, score |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 442 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 578 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 1106 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 1537 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (297) · Indonesia (122) · France (121) · China (95) · Netherlands (66) · Russia (65) · India (58) · Vietnam (58) · Germany (53) · Brazil (48)
+Top countries: United States (302) · Indonesia (120) · France (110) · China (95) · Netherlands (66) · Russia (65) · Vietnam (60) · India (58) · Germany (53) · Brazil (47)
 
 ## Use it
 
@@ -61,10 +61,10 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 695 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 693 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 7 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 394 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 437 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 398 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 439 |
 
 ## Fields in `all.json`
 
