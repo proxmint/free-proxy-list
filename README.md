@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**1144 live proxies** · 90 countries · updated **2026-10-25 15:56 UTC**
+**1095 live proxies** · 90 countries · updated **2026-10-25 16:26 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 30 minutes).
@@ -11,24 +11,24 @@ download them.
 
 | | |
 |---|---|
-| Live now | **1144** |
+| Live now | **1095** |
 | Countries | 90 |
-| Median latency | 2625 ms |
+| Median latency | 2583 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 1144 | `protocol://ip:port` |
-| [`proxies/http.txt`](proxies/http.txt) | 410 | `ip:port` |
-| [`proxies/https.txt`](proxies/https.txt) | 60 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 394 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 280 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 728 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 1144 | country, anonymity, latency, uptime, score |
+| [`proxies/all.txt`](proxies/all.txt) | 1095 | `protocol://ip:port` |
+| [`proxies/http.txt`](proxies/http.txt) | 383 | `ip:port` |
+| [`proxies/https.txt`](proxies/https.txt) | 58 | `ip:port` |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 388 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 266 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 708 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 1095 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (171) · Netherlands (108) · Indonesia (85) · Brazil (56) · Vietnam (46) · China (39) · Germany (36) · Russia (36) · Colombia (33) · Thailand (30)
+Top countries: United States (160) · Netherlands (106) · Indonesia (81) · Brazil (50) · Vietnam (37) · Germany (36) · China (36) · Russia (35) · Colombia (34) · Thailand (27)
 
 ## Use it
 
@@ -61,10 +61,10 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 468 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 432 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 1 |
 | [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 262 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 413 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 400 |
 
 ## Fields in `all.json`
 
@@ -117,6 +117,9 @@ Paste this credit line as-is:
 ```markdown
 Proxy data from [Proxmint's Free Proxy List](https://proxmint.com/free-proxies) ([source](https://github.com/proxmint/free-proxy-list)), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ```
+
+Citing it in a paper or report? Use the DOI [10.5281/zenodo.23645531](https://doi.org/10.5281/zenodo.23645531). It always
+resolves to the latest archived snapshot on Zenodo.
 
 The proxies themselves are public infrastructure we did not create and do not own.
 What is licensed is this compilation: the selection, the validation results, and the
