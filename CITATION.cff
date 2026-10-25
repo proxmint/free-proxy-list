@@ -14,6 +14,7 @@ authors:
 repository-code: "https://github.com/proxmint/free-proxy-list"
 url: "https://proxmint.com/free-proxies"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23645531
 keywords:
   - free proxy list
   - open proxies
