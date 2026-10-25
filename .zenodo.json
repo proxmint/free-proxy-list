@@ -1,0 +1,13 @@
+{
+  "title": "Proxmint Free Proxy List",
+  "upload_type": "dataset",
+  "description": "<p>A point-in-time snapshot of the Proxmint Free Proxy List: open HTTP, HTTPS, SOCKS4 and SOCKS5 proxies, each re-tested with a real request routed through it. The live list is re-validated every 30 minutes at <a href=\"https://proxmint.com/free-proxies\">proxmint.com/free-proxies</a> and mirrored in <a href=\"https://github.com/proxmint/free-proxy-list\">proxmint/free-proxy-list</a>. Free proxies go stale within hours, so use this record to cite or study the list, and use the live API for working proxies.</p><p>Files: <code>proxies/*.txt</code> per protocol, <code>proxies/all.json</code> with country, anonymity, latency, uptime and score. The proxies are other people's infrastructure and are not claimed; the compilation (selection, validation results, measured fields) is licensed CC BY 4.0.</p>",
+  "creators": [{"name": "Proxmint"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["free proxy list", "open proxies", "socks5", "http proxy", "web scraping", "dataset"],
+  "related_identifiers": [
+    {"identifier": "https://proxmint.com/free-proxies", "relation": "isDocumentedBy", "scheme": "url"},
+    {"identifier": "https://github.com/proxmint/free-proxy-list", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
