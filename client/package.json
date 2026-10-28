@@ -1,6 +1,6 @@
 {
   "name": "proxmint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Free proxy list, re-validated every 30 minutes. Zero-dependency client and CLI for the Proxmint public API.",
   "type": "module",
   "main": "./index.js",

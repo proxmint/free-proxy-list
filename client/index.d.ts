@@ -45,5 +45,8 @@ export declare class ProxmintError extends Error {
 export declare function fetchProxies(options?: FetchOptions): Promise<Proxy[]>;
 /** `ip:port` strings. */
 export declare function fetchProxyLines(options?: FetchOptions): Promise<string[]>;
-/** `protocol://ip:port` URLs. */
+/** Proxy URLs: `http://` for `http` and `https` proxies (both are HTTP proxies;
+ *  `https` ones also tunnel TLS), `socks4://` and `socks5://` for the rest. */
 export declare function fetchProxyUrls(options?: FetchOptions): Promise<string[]>;
+/** The proxy URL for one row, as `fetchProxyUrls` builds it. */
+export declare function proxyUrl(proxy: Pick<Proxy, "protocol" | "ip" | "port">): string;

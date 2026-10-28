@@ -1,7 +1,7 @@
 API <- "https://proxmint.com/api/free-proxies"
 # The server caps a page at 200 rows, so larger requests are paged.
 MAX_PAGE_SIZE <- 200
-UA <- "proxmint-r/0.1.0 (+https://proxmint.com/free-proxies)"
+UA <- "proxmint-r/0.1.1 (+https://proxmint.com/free-proxies)"
 
 free_proxies <- function(protocol = NULL, country = NULL, anonymity = NULL,
                          sort = c("score", "latency", "uptime", "checked"),
@@ -26,7 +26,9 @@ free_proxies <- function(protocol = NULL, country = NULL, anonymity = NULL,
 
 proxy_urls <- function(proxies) {
   if (is.null(proxies) || nrow(proxies) == 0) return(character())
-  paste0(proxies$protocol, "://", proxies$ip, ":", proxies$port)
+  # An "https" proxy is an HTTP proxy that can tunnel TLS with CONNECT, so clients reach
+  # it over http://; an https:// URL makes them attempt TLS to the proxy itself.
+  paste0(sub("^https$", "http", proxies$protocol), "://", proxies$ip, ":", proxies$port)
 }
 
 fetch_proxies <- function(protocol, country, anonymity, sort, limit) {

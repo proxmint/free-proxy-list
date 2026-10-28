@@ -20,7 +20,7 @@ npx proxmint
 ```bash
 npx proxmint                              # 20 fastest, ip:port, one per line
 npx proxmint -p socks5 -c de -n 50        # 50 german socks5
-npx proxmint --sort latency --url         # protocol://ip:port
+npx proxmint --sort latency --url         # proxy URLs, e.g. socks5://ip:port
 npx proxmint --json | jq '.[] | select(.uptimePct > 90)'
 ```
 
@@ -31,7 +31,7 @@ npx proxmint --json | jq '.[] | select(.uptimePct > 90)'
 | `-a, --anonymity` | `elite` · `anonymous` · `transparent` |
 | `-s, --sort` | `score` · `latency` · `uptime` · `checked` (default `score`) |
 | `-n, --limit` | how many to print (default 20) |
-| `--url` | print `protocol://ip:port` |
+| `--url` | print proxy URLs: `socks4://` and `socks5://`, and `http://` for both `http` and `https` proxies |
 | `--json` | full rows as JSON |
 
 Output goes to stdout one per line, so it pipes into anything. Messages and errors go to stderr.
@@ -49,7 +49,7 @@ const urls = await fetchProxyUrls({ sort: "latency", limit: 10 });
 // ["socks5://69.55.49.177:38182", ...]
 ```
 
-`fetchProxyLines()` returns bare `ip:port` strings. All three take the same options and page automatically past the API's 200-rows-per-request cap. Ships its own TypeScript types.
+`fetchProxyLines()` returns bare `ip:port` strings. An `https` proxy is an HTTP proxy that can also tunnel TLS, so its URL starts with `http://`; `proxyUrl(row)` builds the same URL for one row. All three take the same options and page automatically past the API's 200-rows-per-request cap. Ships its own TypeScript types.
 
 Failures throw `ProxmintError` with a `status`.
 

@@ -6,9 +6,9 @@
  * Argument parsing is node's own util.parseArgs; this package has no deps.
  */
 import { parseArgs } from "node:util";
-import { fetchProxies, ProxmintError } from "./index.js";
+import { fetchProxies, proxyUrl, ProxmintError } from "./index.js";
 
-const VERSION = "0.1.0";
+const VERSION = "0.1.1";
 
 const HELP = `
   proxmint — free proxies, re-validated every 30 minutes
@@ -22,7 +22,7 @@ const HELP = `
     -a, --anonymity <a>  elite | anonymous | transparent
     -s, --sort <s>       score | latency | uptime | checked   (default: score)
     -n, --limit <n>      how many to print                    (default: 20)
-        --url            print protocol://ip:port
+        --url            print proxy URLs (https proxies as http://)
         --json           print the full rows as JSON
     -h, --help
     -v, --version
@@ -91,7 +91,7 @@ try {
   if (values.json) {
     process.stdout.write(`${JSON.stringify(rows, null, 2)}\n`);
   } else {
-    const line = values.url ? (p) => `${p.protocol}://${p.ip}:${p.port}` : (p) => `${p.ip}:${p.port}`;
+    const line = values.url ? proxyUrl : (p) => `${p.ip}:${p.port}`;
     process.stdout.write(`${rows.map(line).join("\n")}\n`);
   }
 } catch (err) {

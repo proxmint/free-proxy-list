@@ -24,6 +24,7 @@ stopifnot(
   inherits(df$last_checked, "POSIXct"),
   identical(format(df$last_checked[1], "%Y-%m-%d %H:%M:%S", tz = "UTC"), "2026-10-28 10:56:12"),
   identical(proxy_urls(df), c("socks5://1.2.3.4:1080", "http://5.6.7.8:3128")),
+  identical(proxy_urls(data.frame(protocol = "https", ip = "9.9.9.9", port = 8080L)), "http://9.9.9.9:8080"),
   identical(proxy_urls(NULL), character()),
   nrow(proxmint:::as_proxy_frame(NULL)) == 0
 )

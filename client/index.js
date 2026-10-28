@@ -11,7 +11,7 @@ const API = "https://proxmint.com/api/free-proxies";
 /** Server caps pageSize here, so anything larger has to be paged. */
 const MAX_PAGE_SIZE = 200;
 
-const UA = "proxmint-npm/0.1.0 (+https://proxmint.com/free-proxies)";
+const UA = "proxmint-npm/0.1.1 (+https://proxmint.com/free-proxies)";
 
 export class ProxmintError extends Error {
   constructor(message, status) {
@@ -81,8 +81,15 @@ export async function fetchProxyLines(options = {}) {
   return rows.map((p) => `${p.ip}:${p.port}`);
 }
 
-/** `protocol://ip:port` URLs, for anything that takes a proxy URL directly. */
+/**
+ * The proxy URL for one row. An `https` proxy is an HTTP proxy that can tunnel TLS
+ * with CONNECT, so clients reach it over plain `http://`: an `https://` URL makes
+ * them attempt TLS to the proxy itself, and the connection fails.
+ */
+export const proxyUrl = (p) => `${p.protocol === "https" ? "http" : p.protocol}://${p.ip}:${p.port}`;
+
+/** Proxy URLs (see `proxyUrl`), for anything that takes a proxy URL directly. */
 export async function fetchProxyUrls(options = {}) {
   const rows = await fetchProxies(options);
-  return rows.map((p) => `${p.protocol}://${p.ip}:${p.port}`);
+  return rows.map(proxyUrl);
 }

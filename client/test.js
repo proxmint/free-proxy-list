@@ -9,7 +9,7 @@
  */
 import test from "node:test";
 import assert from "node:assert/strict";
-import { fetchProxies, ProxmintError } from "./index.js";
+import { fetchProxies, proxyUrl, ProxmintError } from "./index.js";
 
 const row = (n) => ({ ip: `1.2.3.${n % 256}`, port: 8080, protocol: "http", uptimePct: 99 });
 
@@ -103,4 +103,10 @@ test("rejects a nonsense limit before making a request", async () => {
   await assert.rejects(fetchProxies({ limit: 0 }), TypeError);
   await assert.rejects(fetchProxies({ limit: 2.5 }), TypeError);
   assert.equal(calls.length, 0, "must not hit the network to reject bad input");
+});
+
+test("https proxies get http:// URLs, the scheme clients reach them over", () => {
+  assert.equal(proxyUrl({ protocol: "https", ip: "1.2.3.4", port: 8080 }), "http://1.2.3.4:8080");
+  assert.equal(proxyUrl({ protocol: "http", ip: "1.2.3.4", port: 3128 }), "http://1.2.3.4:3128");
+  assert.equal(proxyUrl({ protocol: "socks5", ip: "1.2.3.4", port: 1080 }), "socks5://1.2.3.4:1080");
 });
