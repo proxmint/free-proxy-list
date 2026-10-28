@@ -1,0 +1,18 @@
+Package: proxmint
+Type: Package
+Title: Client for the 'Proxmint' Free Proxy List
+Version: 0.1.0
+Authors@R: c(
+    person("Priandhika", role = c("aut", "cre"), email = "support@proxmint.com"),
+    person("Proxmint", role = "cph"))
+Description: Fetches proxies from the 'Proxmint' free proxy list
+    <https://proxmint.com/free-proxies>, where every entry was checked with a
+    real request through it within the last 30 minutes. Filter by protocol,
+    country and anonymity, sort by score, latency, uptime or last check, and get
+    the result as a data frame or as proxy URLs.
+License: MIT + file LICENSE
+URL: https://proxmint.com/free-proxies, https://github.com/proxmint/free-proxy-list
+BugReports: https://github.com/proxmint/free-proxy-list/issues
+Depends: R (>= 4.1.0)
+Imports: jsonlite
+Encoding: UTF-8
