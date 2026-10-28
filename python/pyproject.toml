@@ -1,0 +1,42 @@
+[project]
+name = "proxmint"
+version = "0.1.0"
+description = "Free proxy list re-checked every 30 minutes, with rotating-proxy middleware for aiohttp and a rotating transport for httpx."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+authors = [{ name = "Proxmint", email = "support@proxmint.com" }]
+keywords = ["proxy", "proxies", "free-proxy", "proxy-list", "rotating-proxy", "aiohttp", "httpx", "socks5", "web-scraping"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Framework :: AsyncIO",
+    "Framework :: aiohttp",
+    "Programming Language :: Python :: 3",
+    "Topic :: Internet :: Proxy Servers",
+    "Topic :: Internet :: WWW/HTTP",
+]
+dependencies = []
+
+[project.optional-dependencies]
+aiohttp = ["aiohttp>=3.12"]
+httpx = ["httpx>=0.27"]
+
+[project.urls]
+Homepage = "https://proxmint.com/docs/python"
+Repository = "https://github.com/proxmint/free-proxy-list"
+Issues = "https://github.com/proxmint/free-proxy-list/issues"
+
+[dependency-groups]
+test = ["pytest>=8", "aiohttp>=3.12", "httpx>=0.27"]
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/proxmint"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
