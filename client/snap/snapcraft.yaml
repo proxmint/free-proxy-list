@@ -1,6 +1,6 @@
 name: proxmint
 base: core24
-version: "0.1.1"
+version: "0.1.2"
 summary: Free proxy list, re-validated every 30 minutes
 description: |
   proxmint prints proxies from the Proxmint free proxy list. Every entry was
@@ -34,8 +34,8 @@ parts:
   # The published npm tarball, so the snap ships exactly what npm users get.
   proxmint:
     plugin: dump
-    source: https://registry.npmjs.org/proxmint/-/proxmint-0.1.1.tgz
-    source-checksum: sha256/0c014033e6b8d463d7a21fa477d12a4ea4df3f3d6f8b08a728f6fcff98c457ad
+    source: https://registry.npmjs.org/proxmint/-/proxmint-0.1.2.tgz
+    source-checksum: sha256/67d2202bd5cc5c2a249d043b4d3b7075fb367cc145331e15a544b3a9fc25762d
     organize:
       "*": lib/proxmint/
   # Only the node binary: the CLI has no dependencies and doesn't need npm.
