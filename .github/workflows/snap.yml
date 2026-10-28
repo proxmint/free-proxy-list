@@ -1,0 +1,52 @@
+name: snap
+
+# Packs client/snap on amd64 and arm64 runners, then installs, runs and removes
+# the snap. With "push" ticked it also uploads both to the Snap Store and releases
+# them to stable (needs the SNAPCRAFT_STORE_CREDENTIALS secret from
+# `snapcraft export-login`).
+on:
+  workflow_dispatch:
+    inputs:
+      push:
+        description: Upload to the Snap Store and release to stable
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  snap:
+    strategy:
+      matrix:
+        runner: [ubuntu-24.04, ubuntu-24.04-arm]
+    runs-on: ${{ matrix.runner }}
+    defaults:
+      run:
+        working-directory: client/snap
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Install snapcraft
+        run: sudo snap install snapcraft --classic
+
+      - name: Pack
+        run: sudo snapcraft pack --destructive-mode
+
+      - name: Install, run, remove
+        run: |
+          sudo snap install --dangerous proxmint_*.snap
+          /snap/bin/proxmint --version
+          /snap/bin/proxmint -p socks5 -n 3
+          sudo snap remove proxmint
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snap-${{ runner.arch }}
+          path: client/snap/proxmint_*.snap
+
+      - name: Upload
+        if: inputs.push
+        env:
+          SNAPCRAFT_STORE_CREDENTIALS: ${{ secrets.SNAPCRAFT_STORE_CREDENTIALS }}
+        run: snapcraft upload --release=stable proxmint_*.snap
