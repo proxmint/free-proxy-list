@@ -1,0 +1,61 @@
+name: chocolatey
+
+# Packs client/chocolatey with the published npm tarball embedded, then installs,
+# runs and uninstalls it on Windows. With "push" ticked it also submits the
+# package to the Chocolatey Community Repository (needs the CHOCO_API_KEY secret).
+on:
+  workflow_dispatch:
+    inputs:
+      push:
+        description: Push to community.chocolatey.org
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: pwsh
+        working-directory: client/chocolatey
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Embed the npm package
+        run: |
+          [xml]$nuspec = Get-Content proxmint.nuspec
+          $version = $nuspec.package.metadata.version
+          Invoke-WebRequest "https://registry.npmjs.org/proxmint/-/proxmint-$version.tgz" -OutFile proxmint.tgz
+          (Get-FileHash proxmint.tgz -Algorithm SHA256).Hash
+          tar -xzf proxmint.tgz
+          Move-Item package tools/proxmint
+          Remove-Item proxmint.tgz
+          "VERSION=$version" >> $env:GITHUB_ENV
+
+      - name: Pack
+        run: choco pack proxmint.nuspec
+
+      - name: Install, run, uninstall
+        run: |
+          choco install proxmint --source "'.;https://community.chocolatey.org/api/v2/'" -y --no-progress
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          proxmint --version
+          proxmint -p socks5 -n 3
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          choco uninstall proxmint -y --no-progress
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          if (Get-Command proxmint -ErrorAction SilentlyContinue) { throw "shim left behind" }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: proxmint-nupkg
+          path: client/chocolatey/proxmint.${{ env.VERSION }}.nupkg
+
+      - name: Push
+        if: inputs.push
+        env:
+          CHOCO_API_KEY: ${{ secrets.CHOCO_API_KEY }}
+        run: choco push "proxmint.$env:VERSION.nupkg" --source https://push.chocolatey.org/ --api-key $env:CHOCO_API_KEY

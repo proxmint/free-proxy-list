@@ -1,0 +1,21 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+tools\proxmint holds the contents of the npm package proxmint 0.1.0, published
+by the software author:
+
+  https://registry.npmjs.org/proxmint/-/proxmint-0.1.0.tgz
+  SHA256 of the tarball: CBD8B850B21AB5462ED17E4DC7E7B526397DE248C256190D8A8F852BA3112C76
+
+To verify, download the tarball, extract it (the files are in its package/
+folder) and compare each file with Get-FileHash -Algorithm SHA256:
+
+  LICENSE       74FADC097DFC4EBF21C116F54EC5B499D7F6D1F37BD5C2D0FE0E98E4C39B7F9C
+  README.md     5AD6B9400F87ABF3895F79DABB9830C9E55CCC64981FC3054C734DAE797D7442
+  cli.js        5FB653B263D06486C9B62DDEBEA4B53BD6780EFF89F55777A5521E44D72D5FC0
+  index.d.ts    D161C1150DA92ED8CF05027AEB7B0F74D7A10613D45A102BE416DFC619BDEAEC
+  index.js      523F08DCE2F53F0E91678547FCBBA33B7FFF277796AF5C42127AA2135354EAB3
+  package.json  90493ECEA3814F483F414181E53896D51FAFDC74DF68C85C7EEAD41797801425
+
+The source is at https://github.com/proxmint/free-proxy-list/tree/main/client

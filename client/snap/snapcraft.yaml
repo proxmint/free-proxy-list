@@ -1,0 +1,51 @@
+name: proxmint
+base: core24
+version: "0.1.0"
+summary: Free proxy list, re-validated every 30 minutes
+description: |
+  proxmint prints proxies from the Proxmint free proxy list. Every entry was
+  checked with a real request through it within the last 30 minutes, and dead
+  ones are dropped. Filter by protocol (http, https, socks4, socks5), country
+  and anonymity, sort by score, latency, uptime or last check, and print
+  ip:port, protocol://ip:port or JSON. No API key or signup.
+
+    proxmint                          # 20 best, ip:port, one per line
+    proxmint -p socks5 -c de -n 50    # 50 German SOCKS5 proxies
+    proxmint --sort latency --url     # protocol://ip:port
+    proxmint --json                   # full rows
+license: MIT
+grade: stable
+confinement: strict
+website: https://proxmint.com/free-proxies
+contact: https://proxmint.com/support
+issues: https://github.com/proxmint/free-proxy-list/issues
+source-code: https://github.com/proxmint/free-proxy-list
+
+platforms:
+  amd64:
+  arm64:
+
+apps:
+  proxmint:
+    command: bin/node $SNAP/lib/proxmint/cli.js
+    plugs: [network]
+
+parts:
+  # The published npm tarball, so the snap ships exactly what npm users get.
+  proxmint:
+    plugin: dump
+    source: https://registry.npmjs.org/proxmint/-/proxmint-0.1.0.tgz
+    source-checksum: sha256/cbd8b850b21ab5462ed17e4dc7e7b526397de248c256190d8a8f852ba3112c76
+    organize:
+      "*": lib/proxmint/
+  # Only the node binary: the CLI has no dependencies and doesn't need npm.
+  node:
+    plugin: dump
+    source:
+      - on amd64: https://nodejs.org/dist/v22.23.4/node-v22.23.4-linux-x64.tar.xz
+      - on arm64: https://nodejs.org/dist/v22.23.4/node-v22.23.4-linux-arm64.tar.xz
+    organize:
+      LICENSE: share/doc/node/LICENSE
+    stage:
+      - bin/node
+      - share/doc/node/LICENSE

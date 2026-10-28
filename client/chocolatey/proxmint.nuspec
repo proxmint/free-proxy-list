@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>proxmint</id>
+    <version>0.1.0</version>
+    <title>Proxmint free proxy list (CLI)</title>
+    <authors>Proxmint</authors>
+    <owners>proxmint</owners>
+    <projectUrl>https://proxmint.com/free-proxies</projectUrl>
+    <iconUrl>https://proxmint.com/icon.png</iconUrl>
+    <copyright>2026 Proxmint</copyright>
+    <licenseUrl>https://github.com/proxmint/free-proxy-list/blob/main/client/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/proxmint/free-proxy-list/tree/main/client</projectSourceUrl>
+    <packageSourceUrl>https://github.com/proxmint/free-proxy-list/tree/main/client/chocolatey</packageSourceUrl>
+    <docsUrl>https://proxmint.com/free-proxies#api</docsUrl>
+    <bugTrackerUrl>https://github.com/proxmint/free-proxy-list/issues</bugTrackerUrl>
+    <tags>proxy proxies proxy-list free-proxy socks5 socks4 http https cli</tags>
+    <summary>Command-line client for a free proxy list re-validated every 30 minutes</summary>
+    <description><![CDATA[`proxmint` prints proxies from the Proxmint free proxy list. Every entry was checked with a real request through it within the last 30 minutes, and dead ones are dropped. No API key or signup.
+
+## Usage
+
+```
+proxmint                          # 20 best, ip:port, one per line
+proxmint -p socks5 -c de -n 50    # 50 German SOCKS5 proxies
+proxmint --sort latency --url     # protocol://ip:port
+proxmint --json                   # full rows as JSON
+```
+
+| Option | |
+|---|---|
+| `-p, --protocol` | `http`, `https`, `socks4`, `socks5` |
+| `-c, --country` | ISO 3166-1 alpha-2 code, e.g. `de` |
+| `-a, --anonymity` | `elite`, `anonymous`, `transparent` |
+| `-s, --sort` | `score`, `latency`, `uptime`, `checked` (default `score`) |
+| `-n, --limit` | how many to print (default 20) |
+| `--url` | print `protocol://ip:port` |
+| `--json` | full rows as JSON |
+
+Proxies go to stdout, one per line; messages and errors go to stderr. The public API allows 60 requests a minute per IP.
+]]></description>
+    <releaseNotes>https://github.com/proxmint/free-proxy-list/commits/main/client</releaseNotes>
+    <dependencies>
+      <dependency id="nodejs-lts" version="20.0.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
