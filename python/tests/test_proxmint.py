@@ -28,7 +28,7 @@ def stub_api(monkeypatch, total, status=200):
             raise urllib.error.HTTPError(req.full_url, status, "Nope", {}, None)
         page, size = int(q["page"]), int(q["pageSize"])
         start = (page - 1) * size
-        rows = [{"ip": f"10.0.0.{n % 256}", "port": 8080, "protocol": "http"} for n in range(start, min(start + size, total))]
+        rows = [{"ip": "10.0.0.1", "port": n, "protocol": "http"} for n in range(start, min(start + size, total))]
         return io.BytesIO(json.dumps({"rows": rows, "total": total}).encode())
 
     monkeypatch.setattr(proxmint.urllib.request, "urlopen", urlopen)
@@ -37,8 +37,8 @@ def stub_api(monkeypatch, total, status=200):
 
 def test_pages_past_the_200_row_cap(monkeypatch):
     calls = stub_api(monkeypatch, total=1000)
-    assert len(proxmint.free_proxies(limit=350)) == 350
-    assert [(c["page"], c["pageSize"]) for c in calls] == [("1", "200"), ("2", "150")]
+    assert [p["port"] for p in proxmint.free_proxies(limit=350)] == list(range(350))
+    assert [(c["page"], c["pageSize"]) for c in calls] == [("1", "200"), ("2", "200")]
 
 
 def test_stops_at_the_end_of_the_pool(monkeypatch):

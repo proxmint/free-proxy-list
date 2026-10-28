@@ -1,7 +1,7 @@
 Package: proxmint
 Type: Package
 Title: Client for the 'Proxmint' Free Proxy List
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Priandhika", role = c("aut", "cre"), email = "support@proxmint.com"),
     person("Proxmint", role = "cph"))

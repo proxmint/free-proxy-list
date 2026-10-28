@@ -1,7 +1,7 @@
 API <- "https://proxmint.com/api/free-proxies"
 # The server caps a page at 200 rows, so larger requests are paged.
 MAX_PAGE_SIZE <- 200
-UA <- "proxmint-r/0.1.1 (+https://proxmint.com/free-proxies)"
+UA <- "proxmint-r/0.1.2 (+https://proxmint.com/free-proxies)"
 
 free_proxies <- function(protocol = NULL, country = NULL, anonymity = NULL,
                          sort = c("score", "latency", "uptime", "checked"),
@@ -35,9 +35,10 @@ fetch_proxies <- function(protocol, country, anonymity, sort, limit) {
   frames <- list(as_proxy_frame(NULL))
   got <- 0
   page <- 1
+  size <- min(limit, MAX_PAGE_SIZE)  # fixed: the server skips (page - 1) * pageSize rows
   repeat {
     query <- c(protocol = protocol, country = country, anonymity = anonymity, sort = sort,
-               page = page, pageSize = min(limit - got, MAX_PAGE_SIZE))
+               page = page, pageSize = size)
     body <- get_json(paste0(API, "?", paste(names(query), query, sep = "=", collapse = "&")))
     if (NROW(body$rows) == 0) break
     frames[[page + 1]] <- as_proxy_frame(body$rows)

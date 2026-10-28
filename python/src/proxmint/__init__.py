@@ -14,7 +14,7 @@ import urllib.parse
 import urllib.request
 
 __all__ = ["ProxmintError", "free_proxies", "proxy_url", "proxy_urls"]
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 API = "https://proxmint.com/api/free-proxies"
 MAX_PAGE_SIZE = 200  # the server caps a page here, so larger requests are paged
@@ -49,6 +49,7 @@ def free_proxies(
         raise ValueError(f"limit must be a positive integer, got {limit!r}")
     out: list[dict] = []
     page = 1
+    size = min(limit, MAX_PAGE_SIZE)  # fixed: the server skips (page - 1) * pageSize rows
     while len(out) < limit:
         query = {
             "protocol": protocol,
@@ -56,7 +57,7 @@ def free_proxies(
             "anonymity": anonymity,
             "sort": sort,
             "page": page,
-            "pageSize": min(limit - len(out), MAX_PAGE_SIZE),
+            "pageSize": size,
         }
         url = f"{API}?{urllib.parse.urlencode({k: v for k, v in query.items() if v is not None})}"
         req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": UA})

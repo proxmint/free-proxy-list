@@ -11,7 +11,7 @@ const API = "https://proxmint.com/api/free-proxies";
 /** Server caps pageSize here, so anything larger has to be paged. */
 const MAX_PAGE_SIZE = 200;
 
-const UA = "proxmint-npm/0.1.1 (+https://proxmint.com/free-proxies)";
+const UA = "proxmint-npm/0.1.2 (+https://proxmint.com/free-proxies)";
 
 export class ProxmintError extends Error {
   constructor(message, status) {
@@ -43,6 +43,8 @@ export async function fetchProxies(options = {}) {
   const out = [];
   // The API caps a page at MAX_PAGE_SIZE, so a caller asking for more than that
   // would otherwise be silently truncated — the pool is bigger than one page.
+  // The page size stays fixed: the server skips (page - 1) * pageSize rows.
+  const pageSize = Math.min(limit, MAX_PAGE_SIZE);
   for (let page = 1; out.length < limit; page++) {
     const params = new URLSearchParams();
     if (protocol) params.set("protocol", protocol);
@@ -50,7 +52,7 @@ export async function fetchProxies(options = {}) {
     if (anonymity) params.set("anonymity", anonymity);
     if (sort) params.set("sort", sort);
     params.set("page", String(page));
-    params.set("pageSize", String(Math.min(limit - out.length, MAX_PAGE_SIZE)));
+    params.set("pageSize", String(pageSize));
 
     const res = await fetch(`${API}?${params}`, {
       headers: { accept: "application/json", "user-agent": UA },

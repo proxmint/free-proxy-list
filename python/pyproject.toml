@@ -1,6 +1,6 @@
 [project]
 name = "proxmint"
-version = "0.1.0"
+version = "0.1.1"
 description = "Free proxy list re-checked every 30 minutes, with rotating-proxy middleware for aiohttp and a rotating transport for httpx."
 readme = "README.md"
 license = "MIT"

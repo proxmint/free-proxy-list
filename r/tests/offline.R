@@ -28,3 +28,22 @@ stopifnot(
   identical(proxy_urls(NULL), character()),
   nrow(proxmint:::as_proxy_frame(NULL)) == 0
 )
+
+# Paging past the 200-row cap: the page size stays fixed, because the server skips
+# (page - 1) * pageSize rows. A stubbed API serves a pool of 1000.
+ns <- asNamespace("proxmint")
+calls <- character()
+unlockBinding("get_json", ns)
+assign("get_json", function(u) {
+  calls <<- c(calls, u)
+  page <- as.integer(sub(".*[?&]page=([0-9]+).*", "\\1", u))
+  size <- as.integer(sub(".*pageSize=([0-9]+).*", "\\1", u))
+  n <- (page - 1) * size + seq_len(max(0, min(size, 1000 - (page - 1) * size))) - 1
+  list(rows = data.frame(ip = rep("1.2.3.4", length(n)), port = n, protocol = rep("http", length(n))),
+       total = 1000)
+}, ns)
+stopifnot(
+  identical(free_proxies(limit = 350)$port, 0:349),
+  length(calls) == 2,
+  all(grepl("pageSize=200", calls))
+)

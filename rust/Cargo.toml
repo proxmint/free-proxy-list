@@ -1,0 +1,15 @@
+[package]
+name = "proxmint"
+version = "0.1.0"
+edition = "2021"
+description = "Free proxy list client: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies, each checked through a real request in the last 30 minutes"
+license = "MIT"
+homepage = "https://proxmint.com/free-proxies"
+repository = "https://github.com/proxmint/free-proxy-list"
+readme = "README.md"
+keywords = ["proxy", "free-proxy", "proxy-list", "socks5", "scraping"]
+categories = ["network-programming", "web-programming::http-client"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+ureq = { version = "3", features = ["json"] }

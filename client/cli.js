@@ -8,7 +8,7 @@
 import { parseArgs } from "node:util";
 import { fetchProxies, proxyUrl, ProxmintError } from "./index.js";
 
-const VERSION = "0.1.1";
+const VERSION = "0.1.2";
 
 const HELP = `
   proxmint — free proxies, re-validated every 30 minutes

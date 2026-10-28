@@ -11,7 +11,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { fetchProxies, proxyUrl, ProxmintError } from "./index.js";
 
-const row = (n) => ({ ip: `1.2.3.${n % 256}`, port: 8080, protocol: "http", uptimePct: 99 });
+const row = (n) => ({ ip: "1.2.3.4", port: n, protocol: "http", uptimePct: 99 });
 
 /** Stub fetch with a pool of `total` rows; records every URL requested. */
 function stubPool(total, { status = 200 } = {}) {
@@ -39,10 +39,10 @@ test.after(() => {
 test("pages past the API's 200-row cap", async () => {
   const calls = stubPool(1000);
   const rows = await fetchProxies({ limit: 350 });
-  assert.equal(rows.length, 350);
+  assert.deepEqual(rows.map((r) => r.port), Array.from({ length: 350 }, (_, i) => i), "no row twice, none skipped");
   assert.equal(calls.length, 2);
   assert.equal(calls[0].searchParams.get("pageSize"), "200");
-  assert.equal(calls[1].searchParams.get("pageSize"), "150", "second page asks only for the remainder");
+  assert.equal(calls[1].searchParams.get("pageSize"), "200", "a smaller second page would shift the server's offset");
 });
 
 test("stops at the end of the pool instead of looping forever", async () => {
