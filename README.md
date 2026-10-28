@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**1201 live proxies** · 92 countries · updated **2026-10-28 15:56 UTC**
+**1184 live proxies** · 91 countries · updated **2026-10-28 16:26 UTC**
 
 Every proxy in this list is re-tested every 30 minutes by a real HTTP
 request *through it* to our own echo endpoint — not pinged, not assumed. Every entry here last passed that test within **5.5 hours** (median 60 minutes).
@@ -11,24 +11,24 @@ download them.
 
 | | |
 |---|---|
-| Live now | **1201** |
-| Countries | 92 |
-| Median latency | 2785 ms |
+| Live now | **1184** |
+| Countries | 91 |
+| Median latency | 2829 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 1201 | `protocol://ip:port` |
-| [`proxies/http.txt`](proxies/http.txt) | 507 | `ip:port` |
+| [`proxies/all.txt`](proxies/all.txt) | 1184 | `protocol://ip:port` |
+| [`proxies/http.txt`](proxies/http.txt) | 497 | `ip:port` |
 | [`proxies/https.txt`](proxies/https.txt) | 46 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 419 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 229 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 742 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 1201 | country, anonymity, latency, uptime, score |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 418 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 223 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 731 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 1184 | country, anonymity, latency, uptime, score |
 
-Top countries: United States (180) · Indonesia (132) · Netherlands (101) · Switzerland (72) · Brazil (46) · India (38) · Russia (37) · China (33) · Thailand (32) · Germany (30)
+Top countries: United States (176) · Indonesia (127) · Netherlands (101) · Switzerland (71) · Brazil (45) · India (38) · Russia (36) · China (33) · Thailand (32) · Germany (30)
 
 ## Use it
 
@@ -60,6 +60,13 @@ pip install proxmint
 Rscript -e 'install.packages("proxmint", repos = c("https://proxmint.r-universe.dev", "https://cloud.r-project.org"))'
 ```
 
+Rust ([`rust/`](rust)) and Java 17+ ([`java/`](java), no dependencies):
+
+```bash
+cargo add proxmint
+# Maven/Gradle: com.proxmint:proxmint:0.1.0
+```
+
 ## Where these come from
 
 **We are not the origin of these proxies and do not claim to be.** Candidates are
@@ -69,10 +76,10 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 414 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 411 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 1 |
 | [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 311 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 475 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 461 |
 
 ## Fields in `all.json`
 
