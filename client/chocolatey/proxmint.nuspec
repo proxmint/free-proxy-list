@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>proxmint</id>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <title>Proxmint free proxy list (CLI)</title>
     <authors>Proxmint</authors>
     <owners>proxmint</owners>
