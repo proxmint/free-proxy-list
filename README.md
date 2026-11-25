@@ -1,6 +1,6 @@
 # Free Proxy List — checked every 30 minutes
 
-**1273 live proxies** · 102 countries · updated **2026-11-25 11:26 UTC**
+**1251 live proxies** · 101 countries · updated **2026-11-25 11:56 UTC**
 
 **Browse it live: <https://proxmint.com/free-proxies>** — the same list as a sortable table with country, protocol
 and anonymity filters, a page per country, and a free proxy checker. This repo is its
@@ -15,24 +15,24 @@ download them.
 
 | | |
 |---|---|
-| Live now | **1273** |
-| Countries | 102 |
-| Median latency | 2465 ms |
+| Live now | **1251** |
+| Countries | 101 |
+| Median latency | 2554 ms |
 | Re-validated | every 30 minutes |
 
 ## Files
 
 | File | Count | Format |
 |---|---|---|
-| [`proxies/all.txt`](proxies/all.txt) | 1273 | `protocol://ip:port` |
-| [`proxies/http.txt`](proxies/http.txt) | 454 | `ip:port` |
-| [`proxies/https.txt`](proxies/https.txt) | 50 | `ip:port` |
-| [`proxies/socks4.txt`](proxies/socks4.txt) | 608 | `ip:port` |
-| [`proxies/socks5.txt`](proxies/socks5.txt) | 161 | `ip:port` |
-| [`proxies/elite.txt`](proxies/elite.txt) | 823 | `protocol://ip:port`, no leak found |
-| [`proxies/all.json`](proxies/all.json) | 1273 | country, anonymity, latency, uptime, score |
+| [`proxies/all.txt`](proxies/all.txt) | 1251 | `protocol://ip:port` |
+| [`proxies/http.txt`](proxies/http.txt) | 438 | `ip:port` |
+| [`proxies/https.txt`](proxies/https.txt) | 49 | `ip:port` |
+| [`proxies/socks4.txt`](proxies/socks4.txt) | 607 | `ip:port` |
+| [`proxies/socks5.txt`](proxies/socks5.txt) | 157 | `ip:port` |
+| [`proxies/elite.txt`](proxies/elite.txt) | 818 | `protocol://ip:port`, no leak found |
+| [`proxies/all.json`](proxies/all.json) | 1251 | country, anonymity, latency, uptime, score |
 
-Top countries: Indonesia (172) · United States (84) · Brazil (80) · India (65) · China (52) · Russia (49) · Bangladesh (41) · Thailand (39) · Colombia (33) · Mexico (33)
+Top countries: Indonesia (165) · United States (82) · Brazil (78) · India (65) · China (50) · Russia (49) · Bangladesh (40) · Thailand (37) · Mexico (33) · Colombia (33)
 
 ## Use it
 
@@ -80,10 +80,10 @@ live entries each source contributed. Go star them:
 
 | Source | Live entries now |
 |---|---|
-| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 660 |
+| [monosans/proxy-list](https://github.com/monosans/proxy-list) | 646 |
 | [proxylist.geonode.com](https://proxylist.geonode.com) | 1 |
-| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 279 |
-| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 333 |
+| [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) | 275 |
+| [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) | 329 |
 
 ## Fields in `all.json`
 
